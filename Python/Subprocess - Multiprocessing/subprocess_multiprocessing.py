@@ -70,7 +70,8 @@ if __name__ == "__main__":
     with Pool(processes=1) as pool_executor:
         for image_loc in images_locations:
             print("Started processing")
-            pool_executor.apply_async(process_image, args=(image_loc,))
+            result = pool_executor.apply_async(process_image, args=(image_loc,))
+            result.wait()
             print("Ended processing")
     t3 = time.perf_counter()
     print(t3 - t2)
