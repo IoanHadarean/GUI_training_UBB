@@ -1,0 +1,12 @@
+# List pip packages
+pip3 list
+# Install python package
+pip3 install package_name==version
+# Put requirements in txt file
+pip3 freeze > requirements.txt
+# Install packages from requirements file
+pip3 install -r requirements.txt
+# Upgrade pip (usual error)
+pip3 install --upgrade pip
+# Ensure pip is installed
+python3/py -3 -m ensurepip --upgrade
