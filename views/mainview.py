@@ -1,5 +1,7 @@
 import os
+import time
 
+from PyQt6.QtCore import QThreadPool, QThread
 from PyQt6.QtWidgets import QApplication, QMainWindow, QMdiArea, QVBoxLayout, QWidget
 
 from models.mainmodel import MainModel
@@ -26,9 +28,27 @@ class MainView(object):
         self._main_widget = QWidget()
         self._main_widget.setProperty("class", "main-window-widget")
         self._main_widget.setLayout(self._main_layout)
+        self.pool = QThreadPool()
+        self.extractor = ExtractRestaurantsByCity(self.extract_data)
+        self.extractor.start()
+        self.extractor.finished.connect(self.thread_finished)
+
+    def extract_data(self):
+        for i in range(10):
+            print("Started")
 
     def show_gui(self):
         self._mainwindow.show()
 
     def run(self):
         return self._app.exec()
+
+
+class ExtractRestaurantsByCity(QThread):
+
+    def __init__(self, function):
+        super(ExtractRestaurantsByCity, self).__init__()
+        self.function = function
+
+    def run(self):
+        self.function()
