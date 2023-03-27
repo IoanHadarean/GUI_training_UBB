@@ -1,0 +1,4 @@
+https://lxml.de/
+https://www.w3schools.com/python/module_requests.asp
+https://realpython.com/intro-to-python-threading/#basic-synchronization-using-lock
+https://www.riverbankcomputing.com/static/Docs/PyQt6/module_index.html#ref-module-index
