@@ -3,13 +3,17 @@ import winreg
 
 class Utilities:
     @staticmethod
-    def add_to_windows_context_menu(filetype: str, registry_title: str, command: str, title: str = None):
+    def add_to_windows_context_menu(filetype: str, registry_title: str, command: str, title: str = None, icon_path : str=None):
         reg = winreg.OpenKey(winreg.HKEY_CURRENT_USER, "Software\\Classes", 0, winreg.KEY_SET_VALUE)
         k1 = winreg.CreateKey(reg, filetype)
         k2 = winreg.CreateKey(k1, "shell")
         k3 = winreg.CreateKey(k2, registry_title)
         k4 = winreg.CreateKey(k3, "command")
 
+        # set icon
+        if icon_path is not None:
+            print(icon_path)
+            winreg.SetValueEx(k3, "Icon", 0, winreg.REG_SZ, icon_path)
         if title is not None:
             winreg.SetValueEx(k3, None, 0, winreg.REG_SZ, title)
 

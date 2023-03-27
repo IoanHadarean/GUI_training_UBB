@@ -1,7 +1,16 @@
+import os
 import sys
+
+
+import ctypes
+
+if sys.platform.startswith("win"):
+    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID("Tazz-GUI")
 
 from views.mainview import MainView
 from models.mainmodel import MainModel
+
+os.chdir(r"C:\Users\hadarean\PycharmProjects\GUI_training_UBB")
 
 
 def main():

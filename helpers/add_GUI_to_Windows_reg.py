@@ -1,10 +1,6 @@
 import argparse
 
-
 from utils import Utilities
-
-python_path = r"C:\Program Files\Python39\python.exe"
-script_exe_path = r"C:\Users\hadarean\PycharmProjects\tazz_GUI\main.py"
 
 
 def main(script_exe_path: str) -> None:
@@ -15,6 +11,7 @@ def main(script_exe_path: str) -> None:
         registry_title="TazzGUI",
         command=start_toolkit_command,
         title="TazzGUI",
+        icon_path=r"C:\Users\hadarean\PycharmProjects\GUI_training_UBB\style\app.ico"
     )
     # Utilities.remove_windows_context_menu("Directory", "TazzGUI")
 
