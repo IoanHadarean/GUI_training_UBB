@@ -2,6 +2,7 @@ import os
 import time
 
 from PyQt6.QtCore import QThreadPool, QThread, QObject, pyqtBoundSignal, pyqtSignal
+from PyQt6.QtGui import QIcon
 from PyQt6.QtWidgets import QApplication, QMainWindow, QMdiArea, QVBoxLayout, QWidget
 
 from models.mainmodel import MainModel
@@ -20,6 +21,7 @@ class MainView(object):
         self._mainwindow.mdi = QMdiArea()
 
         self._mainwindow.setWindowTitle('Tazz Extractor')
+        self._mainwindow.setWindowIcon(QIcon("style/app.ico"))
 
         self._mainwindow.setGeometry(100, 100, 640, 627)
         self._mainwindow.move(30, 0)
