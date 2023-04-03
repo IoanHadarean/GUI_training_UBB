@@ -10,7 +10,7 @@ if sys.platform.startswith("win"):
 from views.mainview import MainView
 from models.mainmodel import MainModel
 
-os.chdir(r"C:\Users\hadarean\PycharmProjects\GUI_training_UBB")
+os.chdir(r"C:/Users/Alex/Desktop/GUI_training_UBB")
 
 
 def main():
