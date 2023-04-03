@@ -1,6 +1,5 @@
 import os.path
 
-import lxml.etree
 import requests as req
 import re
 from lxml import etree
@@ -9,7 +8,7 @@ from lxml import etree
 def get_Cities():
     url = "https://tazz.ro/"
     response = req.get(url)
-    tree = etree.parse(os.path.realpath("tazz_main_page.html"), etree.HTMLParser())
+    tree = etree.parse(os.path.realpath("../html/tazz_main_page.html"), etree.HTMLParser())
     root = tree.getroot()
     links = []
     for el in root.iter("li"):
