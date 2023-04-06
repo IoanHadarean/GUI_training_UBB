@@ -9,7 +9,7 @@ def call_GUI():
     app = QApplication(sys.argv)
     app.setStyleSheet('''
     QWidget{
-        font-size: 25px;
+        font-size: 15px;
     }
     QPushButton{
         font-size: 20px;

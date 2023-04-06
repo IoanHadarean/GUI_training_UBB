@@ -15,10 +15,12 @@ class MainPage(QWidget):
         main_layout = QVBoxLayout()
         self.setLayout(main_layout)
 
-        button = QPushButton()
+        button = QPushButton('Extract data')
+        button2 = QPushButton('View Data')
         self.output = QTextEdit()
 
         main_layout.addWidget(button)
+        main_layout.addWidget(button2)
         main_layout.addWidget(self.output)
 
 
