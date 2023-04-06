@@ -1,5 +1,9 @@
+import time
+
 from PyQt6.QtGui import QIcon
 from PyQt6.QtWidgets import QApplication, QMainWindow, QMdiArea, QVBoxLayout, QWidget, QPushButton, QTextEdit
+
+from Treaba_mea.Data_extraction import extract_restaurants, data_extraction_from_tazz
 
 
 class MainPage(QWidget):
@@ -14,13 +18,22 @@ class MainPage(QWidget):
 
         main_layout = QVBoxLayout()
         self.setLayout(main_layout)
+        self.output = QTextEdit()
 
         button = QPushButton('Extract data')
+        button.clicked.connect(self.extract)
         button2 = QPushButton('View Data')
-        self.output = QTextEdit()
 
         main_layout.addWidget(button)
         main_layout.addWidget(button2)
         main_layout.addWidget(self.output)
 
-
+    def extract(self):
+        x = data_extraction_from_tazz.get_Cities()
+        for i in x[0:4]:
+            city = i.split('/')[3]
+            self.output.append(f'Extracting from {city}')
+            extract_restaurants.get_html(i)
+            self.output.append(f'Extracting restaurants from {city}')
+            extract_restaurants.get_Restaurants_Per_city(i)
+            self.output.append(f'Done with {city}\n')

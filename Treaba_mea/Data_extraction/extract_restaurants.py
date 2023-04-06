@@ -1,4 +1,4 @@
-import data_extraction_from_tazz
+from Treaba_mea.Data_extraction import data_extraction_from_tazz
 import time
 from lxml import etree
 import requests as req
@@ -7,7 +7,7 @@ import requests as req
 def get_html(city_url):
     city = city_url.split('/')[3]
     tazz_response = req.get(f"https://tazz.ro/{city}/restaurante")
-    with open(f"../html/tazz_{city}.html", 'wb') as html_file:
+    with open(f"../Treaba_mea/html/tazz_{city}.html", 'wb') as html_file:
         html_file.write(tazz_response.content)
 
 
