@@ -12,7 +12,7 @@ def call_GUI():
         font-size: 15px;
     }
     QPushButton{
-        font-size: 20px;
+        font-size: 18px;
     }
     ''')
     window = MainPage()
