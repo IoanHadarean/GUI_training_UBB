@@ -94,7 +94,7 @@ class City_Window(QWidget):
         reset = QPushButton('Reset')
         reset.clicked.connect(self.reset)
         self.stars = QTextEdit(self)
-        self.stars.resize(600, 50)
+        self.stars.setMaximumHeight(30)
         self.layout.addWidget(button1)
         self.layout.addWidget(button2)
         self.layout.addWidget(button3)
@@ -135,11 +135,12 @@ class City_Window(QWidget):
         self.set_data(self.x)
 
     def set_data(self, x):
+        self.tableWidget.setRowCount(len(x))
+
         for ct, i in enumerate(x):
             self.tableWidget.setItem(ct, 0, QTableWidgetItem(i))
             self.tableWidget.setItem(ct, 1, QTableWidgetItem(x[i][0]))
             self.tableWidget.setItem(ct, 2, QTableWidgetItem(x[i][1]))
-        self.tableWidget.setRowCount(len(x))
         self.tableWidget.resizeRowsToContents()
         self.tableWidget.resizeColumnsToContents()
         self.tableWidget.horizontalHeader().setStretchLastSection(True)
