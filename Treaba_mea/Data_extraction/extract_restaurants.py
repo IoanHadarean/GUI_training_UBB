@@ -1,3 +1,5 @@
+import os
+
 from Treaba_mea.Data_extraction import data_extraction_from_tazz
 import time
 from lxml import etree
@@ -7,18 +9,18 @@ import requests as req
 def get_html(city_url):
     city = city_url.split('/')[3]
     tazz_response = req.get(f"https://tazz.ro/{city}/restaurante")
-    with open(f"../Treaba_mea/html/tazz_{city}.html", 'wb') as html_file:
+    with open(f"C:\\Users\\Alex\\Desktop\\GUI_training_UBB\\Treaba_mea\\html\\{city}.html", 'wb') as html_file:
         html_file.write(tazz_response.content)
 
 
 def get_Restaurants_Per_city(city_url):
     city = city_url.split('/')[3]
-    tree = etree.parse(f'html/tazz_{city}.html', etree.HTMLParser())
+    tree = etree.parse(f"C:\\Users\\Alex\\Desktop\\GUI_training_UBB\\Treaba_mea\\html\\{city}.html", etree.HTMLParser())
     root = tree.getroot()
     dict = {}
     for el in root.iter("div"):
         t = None
-        l = "Rating not found"
+        l = "N/A"
         deliv = None
         if el.attrib.get('class', None) == "store-info":
             if len(el.getchildren()) >= 2:
@@ -45,9 +47,8 @@ def start():
     #      get_Restaurants_Per_city(i)
 
     for rest in links:
+        get_html(rest)
         print(get_Restaurants_Per_city(rest))
         city = rest.split('/')[3]
         print(f"DONE WITH {city.upper()}")
-        time.sleep(2)
     #print(get_Restaurants_Per_city("https://tazz.ro/petrosani/restaurante"))
-

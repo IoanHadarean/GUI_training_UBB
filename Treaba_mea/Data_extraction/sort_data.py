@@ -1,5 +1,4 @@
-import extract_restaurants
-import data_extraction_from_tazz
+from Treaba_mea.Data_extraction import extract_restaurants,data_extraction_from_tazz
 
 
 def get_Dict(url):
@@ -7,15 +6,16 @@ def get_Dict(url):
 
 
 def sortINC_Name(dict):
-    names = list(dict.keys())
-    names.sort()
-    return names
-
+    x = list(dict.keys())
+    x.sort()
+    sorted_dict = {i: dict[i] for i in x}
+    return sorted_dict
 
 def sortDESC_Name(dict):
-    names = list(dict.keys())
-    names.sort(reverse=True)
-    return names
+    x = list(dict.keys())
+    x.sort(reverse=True)
+    sorted_dict = {i:dict[i] for i in x}
+    return sorted_dict
 
 def sortINC_City():
     x = data_extraction_from_tazz.get_Cities()
@@ -29,15 +29,13 @@ def sortDESC_City():
 
 def filter_by_stars(city_url,stars):
     l = extract_restaurants.get_Restaurants_Per_city(city_url)
-    print(l)
     x = []
     for i in l.keys():
-        if l[i][0] != 'Rating not found' and float(l[i][0]) >= stars:
+        if l[i][0] != 'N/A' and float(l[i][0]) >= stars:
             x.append(i)
-    return x
+    return {i:l[i] for i in x}
 
 def start():
-    for i in data_extraction_from_tazz.get_Cities():
-        print(filter_by_stars(i,4.8))
+    x = get_Dict("https://tazz.ro/alba-iulia/restaurante")
+    print(filter_by_stars("https://tazz.ro/alba-iulia/restaurante",4))
 
-start()

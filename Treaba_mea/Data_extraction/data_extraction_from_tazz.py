@@ -8,7 +8,9 @@ from lxml import etree
 def get_Cities():
     url = "https://tazz.ro/"
     response = req.get(url)
-    tree = etree.parse(os.path.realpath("html/tazz_main_page.html"), etree.HTMLParser())
+    with open('C:\\Users\\Alex\\Desktop\\GUI_training_UBB\\Treaba_mea\\html\\main_page.html', 'wb') as h:
+        h.write(response.content)
+    tree = etree.parse("C:\\Users\\Alex\\Desktop\\GUI_training_UBB\\Treaba_mea\\html\\main_page.html", etree.HTMLParser())
     root = tree.getroot()
     links = []
     for el in root.iter("li"):
@@ -22,4 +24,3 @@ def get_Cities():
     return links
 
 
-get_Cities()
