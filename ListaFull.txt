@@ -1,0 +1,5271 @@
+timisoara 
+Restaurant Livrare Stele 
+Fresh Kebab Iulius Mall 5.99 4.6 
+Hrana Pamantului 5.99 4.8 
+Fresh Kebab Centru 5.99 4.7 
+Dei Frati Timisoara 5.99 4.7 
+Restaurant Tinecz 5.99 4.7 
+Jack`s Bistro 5.99 4.6 
+Restaurant Nora  4.6 
+Tazz Republic Food Court Timisoara 5.99 4.2 
+McDonald`s Timisoara 9.99 None 
+KFC Timisoara 8.99 None 
+Fifty Five Bistro 5.99 4.8 
+Pizza Mediteraneo 5.99 4.7 
+Pulcinella Martirilor 5.99 4.7 
+La Bottega Timisoara 5.99 4.5 
+Gyroserie Timisoara 5.99 4.5 
+Burritos Guerrilla Timisoara 5.99 4.5 
+Zone Cafe 5.99 4.3 
+Coasta lu’ Bontea Timisoara 5.99 4.0 
+Zmura Fresh Timisoara 5.99 5.0 
+ALL DAY Food Journal 0 5.0 
+Velocita Timisoara 6.99 5.0 
+HasDe 5.99 4.9 
+Eat like a Man Timisoara 5.99 4.9 
+Restaurant Sabres 27 4.8 
+12Pizze 5.99 4.8 
+Vegline 5.99 4.8 
+Al Caminetto 5.99 4.8 
+Baz Burger 5.99 4.8 
+Mas Bistro 4 4.8 
+Pizzeria Vivace 5.99 4.8 
+Sushi Master Timisoara Sud 5 4.8 
+BIOfresh 8.99 4.8 
+Il Gelato di Bruno 5.99 4.8 
+Baltazar 5.99 4.8 
+Little Hanoi Restaurant 6.99 4.8 
+Ciolanarie 5.99 4.8 
+Say Cheese 5.99 4.8 
+Sloppy Joint 5.99 4.8 
+Panuozzo Napoletano 5.99 4.8 
+Restaurant Merlot 6.99 4.7 
+E10 Burgers 5.99 4.7 
+Hotline Pizza 5.99 4.7 
+Hoshi Sushi Bar & Wok 5.99 4.7 
+Clatite la tigaie 5.99 4.7 
+Pizzeria Tango 5.99 4.7 
+Pizzeria Restaurant delVecchio 5.99 4.7 
+Cofetaria DesserTime 6.99 4.7 
+Pizzeria San Marzano 5.99 4.7 
+Smoking Barbeque&Bar 5.99 4.7 
+Pizza2Go 5.99 4.7 
+Senneville Auchan Nord 5.99 4.7 
+NARU 5.99 4.7 
+Casa Dell`Amore Pizzium 7.99 4.7 
+Grill Sarbesc Pub 5.99 4.7 
+Burger Land 0 4.7 
+Famous Waffles Shopping City 5.99 4.7 
+Zaza Resto Pub 5.99 4.7 
+Fresh Kebab Girocului 5.99 4.7 
+Ribsody 5.99 4.7 
+Al Piano Pizzeria 5.99 4.7 
+Cartier 21/22  4.7 
+Anturaj 5.99 4.7 
+Billy Boy`s Pizza 5.99 4.7 
+Casa David Bistro 5.99 4.7 
+PapaMobil 5.99 4.7 
+Pizza Benitto 5.99 4.6 
+Bucatarul Stradal 5.99 4.6 
+Le Monelline 5.99 4.6 
+Urban King 5.99 4.6 
+Csíki Beer House 5.99 4.6 
+Bruck Cafe 5.99 4.6 
+Pastakio 5.99 4.6 
+Restaurant Atlantic 5.99 4.6 
+Sushi Master Timisoara 5 4.6 
+Cafeneaua Verde 5.99 4.6 
+Mesopotamia FUNSHOP PARK TIMISOARA 6.99 4.6 
+Dash Burgers 5.99 4.6 
+Hotel Vanilla - Restaurant Cucina Moderna 5.99 4.6 
+Ted`s Coffee CO Timisoara 5.99 4.6 
+The hungry bear 5.99 4.6 
+Sushi Ya 5.99 4.6 
+Homemade 5.99 4.6 
+Drunken Rat 5.99 4.6 
+Massimo Segafredo 5.99 4.6 
+Paradisul Piratilor 5.99 4.6 
+Pizzeria Macoletta 5.99 4.6 
+Mega Yummy Burger 5.99 4.6 
+Mesopotamia - Shopping City Timișoara 6.99 4.6 
+Berarescu 5.99 4.6 
+SushiVO Iulius Town 5.99 4.6 
+Noodle Pack Fun Shop Timisoara 5.99 4.6 
+Mr Poke Sun-Rice Hawaiian Bowls 5.99 4.6 
+Dopo Poco 5.99 4.6 
+Pizza Land 4.99 4.6 
+Miral Restaurant 5.99 4.6 
+Cheesy Pizza  4.6 
+Prime Burger Timisoara 5.99 4.6 
+Crazy Donut 5.99 4.6 
+Sandy’s Diner 5.99 4.6 
+Noodle Pack Shopping City Timisoara 5.99 4.6 
+Zestrea 5.99 4.6 
+Miorita 5.99 4.6 
+Usta Doner Torontalului 5.99 4.6 
+Restaurant Dinar 5.99 4.6 
+Winestone 5.99 4.6 
+Minna Fast Food 5.99 4.6 
+Cowboys 5.99 4.5 
+Jimmy Cooks 5.99 4.5 
+Balkan Bistro 5.99 4.5 
+Fun Slice Pizza 5.99 4.5 
+Manay Timisoara 5.99 4.5 
+Mimi`s Delices Creperie 5.99 4.5 
+FatMao 5.99 4.5 
+Tipsy Pig 5.99 4.5 
+Vinto 5.99 4.5 
+Benfast 5.99 4.5 
+Fresh Kebab Dumbravita 5.99 4.5 
+La Pizza Napoletana 5.99 4.5 
+Casa Antinori 5.99 4.5 
+Grill Sarbesc - Shopping City 5.99 4.5 
+Prime Restaurant  4.5 
+Fresca 5.99 4.5 
+Noodle Pack Iulius Mall Timisoara 5.99 4.5 
+Pizzeria Cora  4.5 
+Turkish Istanbul 5.99 4.5 
+Poke 5.99 4.5 
+Gratarul cu Staif 5.99 4.5 
+Restaurant Cuina 5.99 4.5 
+FriesHub  4.5 
+Tiffany`s 5.99 4.5 
+Antalya 5.99 4.5 
+Chopstix Ready to Box Timisoara 5.99 4.5 
+Trio Giroc 5.99 4.5 
+Mesopotamia - Iulius Mall Timisoara 6.99 4.5 
+BurgerHub  4.5 
+Cuptorul cu Lemne 5.99 4.5 
+Bella Italia 5.99 4.5 
+La Trattoria - Cucina Moderna 5.99 4.5 
+Whisper 5.99 4.5 
+La Petite Faim 5.99 4.5 
+Grill Sarbesc - Iulius Mall 5.99 4.5 
+Meat Busters 5.99 4.5 
+Subway Timisoara  4.5 
+Raku Sushi 5.99 4.5 
+Joy Pub 5.99 4.5 
+Burgers Mafia 5.99 4.5 
+Sky Restaurant 5.99 4.4 
+Vega Bega 5.99 4.4 
+La Riviera 5.99 4.4 
+Picante Pizzeria 5.99 4.4 
+PAPABOX Timisoara 5.99 4.4 
+Riviere Brasserie 5.99 4.4 
+Famous Waffles Iulius Mall 5.99 4.4 
+Pizza Hut Shopping City 8.99 4.4 
+La Falafel 5.99 4.4 
+Usta Doner Sagului 5.99 4.4 
+La Falafel Modern 5.99 4.4 
+Cowboys Iulius Gardens 5.99 4.4 
+HOTTIE 5.99 4.4 
+Cartofisserie - Iulius Mall Timisoara 5.99 4.4 
+Mado Timisoara Iulius Mall 5.99 4.4 
+In Thyme 5.99 4.4 
+Pizzeria Maschino 4.99 4.4 
+Sweetie Bubble Waffle 5.99 4.4 
+Pizza Casa del Sole 5.99 4.4 
+Hangry Monkey 5.99 4.4 
+Restaurant Casa del Sole 5.99 4.4 
+Casa Bunicii Dumbravita 5.99 4.4 
+La vendetta by Hotel Boavista 5.99 4.4 
+Paparoni Macaroni 5.99 4.4 
+Manay Iulius Mall 5.99 4.4 
+Sis Kebab Lipovei 5.99 4.4 
+Casa Bunicii 5.99 4.4 
+Burghezia 5.99 4.4 
+SHAZELLI 5.99 4.4 
+3Gatti 5.99 4.4 
+Pizza Paparazzi  4.4 
+Hype Culture 5.99 4.4 
+BunaBuna  4.4 
+TOP G`BURGERS 5.99 4.4 
+Daily 5.99 4.4 
+Cartofisserie Timisoara - Shopping City 5.99 4.4 
+Sis Kebab Unirii 5.99 4.3 
+Fenice 5.99 4.3 
+Pop`s 5.99 4.3 
+Quick smile coffee  4.3 
+Tik-Tasty Mexican 5.99 4.3 
+Grill to Chill 5.99 4.3 
+Dabo Doner Iulius Mall Timisoara 5.99 4.3 
+COCO ASIA 5.99 4.3 
+Mozaic Indian Food 5.99 4.3 
+Kartoffel 5.99 4.3 
+Chopstix Iulius Timisoara 5.99 4.3 
+Fast Food Roy 5.99 4.3 
+Irish Public House 5.99 4.3 
+Restaurant Monalisa 5.99 4.3 
+7Spices 5.99 4.3 
+Restaurant Gloria 1.99 4.3 
+Pizzeria la Maria 0 4.2 
+Shawarma City 5.99 4.2 
+La Trattoria Bistro&Lounge 5.99 4.2 
+Shaormazz 5.99 4.2 
+Thalia Lipovei 0 4.2 
+Magic Cuisine&Pizza 5.99 4.2 
+Restaurant Pepper Steak&Shake 5.99 4.2 
+Falafel Food 5.99 4.2 
+Fabrika 5.99 4.2 
+The Cheesy Way Timisoara 5.99 4.2 
+The Tube Gastropub 5.99 4.2 
+Magic Pizza Timisoara 5.99 4.2 
+Pizzarella 5.99 4.2 
+Pizza Hut Timisoara Iulius 8.99 4.2 
+British Pub 5.99 4.2 
+Fast Pizza 5.99 4.2 
+Napoleon 5.99 4.2 
+Rigatoni Pasta Bar Iulius Town 5.99 4.2 
+Pizza Vero 0 4.2 
+Delicious Time 5.99 4.2 
+Marele Zid Chinezesc 8 4.2 
+Manufaktura Timisoara 5.99 4.2 
+Casa Uno 5.99 4.2 
+Quick smile coffee Cavaleriei  4.2 
+Jay Bubble Tea Iulius Mall 5.99 4.2 
+Restaurant Flonta 5.99 4.1 
+Wasabi Running Sushi Timisoara 5.99 4.1 
+C House Milano Timisoara 5.99 4.1 
+Shock Kebab Circumvalatiunii 5.99 4.1 
+Posh 5.99 4.1 
+Hype Burger House 5.99 4.1 
+Kindery 5.99 4.1 
+Dante`s Pizza & Grill 5 4.1 
+Guau Cafe Y Pan Iulius Town 6.99 4.1 
+La Pinocchio 1.99 4.1 
+Yummy Shawarma  4.1 
+Pensiunea Zefir 5.99 4.1 
+Burger 100% Original 5.99 4.0 
+Nuba Town 5.99 4.0 
+Corallo 5.99 4.0 
+Pan Rusovan 5.99 4.0 
+Burgers & Shakes 5.99 4.0 
+Restaurant Aragosta 5.99 4.0 
+Pan Rusovan Grill food pe carbuni 5.99 4.0 
+One Pub Shisha 5.99 4.0 
+Stradivarius 5.99 4.0 
+SHAORMA LA BAROSANA 5.99 4.0 
+The Fisher by Chef Daian 5.99 3.9 
+Pizza 5 colturi Timisoara 0 3.9 
+Vikings Carne pe jar Timisoara 5.99 3.9 
+Pizzeria Poli 0 3.9 
+Miral Fast Food 5.99 3.9 
+Union Pub 5.99 3.9 
+100% Original Shaorma si Pleskavita 5.99 3.9 
+Students Pub 5.99 3.9 
+Istanbul 2 5.99 3.8 
+Pizza Nuova Mama Mia 4.99 3.8 
+Signature Restaurant 5.99 3.7 
+Restaurant Ialidi 0 3.7 
+Pe Jar Chisoda 14.99 3.7 
+SHAORMA LA BAROSANA JUDETEAN 5.99 3.7 
+Terasa L`Amorosa Pizzeria Bistrot 5.99 3.6 
+Hello Bistro 5.99 3.6 
+ZHH 5.99 3.6 
+La Conac 14.99 3.5 
+Danez Food House 5.99 3.5 
+Lake House 14.99 3.5 
+La Livada Banateana by Nora 4.99 3.5 
+Cucina Toscana 14.99 3.4 
+Restaurant Jack 4.99 3.1 
+Starbucks® Timisoara 8.99 None 
+Salad Box Timisoara 6.99 None 
+Jumbo Pizza 1.99 3.0 
+Spartan Timisoara 6.99 None 
+Pizza2Go Mosnita 5 None 
+The Tasty Fast Food 5.99 None 
+City Kebab 5.99 None 
+Sare si piper 5.99 None 
+Pizza Notte 5.99 None 
+La Sarmale Banatene 0 3.0 
+Paso Local Cuisine 5.99 None 
+Fratello 5.99 None 
+Pizzeria Celentano 0 2.7 
+La Valeriu 5.99 1.7 
+Alma Gelato 5.99 5.0 
+Urban Monkey - Timisoara 5.99 5.0 
+Sucitorul Fermecat 5.99 5.0 
+Escoburgers  5.0 
+Yamy Bistro 5.99 4.9 
+Ovride Specialty Coffee 5.99 4.9 
+GranulR Coffee 5.99 4.9 
+Suppa Bar 5.99 4.9 
+DetoxMed 5.99 4.9 
+Food Gourmet Caravan 5.99 4.9 
+Fast Food by Angi 5.99 4.9 
+Cofetaria Nusi 5.99 4.9 
+Cooperativa FRUFRU - Timisoara 5.99 4.8 
+Gyros Box Dumbravita 5.99 4.8 
+Taste of Bali 5.99 4.8 
+Green Aware 5.99 4.8 
+Fast Food & Langosi Piata Mehala 5.99 4.8 
+Food Corner 5.99 4.8 
+Cofetaria Nusi & Bistro 5.99 4.8 
+Coffeerize Botanic 5.99 4.8 
+Cofetaria Naomi 5.99 4.8 
+Rion`s Bistro 5.99 4.7 
+Yugoslavia 5.99 4.7 
+Coffeerize Specialty Coffee Buziasului 5.99 4.7 
+Guau Cafe y Pan 6.99 4.7 
+Bun Burger 5.99 4.7 
+Piccola Italia 5.99 4.7 
+Bubble Waffles Timisoara 5.99 4.7 
+Il Classico 5.99 4.7 
+LifeBowls 5.99 4.7 
+Covrigaria Pretzellino Euro 5.99 4.7 
+Mononom 5.99 4.7 
+EL MAGUEY - Authentic Tacos & Burritos 5.99 4.7 
+Senneville Gheorghe Lazar 5.99 4.7 
+Olive Bistro 5.99 4.7 
+La Turcu Kebab 5.99 4.7 
+ChilliBaar 5.99 4.7 
+Unique Events 5.99 4.7 
+El Vacio 5.99 4.7 
+The Sandwich Factory 5.99 4.6 
+Cofetaria Naomi Traian 5.99 4.6 
+Enjoy Piata Unirii 5.99 4.6 
+Ama Bistro 5.99 4.6 
+Fropin 5.99 4.6 
+Neata Omelette Bistro 5.99 4.6 
+Lider Kebap 5.99 4.6 
+Musetti D`oro 5.99 4.6 
+Mega Pint by Casa Moc 5.99 4.6 
+Layali Bistro 5.99 4.6 
+Covrigaria Pretzellino 5.99 4.6 
+Bukateria by Hotel Torontal 5.99 4.6 
+Pita Carne Giroc 5.99 4.6 
+La Oblon by Brasserie Mosnita 5.99 4.6 
+Pret-a-manger  4.6 
+The Station Pub Pizza 5.99 4.6 
+Nora Grill 5.99 4.6 
+Curtea Berarilor Timisoreana 5.99 4.5 
+Cinque Terre 5.99 4.5 
+3F Complex Studentesc  4.5 
+Restaurant Ramina 5.99 4.5 
+Falafel King Centru 5.99 4.5 
+Casa Bucatarilor 5.99 4.5 
+La Pinocchio Unirii 5.99 4.5 
+Captain Bean Timisoara 5.99 4.5 
+Senneville - Lipovei 5.99 4.5 
+Osso 5.99 4.5 
+Harold`s 5 4.5 
+Papa Sam 5.99 4.5 
+George`s Snack Hut 5.99 4.5 
+Gradina Banateana 5.99 4.5 
+Upside Timisoara 5.99 4.5 
+Pauza Mica by Selgros Timisoara 5.99 4.4 
+Chang Cheng 5.99 4.4 
+Restaurant Pizzerie Insula 5.99 4.4 
+Agil - Hot Grill Mehala 5.99 4.4 
+O Banateanca 5.99 4.4 
+Bistro 700 5.99 4.4 
+Burger Hunt 5.99 4.4 
+3F Iulius Mall  4.4 
+Sis Kebab 5.99 4.4 
+Pizza No.1 5.99 4.4 
+Foody 5.99 4.4 
+Like Pub 5.99 4.4 
+Terasa The Bird 5.99 4.4 
+Thalia Soarelui 0 4.4 
+Trattoria con Amore 5.99 4.4 
+JUNO PIZZA 5.99 4.3 
+Falafel King Iulius Town 5.99 4.3 
+Coppa Food&Drinks 5.99 4.3 
+Cofetaria Dana Lupeasca 5.99 4.3 
+Brasserie Giroc 5.99 4.3 
+La Ceaune 5.99 4.3 
+Karadorde 6.99 4.3 
+La Halit Autentic Turcesc 5.99 4.3 
+Taco Bell Timisoara 8.99 4.3 
+Atelierul de ciorbe 5.99 4.3 
+The Station Pub 5.99 4.2 
+Gustosa 6.99 4.2 
+Greek Mam 5.99 4.2 
+Gardene 5.99 4.2 
+Black Wolf Coffee 5.99 4.2 
+Restaurant Caprice 4.99 4.2 
+Brasserie Dumbravita 5 4.2 
+Gurmandos 5.99 4.2 
+Taverna Bucatarului 5.99 4.2 
+Buna ziua 5.99 4.2 
+Baz Grill Romanian Food 5.99 4.1 
+Restaurant Public 5.99 4.1 
+PIZZA JOY 5.99 4.1 
+Meet&Meat by La Falafel 5.99 4.1 
+Gustari Magice 5.99 4.1 
+Jarvis Pub 5.99 4.1 
+Cairo Kebab 5.99 4.1 
+Aristocrat Bistro 5.99 4.1 
+Delish Bistro 5.99 4.1 
+PIZZA CA-N BANAT 5.99 3.9 
+Pentru ca 5.99 3.9 
+La Fabian si Alessia 5.99 3.7 
+Pizzeria La Vendetta 5.99 3.3 
+Peppino Gheorghe Lazar 5.99 3.1 
+COOPERATIVA FRUFRU ULTRA FRESH Timisoara 5.99 None 
+GUAU Cafe y pan Lipovei 6.99 None 
+Cuptorul pe aburi 1.99 None 
+Five Sandwiches 0 None 
+Chicken House Timisoara 5.99 None 
+FABRICA DE PIZZA 5.99 None 
+Delicii Secrete 5.99 None 
+Siesta Pizza & Grill 5.99 None 
+MOKUM CAFE 5.99 None 
+Jaklin Cake 5.99 None 
+Pastravaria Ardeleana 19.99 None 
+Creative 5.99 None 
+Karo 5.99 None 
+Fuoco Vivo 5.99 None 
+Grill Dacia 5.99 None 
+cluj-napoca 
+Restaurant Livrare Stele 
+Express Chef 0 4.5 
+Grande 0 4.4 
+Big Belly Cluj 0 4.4 
+Samsara 5.99 4.4 
+McDonald`s Cluj 9.99 None 
+Nobil Sushi 0 None 
+Dei Frati Cluj Napoca 5.99 4.6 
+Tazz Republic Food Court Cluj 5.99 4.5 
+Burritos Guerrilla Cluj 5.99 4.4 
+Don Pasquale 4.99 4.3 
+/FORM Cafe 5.99 4.2 
+Coasta lu’ Bontea Cluj 5.99 4.1 
+KFC Cluj 8.99 None 
+Gyroserie Cluj-Napoca 5.99 4.5 
+Fresh Kebab Cluj-Napoca 5.99 4.5 
+Pizza Hut Delivery Cluj Centru 8.99 4.3 
+Taco Bell Iulius Cluj 8.99 4.3 
+Pizza Hut Delivery Cluj Cora 8.99 4.2 
+Pizza Hut Cluj Iulius 8.99 4.1 
+The Cheesy Way Cluj 5.99 4.0 
+Pizza Hut VIVO 8.99 3.8 
+Rosa 6.99 None 
+Crispy Store Cluj 6.99 None 
+Noodle Pack Cluj-Napoca 6.99 None 
+Jerry`s Pizza Cluj Napoca 6.99 4.3 
+GARLIC Delivery 5.99 5.0 
+Znob Pizza Floresti 5 5.0 
+Apetit Catering - Meniul din suflet 0 5.0 
+Color Pizza 0 5.0 
+Meat Up Floresti 5.99 4.9 
+Ronin Sushi delivery 0 4.9 
+Sushi HATO - The Japanese Experience 7.99 4.9 
+Mint Bistro 5.99 4.8 
+Sushi Factory 5.99 4.8 
+Pizzeria Prova Floresti 0 4.8 
+SIP TASTY FOOD 5.99 4.8 
+Lucky Noodles 5.99 4.8 
+Ucraina food 5.99 4.8 
+Kebapci 5.99 4.8 
+Hummus Wrap 5.99 4.8 
+Pastellini 5.99 4.7 
+Taste of Asia Chef Cuisine 5.99 4.7 
+Gelateria Bulevard M 5.99 4.7 
+Little Hanoi Restaurant 5.99 4.7 
+Magic Coco 5.99 4.7 
+Homemade Pizza 5.99 4.7 
+Sisters 5.99 4.7 
+Magic Sushi 5.99 4.7 
+VegEatUp! 5.99 4.7 
+Tacos Cartel 5.99 4.7 
+Pizzeria Bianco  4.7 
+Storia Cucina Centrale Floresti 0 4.7 
+Gloria Jeans` Coffees 5.99 4.7 
+Sopra Experience 5.99 4.7 
+Cugini Pizza 5.99 4.7 
+El-Melek Food 5.99 4.7 
+Wok` n Roll Floresti 0 4.7 
+California Burger (Floresti) 5.99 4.6 
+UNTOLD Magic Burger 5.99 4.6 
+Yep `n Yo 5.99 4.6 
+MEATinc. 5.99 4.6 
+Sandwich Shop 5.99 4.6 
+Roata 5.99 4.6 
+London Brothers Pizza 5.99 4.6 
+Sisters Pizza 5.5 4.6 
+Meat Up 5.99 4.6 
+Gemellini 5.99 4.6 
+Pablito 5.99 4.6 
+Ciao Ragazzi 5.99 4.6 
+The Masters 5 4.6 
+Eggo - this is how we brunch 5.99 4.6 
+Znob Pizza 5.99 4.6 
+Gandhi  4.6 
+Crunchy Pizza 5.99 4.6 
+Ronin Sushi 4.99 4.6 
+Bussola 5.99 4.6 
+Poco Loco Floresti 3 4.6 
+La Casa Delivery Sweets Vivo! 5.99 4.6 
+Thessaly Greek Taverna 5.99 4.6 
+Antica Pizza Cluj 5 4.5 
+Gentlemen`s Bistro & Sports Bar 5.99 4.5 
+Pizzarelli-Pizza Bar 5.99 4.5 
+Storia Cucina Centrale Cluj 4.99 4.5 
+Barbacoa S.M.O.K.E.R. 5.99 4.5 
+Bear King Cluj 5.99 4.5 
+Mates Pub 5.99 4.5 
+Schnitzel on Wheels 5.99 4.5 
+Il Forno 5.99 4.5 
+London Brothers 5.99 4.5 
+Double Cheese Floresti 3 4.5 
+Wasabi Sushi Delivery Cluj 0 4.5 
+Romanian Burger BBQ  4.5 
+Pizzarelli Strada 5.99 4.5 
+Rosa Pizzerie Florești 5.99 4.5 
+Yep `n Yo Vivo 5.99 4.5 
+Pizzerie - Delivery Marco Polo 5.99 4.5 
+La Ayan 5.99 4.5 
+Pasta la Vista Centru 5.99 4.5 
+Indigo 0 4.5 
+Captain Burger 5 4.5 
+Irish & Music Pub 5.99 4.5 
+Donuterie Iulius Mall Cluj 5.99 4.5 
+Cut & Crust Grigorescu 5.99 4.5 
+Vagabundos Food Truck 5.99 4.5 
+Cofetaria Olympos 5.99 4.5 
+Deliciul Urban Pizza&Food Delivery 5.99 4.5 
+Pasta la Vista Zorilor 5.99 4.5 
+Hi Sushi 5.99 4.5 
+The Food Station Grill  Pasta 5.99 4.5 
+Makeba 5.99 4.5 
+La Casa Delivery Vivo 5.99 4.5 
+The Griddle 5.99 4.5 
+Mado Cluj Iulius Mall 5.99 4.4 
+Jay Bubble Tea Vivo 5.99 4.4 
+Marhaba Lebanese Restaurant 5.99 4.4 
+Napoli Centrale 5.99 4.4 
+Papa Land Floresti 5.99 4.4 
+Daniel Berar Restaurant/Pizerie 5.99 4.4 
+Yummy Yang Vivo - Cluj 5.99 4.4 
+Cook Out 5.99 4.4 
+Sorriso Bistro 5.99 4.4 
+Wasabi Sushi Delivery Vivo - Cluj 0 4.4 
+Restaurant Shanghai 5.99 4.4 
+Austrian Taste Iulius Parc (Foodtruck Servus) 5.99 4.4 
+Pizzeria Paulino 0 4.4 
+Easy Chilli Floresti 3 4.4 
+Jay Bubble Tea Iulius Mall 5.99 4.4 
+Mesopotamia - Centrul Comercial Vivo 6.99 4.4 
+Pizzeria Venezia 5.99 4.4 
+Tasty Delivery 5.99 4.4 
+20 Pizza 5.99 4.4 
+Mona Pizza Cluj 5.99 4.4 
+Mesopotamia - Cluj 6.99 4.4 
+Holy Cannoli 4.99 4.4 
+Austrian Taste Centru 5.99 4.4 
+Artizan Pizza 5.99 4.3 
+Cartofisserie - Iulius Mall Cluj-Napoca 5.99 4.3 
+Rummu Bistro 5.99 4.3 
+The Crunchery 5.99 4.3 
+Power Fresh Food 5.99 4.3 
+Pizza Spaghetti Rex 5.99 4.3 
+La Tina Bistro 5.99 4.3 
+Mado Cluj Vivo Mall 5.99 4.3 
+Cut & Crust Gheorgheni 5.99 4.3 
+Motor Rock Bistro 5.99 4.3 
+Wok` n Roll 4.99 4.3 
+Black Out 5.99 4.3 
+Darius Pizza 3 4.3 
+Visuin 5.99 4.3 
+Deliciul Urban Pizza&Food 0 4.3 
+Faretti 5.99 4.3 
+Casa Dacilor 0 4.3 
+Cartofisserie - Vivo! Cluj 5.99 4.3 
+Burger House Delivery 5.99 4.3 
+Gustador 5.99 4.2 
+The Doner Place - by Doner Maxx 5 4.2 
+Apropo Bistro 5.99 4.2 
+Perfetto Cucina Italiana 6.99 4.2 
+Cartofisserie-Unirii Cluj 5.99 4.2 
+Twelve by brava 5.99 4.2 
+Smash Food 5.99 4.2 
+Pizza Deville Delivery 5.9 4.2 
+Perfetto Pizza Italiano 6.99 4.2 
+Sushi Master- Cluj 5.99 4.2 
+Hello Sushi 5.99 4.2 
+Wasabi Sushi Delivery Iulius Mall 0 4.2 
+Cupidon Pizza 4.99 4.2 
+The Classic 5.99 4.2 
+Pizza Slice 3.99 4.2 
+Papa Land 5.99 4.2 
+JB Burger by La Tina 5.99 4.2 
+Pokka 5.99 4.2 
+Mother Pizza 5.99 4.2 
+The Place Floresti 5.99 4.2 
+Rigatoni Pasta Bar Cluj 5.99 4.1 
+London Brothers Delivery 6.99 4.1 
+Verro Kitchen 5.99 4.1 
+Sushi on Fire 5.99 4.1 
+Bistro 1568 5.99 4.1 
+Marty Delivery 0 4.1 
+Apartament 1 Bistro 5 4.1 
+Klausen Burger Brewery 0 4.1 
+Baghetaria 5.99 4.1 
+Piemonte Pizza 0 4.1 
+Easy Chilli 0 4.1 
+Bistro Capriccio 5.99 4.1 
+Pizzeria District 3.99 4.1 
+I Love Eat 0 4.1 
+Marty Delivery-Sports 0 4.1 
+Pratta Restaurant 4.99 4.1 
+Pizza Square 5.99 4.1 
+Beluga 5.99 4.1 
+Burgers n’Fries Forever (BFF) 5.99 4.1 
+My Day 0 4.1 
+Paste de Casa Rex 5.99 4.1 
+Zucca Bistro 5.99 4.1 
+Atelierul de Pizza 0 4.1 
+Crispyteria 5.99 4.1 
+Pizzeria Trattoria D`Autore 6.99 4.0 
+Poco Loco 0 4.0 
+New Age Pizza 0 4.0 
+New Croco Pizzerie & Restaurant 0 4.0 
+Pizza Tortilla By Pokka 5.99 4.0 
+Bistro Napoca delivery 5.99 4.0 
+Engels District 5.99 4.0 
+Marty West Side 0 4.0 
+Arta - Atelier de dulce 5.99 4.0 
+Doner Kebab & Grill 5.99 4.0 
+Döner & Shawarma by Sultan 5.99 3.9 
+Los Toreros 5.99 3.9 
+Premium Pizza Cluj 10 3.9 
+Pizzeria Ramino 3.99 3.9 
+Perfetto Pasta Italiano 6.99 3.9 
+Pizza Square Floresti 5.99 3.9 
+Braserie - La Mistic 5.99 3.9 
+Sushi Mania 5.99 3.9 
+Inizio Bistro 5.99 3.9 
+Dabo Doner Unirii Cluj 5.99 3.9 
+Klausen Burger Brewery Floresti 5 3.9 
+JAR - ceaune de casă 5.99 3.9 
+Zucca City Bistro 5.99 3.9 
+Bella Italia Cluj 5.99 3.8 
+Sultan 6.99 3.8 
+Cheesy Pasta Cluj Napoca 5.99 3.8 
+Ikura Sushi-Cluj Napoca 8 3.7 
+Casa Vikingilor 5.99 3.7 
+Freschissima Iulius Mall 5.99 3.7 
+Pop Pizza 3.99 3.7 
+SushiVo Cluj 5.99 3.7 
+Napoca Pizza 5.99 3.7 
+La Tina Pizza 5.99 3.7 
+Bistro Napoca 7 3.7 
+Double Cheese 0 3.6 
+Pizza Land Cluj 3.99 3.6 
+Napoca Pizza Floresti 5.99 3.6 
+Bruto 6.99 3.5 
+Nobless 6 3.4 
+JAR ceaune de casa delivery 5.9 3.4 
+Burger Supreme 5.99 3.4 
+Pizza & Paste 5 3.2 
+Klausen Pubhouse 5.99 3.1 
+Engels City 5.99 3.0 
+Subway Cluj 6.99 None 
+Starbucks Cluj-Napoca 8.99 None 
+PiZZareLLa 5.99 3.0 
+Lemnul Verde Cluj 6.99 None 
+Barbar Store Cluj 6.99 None 
+The Store Cluj 6.99 None 
+Salad Box Cluj 6.99 None 
+Spartan Cluj 6.99 None 
+Euphoria Cluj 6.99 None 
+Nobless Delivery 5.99 None 
+PelPenn African cuisine 5.99 None 
+Lunch box from Lunchbox Cluj-Napoca 5.99 None 
+Marhaba Steak Breakfast Restaurant 5.99 None 
+Faretti Delivery 5 None 
+Apropo Pizza 5.99 None 
+Crispy and More by Marrakech 5.99 None 
+Stradale Cluj-Napoca 6.99 None 
+Mama Manu Cluj-Napoca 6.99 None 
+MaviD Pizza Delivery 5.99 None 
+Roast Burger 5.99 None 
+Pizza Party Floresti 3.99 2.9 
+Jaxx 5.99 4.6 
+Apetit Catering 0 4.8 
+New York Bagels 5.99 4.8 
+Rawana 10 5.0 
+Urban Monkey - Cluj-Napoca 5.99 5.0 
+Huma Bistro 5.99 5.0 
+Croque Art  4.9 
+Dacbarbar 5.99 4.9 
+Back to Davinci 5.99 4.9 
+Moritz Eis Eroilor 5.99 4.9 
+Rochelle Restaurant & Pub 5.99 4.8 
+Mon Gourmet Cluj 5.99 4.8 
+Doo It - Mâncare de post şi vegetariană 5.99 4.8 
+Casola Cuisine 5.99 4.8 
+Bunt Bistro 5.99 4.8 
+Very Burger 5.99 4.8 
+The Empanadas Factory 5.99 4.8 
+La Nu Stiu Cine 5.99 4.8 
+Asalt Food Truck 5.99 4.8 
+La Parmigiana 5.99 4.8 
+Sushi Omakase 6 4.8 
+Langos & Kebab 5.99 4.8 
+Tavernetta 0 4.8 
+Old & Tasty Burgers 5.99 4.8 
+Cimbru 7.99 4.8 
+Delice Waffle 5.99 4.8 
+Fornetti Manastur 5.99 4.7 
+Sushi Point 5.99 4.7 
+GARLIC bites & tales 5.99 4.7 
+Biskit Pizza 5.99 4.7 
+Pizza Johnny 5.99 4.7 
+SoupeR 5.99 4.7 
+Nobori 5.99 4.7 
+Cooperativa FRUFRU - Cluj-Napoca 5.99 4.7 
+Sapore Cluj 5.99 4.7 
+SUSHI YAMAMORI 5.99 4.7 
+La Piadina Iulius Mall 5.99 4.7 
+Berrymania  4.7 
+Tortelli Pasta Bar 5.99 4.7 
+Noodle Pack Breakfast 5.99 4.7 
+Buzz Food Spot Unirii 5.99 4.7 
+Uzina De Mici 5.99 4.7 
+Cofetaria Steaua 5.99 4.7 
+A La Tarte 5.99 4.7 
+Nutriento 5.99 4.6 
+Happi Vivo Mall 5.99 4.6 
+Bistro La Turku 5.99 4.6 
+Healthy and Tasty by Laura 5.99 4.6 
+Bacania Bolloga 5.99 4.6 
+Buzz Food Spot Flora 5.99 4.6 
+The Cheesy Way Optimus 5.99 4.6 
+Pasta Nostra Cluj 5.99 4.6 
+Bistro 22 5.99 4.6 
+Gorgeous Restaurant 5.99 4.6 
+Pizzeria Golosa 5.99 4.6 
+Fresgo 5.99 4.6 
+Damas 5.99 4.6 
+Restaurant Shenyang 5.99 4.6 
+SUMESHI 0 4.6 
+PIZZERIA REGGINA 0 4.6 
+Znob Pizza & Pasta 5.99 4.6 
+Blidu` cu gust 5.99 4.6 
+Pablo`s Colombia Coffee 5.99 4.6 
+Jabbar Kebab House 5.99 4.6 
+Djamon Foodtruck - Aurel Vlaicu 5.99 4.6 
+Djamon Foodtruck - Buna Ziua 5.99 4.6 
+Shepherd’s Pub & Kitchen 5.99 4.5 
+La Casa Delivery Liberty 5.99 4.5 
+Phoenix Cluj 5.99 4.5 
+Cucina Turea - Bacanie cu Bucatarie 5.99 4.5 
+Asalt 5.99 4.5 
+Figo`s Pizza 5.99 4.5 
+Shanghai delivery 5.99 4.5 
+Gente Senior 0 4.5 
+Casa Tarancutei 5.99 4.5 
+Shanghai Express Iris 5.99 4.5 
+Sarmalerarie  4.5 
+Roll & Roll Kurtos 5.99 4.5 
+Casa Goia 0 4.5 
+Agape 5.99 4.5 
+Claro 5.99 4.5 
+California Burger 5.99 4.5 
+O`Peter`s Irish Pub & Grill 5.99 4.4 
+Dashi Ramen & Teriyaki 5.99 4.4 
+Donuterie Vivo Cluj 5.99 4.4 
+Zebra Catering Cluj 5.99 4.4 
+Cameleon Coffee Shop 5.99 4.4 
+TEMPLE  PIZZA 5.99 4.4 
+La Piadina Sigma 5.99 4.4 
+HERA 5.99 4.4 
+Pizza Yola 4 4.4 
+Strit fud by Petry Cluj Napoca 5.99 4.4 
+Pauza Mica by Selgros Cluj 5.99 4.4 
+Simplu si Bun 5.99 4.4 
+Toha 5.99 4.4 
+Mugur de fluier 5 4.4 
+Bistro LOVEGAN 5.99 4.4 
+Restaurant Family Republicii 5.99 4.4 
+Cofetaria Atelier Dulce Amarui 5.99 4.4 
+Jabbar Kebab & More 5.99 4.4 
+Happi Iulius Mall 5.99 4.4 
+Cool Burger 5.99 4.4 
+Trattoria Sapori Delivery 5.99 4.4 
+Raio Pizza 5 4.3 
+Shanghai Express Memo 5.99 4.3 
+Izi Bistrot 5.99 4.3 
+Paprika Iulius Mall 5.99 4.3 
+Shanghai Iulius Mall 5.99 4.3 
+Noglu - gluten free 5.99 4.3 
+Wonder Food 4.99 4.3 
+Pizza Hai Hui 5.99 4.3 
+Meniul Zilei by Papa Land Floresti 5.99 4.3 
+Arta  Atelier de dulce Floresti 5.99 4.3 
+Pizza Bonjour 5.99 4.3 
+Mare Nera Cluj 10 4.3 
+Codobelc Cluj 5.99 4.3 
+Black Box Floresti 5.99 4.3 
+Crama Haiducilor 5.99 4.2 
+Pep&Pepper Vivo! Mall 5.99 4.2 
+Dikhis 5.99 4.2 
+Ted’s Coffee Cluj 5.99 4.2 
+Casa Piratilor 5.99 4.2 
+Restaurant Chic 5.99 4.2 
+Meniul zilei by Papa Land Central 5.99 4.2 
+Casa Maramureseana 5.99 4.1 
+Varzarie 5.99 4.1 
+Hanul din Ardeal Floresti 5.99 4.1 
+Trattoria Pineta 0 4.1 
+Salad Box Sigma 5.99 4.1 
+Viva la food 5.99 4.1 
+Restaurant Arena  4.1 
+Frank The Tank by Jaxx 5.99 4.1 
+TCI Social Club 5.99 4.1 
+Mugur de Fluier Hasdeu 5.99 4.1 
+Atelier Dulce Amarui 5.99 4.1 
+Broaster Chicken Cluj 5.99 4.0 
+Restaurant Transilvania 5.99 4.0 
+Best Pizza Floresti 5.99 4.0 
+Doua Boabe Baciu 5.99 4.0 
+PIZZA GIUSEPPE 0 4.0 
+Fresh and Yummy 5.99 4.0 
+Shanghai Express Cora 5.99 4.0 
+Caro Vintage 5.99 3.9 
+Mad Grill 5.99 3.9 
+Pancake House 5.99 3.9 
+Habemus Papa Delivery 5.99 3.9 
+Il Caffe Dell`Angolo 5.99 3.8 
+Black Burger 5.99 3.8 
+Meniul Zilei by Papa Land 5.99 3.8 
+Bistro Engels Croco 5.99 3.8 
+Safir 5.99 3.8 
+Frenchy Tacos 5.99 3.8 
+Karciuma The Public House & Taste 5.99 3.8 
+Hanul din Ardeal Central 5.99 3.8 
+La Casa Delivery 0 3.7 
+DOT - Brunch House 5.99 3.7 
+Hanul din Ardeal 5.99 3.7 
+Fel Bun Prod 5 3.6 
+Paprika Kaufland Campului 5.99 3.6 
+Que Chido 0 3.6 
+Boierul la Florenta 5.99 3.5 
+Restaurant Sinaia 5.99 3.5 
+AS BISTRO 5.99 3.4 
+Vila Europa 5.99 3.4 
+PIZZERIA DALLAS 0 3.4 
+La cuptor Delivery 5.99 3.3 
+Captain Bean The Office 5.99 3.2 
+Asian Rose 5.99 3.2 
+Pizza Factory Delivery Cluj 5.99 3.1 
+Pizza Deville 5.99 None 
+COOPERATIVA FRUFRU ULTRA FRESH Cluj 5.99 None 
+Sweets by Findi 0 None 
+BOOST By Turbo Cafe 5.99 None 
+L`Eclair Magique 5.99 None 
+Cofetaria La Creme Cluj 5.99 None 
+Mike`s Pizzeria & Bistro 5.99 None 
+Hugo Cluj-Napoca 5.99 None 
+Restaurant Fabriq  None 
+Prime Hookah 5 None 
+Miracolul Raclette 5.99 None 
+Rice Box 5.99 None 
+CRYPTO PIZZA 0 None 
+GIUSEPPE by NIGHT 5.99 None 
+DALLAS NIGHT LIFE 5.99 None 
+CRYPTO BLACK 5.99 None 
+Fornetti Napoca 5.99 None 
+Mitzu 6.99 None 
+New Croco Pizzerie Delivery 5.99 None 
+Scarpetta 5.99 None 
+Pizzeria Da Beppe 5.99 None 
+Crispyteria Zazen 5.99 None 
+Oala Marty 0 None 
+Pizza production Delivery 5.99 2.7 
+Salti Corn 5.99 2.7 
+Pizza Sorridente 6 2.1 
+La cuptor 0 2.0 
+Pizza Factory Cluj 2.99 1.7 
+Pizza Production 2.99 1.1 
+REGGINA DARK 5.99 None 
+bucuresti 
+Restaurant Livrare Stele 
+Burger Island 5.99 4.7 
+Atelierul de Tarte-Foisor 6.99 4.3 
+Atelierul de tarte-Mihalache 6.99 4.3 
+Fomizza 6.99 None 
+Shaormeria C&A 1 Decembrie 1918 5.99 4.2 
+SHAORMERIA C&A UVERTURII 5.99 4.2 
+SHAORMERIA C&A 5.99 4.0 
+Shaormeria C&A Drumul Taberei 5.99 3.7 
+Presto Pizza 6.99 3.5 
+Zen Sushi 6.99 None 
+Nikos Greek Taverna Bucuresti 6.99 None 
+Dristor Kebap Delivery 6.99 None 
+King Rolls Bucuresti 6.99 None 
+Gyroserie Bucuresti 6.99 None 
+Noodle Pack Bucuresti 6.99 None 
+Popeyes Romania 6.99 None 
+Le Bab Fried Chicken 6.99 None 
+Zest Pizza Bucuresti 6.99 None 
+Burgr Factory Bucuresti 5.99 None 
+Tazz Republic Food Court Bucuresti 5.99 3.6 
+Burritos Guerrilla Bucuresti 6.99 None 
+Coasta lu’ Bontea Bucuresti 6.99 None 
+Dei Frati Bucuresti 5.99 None 
+Tudi`s Pizza 5.99 4.5 
+Za’atar Vulcan Value Centre 5.99 4.3 
+Bodrum Turkish Kitchen 5.99 4.3 
+#ceaun 5.99 4.1 
+McDonald`s Bucuresti 9.99 None 
+Trenta Pizza Bucuresti 0 None 
+KFC Bucuresti 8.99 None 
+Jerry`s Pizza Bucuresti 6.99 None 
+Supele Mode Mogosoaia 4.99 5.0 
+Sicilia Gelateria Artigianale Promenada 5.99 5.0 
+Mai mult decat un dulce Dristor 5.99 5.0 
+Trattoria Azalli 0 5.0 
+Poke me up  5.0 
+Burgeritto Aviatiei 5.99 5.0 
+Doner Chitila 5.99 4.9 
+Magic Sushi Aviatiei 5.99 4.9 
+Pasteis de Nata 5.99 4.8 
+La Saveur 5.99 4.8 
+Barracuda Sushi 5.99 4.8 
+La Rulota-Burgarie si altele 5.99 4.8 
+Domeniile Saftica - Trattoria 5 4.8 
+Coconut Cake Shop 5.99 4.8 
+FireHouse Pizza 5.99 4.8 
+Velocita 6.99 4.8 
+Noodle Van 5.99 4.8 
+Beca`s Kitchen 5.99 4.8 
+MiT - Burgarie si altele 5.99 4.8 
+Chifla Maestro Bucuresti 5.99 4.8 
+Gelateria La Romana dal 1947 - Calea Victoriei 6.99 4.8 
+WOS 5.99 4.8 
+Turkiseria 5.99 4.8 
+Big John 5.99 4.8 
+Cookies&Friends 5.99 4.8 
+18CTEA 5.99 4.8 
+Mumbai Food Cotroceni 5.99 4.8 
+Teopizza 5.99 4.8 
+Royal Sushi North 4.99 4.8 
+Coffee Shop & Burger 5.99 4.7 
+Schnitzza 5.99 4.7 
+Furgoneta Caramfil 5.99 4.7 
+Hachi Sushi 5.99 4.7 
+WOS Amzei 5.99 4.7 
+Sweet Pancakes 5.99 4.7 
+Sushi Royal House 5.99 4.7 
+Șaker 5.99 4.7 
+Roll`N Roast Rotiserie 5.99 4.7 
+OK Sushi 5.99 4.7 
+Gelateria La Romana dal 1947 - Afi Cotroceni 6.99 4.7 
+Clatite Uriase Busteni 5.99 4.7 
+Pizzeria Cartier 5 4.7 
+AP KEBAB CRANGASI 5.99 4.7 
+Poke House Park Lake 5.99 4.7 
+Restaurant Gedi Titan 5.99 4.7 
+Crosto Restaurant 4.99 4.7 
+Inpresso 5.99 4.7 
+Puerto cafe 5.99 4.7 
+La Italianu 5.99 4.7 
+Goodstos 5.99 4.7 
+Dodo Pizza Aviatiei 6.9 4.7 
+TIME 4 PIZZA Delivery 4.99 4.7 
+YoYo Burger 5.99 4.7 
+Sweetology 5.99 4.7 
+Traditional by  Zarada Restaurant 7.99 4.7 
+Crosto Pizza Delivery 4.99 4.7 
+Clatitaria Vrei ceva bun 5.99 4.7 
+GAMBINOS PIZZA 0 4.7 
+Leonidas Veranda Mall 6.99 4.6 
+Dodo Pizza Lujerului 6.9 4.6 
+Sumeshi 5.99 4.6 
+FamFood 4.99 4.6 
+Waterloo Restaurant 5.99 4.6 
+Cook Art 5.99 4.6 
+Avocadoo Baneasa 6.99 4.6 
+Burgeritto Cotroceni 5.99 4.6 
+Hello Donuts & 5 to Go Coffee Park Lake 5.99 4.6 
+Fabrica de Bere Grivita 5.99 4.6 
+Mumbai Food 6.99 4.6 
+Burger Peter Moinesti 5.99 4.6 
+Mamizza 5.99 4.6 
+Gorilla`s Crazy Burgers 5.99 4.6 
+MODELiER 5.99 4.6 
+Circus Doner 5.99 4.6 
+LaPryanu 5.99 4.6 
+Alla Napoli 5.99 4.6 
+Sciccheria 5.99 4.6 
+Burger Lovers 5.99 4.6 
+Rolls Up 5.99 4.6 
+Shaormeria obor 5.99 4.6 
+Furgoneta Militari 5.99 4.6 
+Edo Sushi 5.99 4.6 
+Pizzeria di marco 5.99 4.6 
+Gyros Athena 5.99 4.6 
+Pizzeria Gourmonde 5.99 4.6 
+OMNI Pizza 5.99 4.6 
+Thaice Cream 5.99 4.6 
+SNAQ 5.99 4.6 
+Restaurant Zema Food 5.99 4.6 
+Kevin Tasty Burgers  4.6 
+Alt Shift 5.99 4.6 
+La Senna 5.99 4.6 
+Grivi’s Place 0 4.6 
+La Pizzaru  4.6 
+Mesogios Seafood Primaverii 5.99 4.6 
+Bubble Waffles Bucuresti 5.99 4.6 
+Mesopotamia Bucurestii Noi 6.99 4.6 
+18CTEA Mega Mall 5.99 4.6 
+PadThai 5.99 4.6 
+Mesopotamia - Plaza Romania 6.99 4.6 
+Bibo Burgers - Băneasa 5.99 4.6 
+Dodo Pizza Berceni 6.9 4.6 
+Pokeful 5.99 4.6 
+Old Traditional Food 5.99 4.6 
+Supa Dupa - Mothership 5.99 4.6 
+Coclinta Brasserie 5.99 4.6 
+Burger & Burrito 5.99 4.6 
+Sushi House 5.99 4.6 
+Mai mult decat un dulce 5.99 4.6 
+Chanh Miam Miam 5.99 4.6 
+Rulota Famous Waffles 5.99 4.6 
+Smashed 5.99 4.6 
+Bacania Veche 6.99 4.6 
+Kif Mec 5.99 4.6 
+Chiajna Catering 5.99 4.6 
+Cofetaria Georgy`s Dristor 5.99 4.6 
+Pizza E Pasta Factory Titan 4.99 4.6 
+Restaurant Saidoun 7.99 4.5 
+Maia Pizza Straduintei 5.99 4.5 
+Mahala 5.99 4.5 
+Bolt Pizza Domnesti 5 4.5 
+Aroma Pizza 5.99 4.5 
+Emre Baklava Baneasa 5.99 4.5 
+Magic Meals 5.99 4.5 
+L`Incontro Titan 5.99 4.5 
+Donerboom Barbu Vacarescu 5.99 4.5 
+Hi Sushi Aviatiei 5.99 4.5 
+Maher 5.99 4.5 
+Osteria Zucca 5.99 4.5 
+Stick It Chinese Chef 5.99 4.5 
+Weiss Beer Garden 5.99 4.5 
+Beautyfood 5.99 4.5 
+Sweet Pancakes Plaza 5.99 4.5 
+Gelateria La Romana dal 1947 - Baneasa Shopping City 6.99 4.5 
+Dodo Pizza Dristor 6.9 4.5 
+Templul Soarelui Pipera 5.99 4.5 
+Poli Floreasca 5.99 4.5 
+Avocadoo Afi Cotroceni 6.99 4.5 
+Due Food 5.99 4.5 
+Turkish Kitchen 5.99 4.5 
+VacaMuuu 5.99 4.5 
+Furgoneta Berceni 5.99 4.5 
+Happy Grill 5.99 4.5 
+ZEUGMA RESTAURANT 5.99 4.5 
+Efes Restaurant 5.99 4.5 
+Shift 5.99 4.5 
+Manay Chinese Food 5.99 4.5 
+Restaurant Home 15 4.5 
+Pizzeria Volare 5.99 4.5 
+Pizzeria Maestro Bucuresti 5.99 4.5 
+Sushi Terra Parklake 0 4.5 
+Turabo 5.99 4.5 
+Transylvania Bakery Plaza Mall 5.99 4.5 
+Furgoneta Piata Victoriei 5.99 4.5 
+Yasser 5.99 4.5 
+Mesopotamia - Parklake Bucuresti 6.99 4.5 
+Restaurant Zet 5.99 4.5 
+Pizzeria Da Giulio 5.99 4.5 
+Emre Baklava Floreasca 5.99 4.5 
+Hatz Burger Studio 3.99 4.5 
+Calderon 18 5.99 4.5 
+Dodo Pizza Drumul Taberei 6.9 4.5 
+Hawaianos Healthy Bowls Zagazului 5.99 4.5 
+Biblioteca Delivery Parc 5.99 4.5 
+NAPOLETAN 5.99 4.5 
+Mesopotamia Militari 6.99 4.5 
+Terasa Florilor 5.99 4.5 
+A`luat Pizza 5.99 4.5 
+Red Wok 5.99 4.5 
+Bordo Caffe & Pub 5.99 4.5 
+Royal Sushi Restaurant 5.99 4.5 
+Sushi Terra Baneasa 5.99 4.5 
+Mosimo Bistro  4.5 
+Gallo Nero 5.99 4.5 
+Jadoo 5.99 4.5 
+Scovergaria Micai 5.99 4.5 
+Pizza Dorobanti 5.99 4.5 
+I`Ladrino 4.99 4.5 
+Kristal Restaurant 5.99 4.5 
+VEGA’S BURGER&PIZZA 5.99 4.5 
+Pizza & Pasta Colosseum  4.5 
+Trattoria Fresca 5.99 4.5 
+Provence Iancului 5.99 4.5 
+Poli Universitate 5.99 4.5 
+Maia Pizza Centrul Vechi 5.99 4.5 
+Culinar Delivery 4.99 4.5 
+Antica Pizza Bucuresti 5.99 4.5 
+La baraca 5.99 4.5 
+La italianu Veteranilor 5.99 4.5 
+Manay Chinese Food Militari 5.99 4.5 
+Burgeritto 5.99 4.5 
+Speed Pizza Cora Pantelimon 5.99 4.5 
+Gradina Ventisei 5.99 4.5 
+Sushi Terra Promenada 5.99 4.5 
+Balls Express Matache 5.99 4.5 
+El Torito 0 4.5 
+Izy Fast Food - Shaormerie 5.99 4.5 
+Urban Dada  4.5 
+Poli Piata Gorjului 5.99 4.5 
+Old Brick Pub 5.99 4.5 
+Nice Touch 5.99 4.5 
+Golden Blitz 5.99 4.5 
+Business Land 7 4.5 
+Pizzeria Roza 5.99 4.5 
+Avocadoo 6.99 4.5 
+MonkChef 5.99 4.5 
+Crosto Pizza 4.99 4.4 
+Hello Donuts Afi 5.99 4.4 
+Ai Sushi Bar 5.99 4.4 
+Arepas Colombianas 5.99 4.4 
+Restaurant Basilico 5.99 4.4 
+Pizza Hut Delivery Cora Lujerului 8.99 4.4 
+Il Destino 5.99 4.4 
+Aroma by Chef Paul 5.99 4.4 
+Pizzeria Volare Baneasa 5.99 4.4 
+Old Shanghai Restaurant 5.99 4.4 
+Hello Donuts Plaza Romania 5.99 4.4 
+EMAR 5.99 4.4 
+Bibo Burgers 5.99 4.4 
+Pizza Ka Rahova 5.99 4.4 
+Terasa Firenze Tineretului 5.99 4.4 
+Sushi Bako 0 4.4 
+Trattoria Revi 5.99 4.4 
+Pizza Hut Delivery Obor 8.99 4.4 
+Restaurant Infinit 5.99 4.4 
+Restaurant Gedi Diham 5.99 4.4 
+Napoletano 5.99 4.4 
+Manay Chinese Food Sebastian 5.99 4.4 
+Camionetta Pizzeria Victoriei 5.99 4.4 
+Cuptorul cu lemne Promenada 5.99 4.4 
+Pizza Bonita Strip Mall 5.99 4.4 
+Pizza Hut Delivery Drumul Taberei 8.99 4.4 
+Pizza Hut Delivery Bucurestii Noi 8.99 4.4 
+Pancakes & More 5.99 4.4 
+Duman 5.99 4.4 
+Restaurant Yvi`s  4.4 
+Kevin Tasty  4.4 
+Lingurite Dulci 5.99 4.4 
+Famous Gourmet 5.99 4.4 
+Tasty Pizza 0 4.4 
+Il Calcio by Mr. Val Herastrau 5.99 4.4 
+Taj 5.99 4.4 
+Pizza Hut Delivery Popesti-Leordeni 8.99 4.4 
+Almondo Pizza Titan 4.99 4.4 
+Emre Baklava Magheru 5.99 4.4 
+Florida House 5.99 4.4 
+Pizza Ka Pantelimon 5.99 4.4 
+Black by DonCafe 5.99 4.4 
+Maia Pizza Apaca 5.99 4.4 
+Restaurant Elena 5.99 4.4 
+Pizza Hut Delivery Auchan 8.99 4.4 
+Zeina Kebap Drumul Taberei 5.99 4.4 
+Mister Kebab 5.99 4.4 
+Panero Pizza&Bakery  4.4 
+PengYou Occidentului 5.99 4.4 
+Trattoria Venti 5.99 4.4 
+Conacul Romanesc 5.99 4.4 
+Nasu si Finu Delivery 5.99 4.4 
+Pita Van Baba Novac 5.99 4.4 
+The Mark Restaurant&Pub 5.99 4.4 
+Sushi Master- Ceaikovski 5.99 4.4 
+Club Fabrica 5.99 4.4 
+Alexia Garden 5.99 4.4 
+Pizza Ka Militari 5.99 4.4 
+Restaurant Zatara 5.99 4.4 
+Crepes du monde 5.99 4.4 
+HUMAN Coffee 5.99 4.4 
+Al-Taib Grill 7 4.4 
+Restaurant Cesme 5.99 4.4 
+Grillero Otopeni 4.99 4.4 
+Switch Eat Pipera 5.99 4.4 
+Poke House 5.99 4.4 
+The mob burger 5.99 4.4 
+Camizo 9 4.4 
+Pasta del Popolo 5.99 4.4 
+Nod Urban Food 5.99 4.4 
+Pizza Hut Delivery Rahova 8.99 4.4 
+Pizza Hut Delivery Vitan 8.99 4.4 
+LEE HO Cora Pantelimon 5.99 4.4 
+Simply Italian 5.99 4.4 
+Pizzetta 5.99 4.4 
+21 Pub Innovator  4.4 
+Japanos Victoriei 5.99 4.4 
+Taverna Sârbului 6.99 4.4 
+Sara Bistro Otopeni 4.99 4.4 
+Carina`s Sweets 5.99 4.4 
+Restaurant Cocosu Rosu 5.99 4.4 
+Speed Pizza Cora Alexandriei 5.99 4.4 
+The Globe Restaurant Grigorescu 5.99 4.4 
+Park View Caffe 5.99 4.4 
+Coco Urban Kitchen 5.99 4.4 
+Fabrica de pizza  4.4 
+Mi Piace Pasta Fresca & Sushi Tori Plaza 5.99 4.4 
+Pizzeria La Strada 5.99 4.4 
+DOGU 5.99 4.4 
+Hygge Pizza Berceni 5.99 4.4 
+Sushi Terra Afi 0 4.4 
+Hello Donuts Mega Mall 5.99 4.4 
+Placintarie Ardeleneasca 5.99 4.4 
+Luu Pizza 5.99 4.4 
+PIZZA MANIA 5.99 4.4 
+La Gil 5.99 4.4 
+Restaurant Allegro 5.99 4.4 
+Nuba Cafe 5.99 4.4 
+Arlecchino 5.99 4.4 
+David&Roro 5.99 4.4 
+Pizza Hut Delivery Orhideea 8.99 4.4 
+Pizza Math 5.99 4.4 
+Mesopotamia Colosseum 6.99 4.4 
+Fire Woks Residence 5.99 4.4 
+Che Pizza 5.99 4.4 
+Bella Napoli  4.3 
+Restaurant Barrio  4.3 
+ARZ Lebanese Food - Mega Mall 5.99 4.3 
+Restaurant Kabo 5.99 4.3 
+VERANDA RISTORANTE & PIZZERIA 5.99 4.3 
+Mediterrano Victoriei 5.99 4.3 
+Japanos One Progresul 5.99 4.3 
+Mediterrano 5.99 4.3 
+EV Don Fusion 5.99 4.3 
+Panoramic Restaurant 5.99 4.3 
+Kabo Delivery 5.99 4.3 
+Alexia Garden Residence 5.99 4.3 
+Sheikh 5.99 4.3 
+Newton Gastro Bar delivery 5.99 4.3 
+Bryo Appetite Militari 5.99 4.3 
+Maia Pizza Burebista 5.99 4.3 
+Gradina Roka - Maior Bacila 5.99 4.3 
+Casa Condor 5.99 4.3 
+Base Grill 5.99 4.3 
+Los Amantes 5.99 4.3 
+Langoserie 5.99 4.3 
+Kebap Factory 5.99 4.3 
+Chin Chin 5.99 4.3 
+Oyster Bar  4.3 
+La Mavro Berceni 4.99 4.3 
+Resto Aperto 5.99 4.3 
+Gradina Roka 5.99 4.3 
+My Meal 5.99 4.3 
+Sushi Master Bucuresti Halelor 5.99 4.3 
+Oh! Salad Drumul Taberei 5.99 4.3 
+Pizza Hut Delivery Baba Novac 8.99 4.3 
+Biutiful Downtown 5.99 4.3 
+Zeus Bakery 5.99 4.3 
+PengYou Hala Traian 5.99 4.3 
+El Bacha 5.99 4.3 
+Ribs Bar&Grill 5.99 4.3 
+Crapelnita Magheru 5.99 4.3 
+Bryo Appetite 5.99 4.3 
+Pizza Hut Delivery Colentina 8.99 4.3 
+La Placinte Afi 5.99 4.3 
+Restaurant Al Wady 5.99 4.3 
+Rustic Auchan Militari 5.99 4.3 
+B Back Lebanese Food 7 4.3 
+Pizza Hard 5.99 4.3 
+Pio Bistro  4.3 
+Cofetaria Casandra  4.3 
+Pizza Hut Mosilor 8.99 4.3 
+Provence Berceni 5.99 4.3 
+Pizza Hut Delivery 13 Septembrie 8.99 4.3 
+Restaurant Ramada Nord 5.99 4.3 
+Zarada Restaurant 7.99 4.3 
+The Grill House Bucuresti 5.99 4.3 
+Hello Donuts Vitan 5.99 4.3 
+Mesopotamia - Drumul Taberei 6.99 4.3 
+Restaurant Elisabeta 5.99 4.3 
+FRIENDS PUB 5.99 4.3 
+Restaurant Stejarii 5.99 4.3 
+FAN Burger Residence 5.99 4.3 
+Mesopotamia - Mega Mall 6.99 4.3 
+Trattoria Volante 5.99 4.3 
+Hi Sushi Bucuresti 5.99 4.3 
+Magic Sushi Bucuresti 5.99 4.3 
+Restaurant You & Me 5.99 4.3 
+Nussdorf  4.3 
+Emre Baklava AFI 5.99 4.3 
+Shaormeria Damaroaia 5.99 4.3 
+Sushi Terra Veranda 0 4.3 
+NYPD RESTAURANT & PIZZA 5.99 4.3 
+Kamon 5.99 4.3 
+LEE HO PLAZA 5.99 4.3 
+Trattoria Verdi Aviatorilor 5.99 4.3 
+Kanpai 5.99 4.3 
+Palmiye Cakes Promenada 5.99 4.3 
+Pizzeria Athos 5.99 4.3 
+Japanos Floreasca 5.99 4.3 
+Boutique du pain 2 5.99 4.3 
+Presto Pizza Rezervelor 6.99 4.3 
+Il Capricio 6.99 4.3 
+Loko Burger 5.99 4.3 
+Maison des Crepes Baneasa 5.99 4.3 
+Chef Delight 5.99 4.3 
+Terasa la Mihai 5.99 4.3 
+Gustul din Bucate Tineretului 1.99 4.3 
+Trattoria Verdi Unirii 5.99 4.3 
+Fior di latte 6.99 4.3 
+Draft Pub 5.99 4.3 
+Dum-Dum Food 5.99 4.3 
+Sara Popa Petre 5.99 4.3 
+2NICE Pizza 5.99 4.3 
+Fort No 3 5.99 4.3 
+Ciao Trattoria 5.99 4.3 
+Restaurant Casa Roz 0 4.3 
+Shaorma WOW 5.99 4.3 
+Nuky Grill 5.99 4.3 
+Noah’s Burger Residence 5.99 4.3 
+RUKA Izakaya 5.99 4.3 
+Mesopotamia Baneasa 6.99 4.3 
+Hi Sushi Cotroceni 5.99 4.3 
+Taco Bell Park Lake 8.99 4.3 
+Art Cakes  4.3 
+Influence Restaurant&More 5.99 4.3 
+Sushi MORE 4.99 4.3 
+Wing Eat 5.99 4.3 
+Mesopotamia - AFI Cotroceni Etaj 6.99 4.3 
+Plescavita Sarbeasca Titan 5.99 4.3 
+The White Cottage 5.99 4.3 
+Pizza E Pasta Factory Militari 4.99 4.3 
+Caru` cu Bere 6.99 4.3 
+Refresh 5.99 4.3 
+Raionul de Pește Dorobanti 5.99 4.3 
+Turkish Shaorma 5.99 4.3 
+Plescavita Vacaresti 5.99 4.3 
+FoodVibe 5.99 4.3 
+Affordabowls Apaca 5.99 4.3 
+Food for Familly 5.99 4.3 
+Pizza Hut Delivery Militari 8.99 4.3 
+Trattoria Colosseum  4.3 
+Gaetana 8.99 4.3 
+Sumac Foodstation 5.99 4.3 
+Calaverita 5.99 4.3 
+Restaurant Chinezesc Nihao 5.99 4.2 
+Dany Bistro 5.99 4.2 
+Shaorma La Oanca 5.99 4.2 
+Burger Van Home 5.99 4.2 
+Nicolai 5.99 4.2 
+Stamazzancoada 5.99 4.2 
+Zeina Kebap Militari 5.99 4.2 
+Divan 5.99 4.2 
+Mr. Laziz 5.99 4.2 
+Pizza Hut Delivery Sun Plaza 8.99 4.2 
+La Iancu 0 4.2 
+Chez Toni 5.99 4.2 
+Mancare la tuci & jar 5.99 4.2 
+Trattoria Militari 5.99 4.2 
+Templul Soarelui Foisor 5.99 4.2 
+Hash Bistro 5.99 4.2 
+Yoshi 6.99 4.2 
+Il Peccato 5.99 4.2 
+The Host 5.99 4.2 
+Atesbaz Kebap 5.99 4.2 
+Nicolai Splaiul Unirii 5.99 4.2 
+Al-Taib Kebab 5.99 4.2 
+Puii mei Mega Mall 5.99 4.2 
+Pizza La Oanca 5.99 4.2 
+Nadasan 4.99 4.2 
+Locanta Jaristea 6.99 4.2 
+Atelierul de Burgeri 0 4.2 
+Rigatoni Pasta Bar Bucuresti 5.99 4.2 
+Mesopotamia - Bucuresti Mall 6.99 4.2 
+Restaurant La Buni 5.99 4.2 
+La caruta cu clatite 5.99 4.2 
+Rigatoni Pasta Bar Basarabia 5.99 4.2 
+Boom Burger  4.2 
+Conacul Nobil Decebal 5.99 4.2 
+Antony Pizza 5.99 4.2 
+Trattoria Belvedere 0 4.2 
+Meniul zilei din livada 5.99 4.2 
+Roberto Pizza 9.99 4.2 
+China Box Titan 4.99 4.2 
+Fu Lin Men 5.99 4.2 
+DOGU ParkLake 5.99 4.2 
+Gyros Dionysos Apaca 5.99 4.2 
+Kanpai One 5.99 4.2 
+Submarine Burger Floreasca 5.99 4.2 
+Mozzafiato 5.99 4.2 
+Sushi Master Titan 5.99 4.2 
+Lane Delivery 5.99 4.2 
+Almondo Pizza Militari 4.99 4.2 
+Rustic Sun Plaza 5.99 4.2 
+Balls Apaca 5.99 4.2 
+Holy Macaroni Matache 5.99 4.2 
+Burger Van Bistro 5.99 4.2 
+Restaurant Cinas 0 4.2 
+Il Calcio by Mr. Val 5.99 4.2 
+Chicken Staff 5.99 4.2 
+Rustic Cora Lujerului 5.99 4.2 
+Mesopotamia - Veranda 6.99 4.2 
+Village Restaurant 5.99 4.2 
+Shaormeria Nordului 5.99 4.2 
+Chocolate pepperoni 5.99 4.2 
+Spartan Auchan Titan 6.99 4.2 
+Mega Donner  4.2 
+Cartofisserie Mega Mall 5.99 4.2 
+Shaormeria jakbab 5.99 4.2 
+La Falafel  4.2 
+Burger Show Domenii 5.99 4.2 
+Pizza Hut Universitate 8.99 4.2 
+Il Calcio by Mr. Val Romancierilor 5.99 4.2 
+Sweet By MarVio Lizeanu 5.99 4.2 
+Miorita kebap 0 4.2 
+Holiday Inn Times 5.99 4.2 
+LEE HO Orhideea 5.99 4.2 
+Restaurant Interbelic 5.99 4.2 
+Pizzeria di marco Delivery 6.99 4.2 
+FAIMOASA PIZZA 5.99 4.2 
+Quesadilla Factory 5.99 4.2 
+Bon Mot Waffles and Crepes 5.99 4.2 
+Sichuan Wok Residence 5.99 4.2 
+Noodlz-Plaza 5.99 4.2 
+Taqueria El Torito 5.99 4.2 
+Quartiere 8.99 4.2 
+PIZZA MANIA 2go 5.99 4.2 
+Puii mei (Veranda) 5.99 4.2 
+Turkish Dublubaz 5.99 4.2 
+Zeina Kebap Giulesti 5.99 4.2 
+Pizza Hut Romana 8.99 4.2 
+Alouette Piata Unirii 5.99 4.2 
+The Soup Carousel 5.99 4.2 
+Restaurant Cabana 5.99 4.2 
+D20 Bistro 5.99 4.2 
+Sabatini Tei 0 4.2 
+Supele Mode Tunari 4.99 4.2 
+PIZZA MANIA 2go Lipscani 5.99 4.2 
+Kevin Tasty Gnoccheria  4.2 
+The Bridge 5.99 4.1 
+Speed Pizza Cora Lujerului 5.99 4.1 
+Dolly Bubble - Cha Thai 5.99 4.1 
+Old Mike Garden 5.99 4.1 
+The Millenial Burger 5.99 4.1 
+Di’Vino Pizza & Paste 0 4.1 
+La indemana ORICUI 4.99 4.1 
+TAbu doner 5.99 4.1 
+Holy Macaroni Apaca 5.99 4.1 
+La Teu 5.99 4.1 
+Tasty Box 4 4.1 
+Dristor Kebap Camil Ressu 5.99 4.1 
+La Placinte Stefan 5.99 4.1 
+IL Cantuccio Ristorante 5.99 4.1 
+Spartan Esplanada Pantelimon 5.99 4.1 
+Goodeats delivered by Hotel Capital Plaza 5.99 4.1 
+Restaurant Dristor Tineretului 1.99 4.1 
+PIZZA NATURA 5.99 4.1 
+Bubble Tea Efe Bucuresti 5.99 4.1 
+Victory burger  4.1 
+Pizza Bonita Auchan Titan 5.99 4.1 
+La Cocosatu 5.99 4.1 
+StreetXo 5.99 4.1 
+Gradina Lascar  4.1 
+Zambete dulci 5.99 4.1 
+Interbelic food 5.99 4.1 
+E-YO Burgeri si coaste  4.1 
+Lee Ho Drumul Taberei 5.99 4.1 
+Pe Motoare 5.99 4.1 
+AP KEBAB GHENCEA 5.99 4.1 
+Restaurant Mode 0 4.1 
+Cherhanaua Ancora 6.99 4.1 
+Pizza Bonita Drumul Taberei 5.99 4.1 
+La Micutu 5.99 4.1 
+Pizza Suprema 0 4.1 
+Trattoria Mellini 5.99 4.1 
+Subway Bucuresti 6.99 4.1 
+La Placinte Berceni 5.99 4.1 
+Crapelnita GastroBar 5.99 4.1 
+Italian food by Alexia Residence 5.99 4.1 
+Loco Lounge&Coffee 5.99 4.1 
+ZEZ 5.99 4.1 
+Il Calcio by Mr. Val Clucerului 5.99 4.1 
+Burger Van Apaca 5.99 4.1 
+Dristor Kebap Tantuni 5.99 4.1 
+Newton Gastro Bar 5.99 4.1 
+Mancare ca la bunica 5.99 4.1 
+Pizza Hut Mega Mall 8.99 4.1 
+Chicken Deea 5.99 4.1 
+LOKA 5.99 4.1 
+PizzaPasta Quartiere 8.99 4.1 
+Roxy Pub 5.99 4.1 
+CIAO Traditional 5.99 4.1 
+Restaurant Allegra 5.99 4.1 
+Everest Restaurant 5.99 4.1 
+Ciorbele lu` Coana Mare 6.99 4.1 
+Ali Potol Shaworma Rezervelor 5.99 4.1 
+Quesadilla Factory - Maior Bacila 5.99 4.1 
+The Temple 5.99 4.1 
+Il Calcio by Mr.Val Pescariu 5.99 4.1 
+Nikos Greek & Fast Promenada 5.99 4.1 
+Hayati Piata Alba - Iulia 5.99 4.1 
+Crepes du Monde Victoriei 5.99 4.1 
+Sehetas Sushi Bar 6.99 4.1 
+Casa Napoli 5.99 4.1 
+Burtica Fericita! 5.99 4.1 
+Restaurant L’Incontro Berceni 5.99 4.1 
+LA PETRA fast food 5.99 4.1 
+Sara Floreasca 5.99 4.1 
+Mesopotamia - Promenada Mall 6.99 4.1 
+Oby Fast Food  4.1 
+Fries Before Guys Vitan 5.99 4.1 
+Chocolate pepperoni Orzari 5.99 4.1 
+Trattoria Borghese 5.99 4.0 
+Las Clatite Dorobanti 5.99 4.0 
+Story Pizza Giulesti 10 4.0 
+Red Angus Steakhouse 5.99 4.0 
+Japanos Ateneu 5.99 4.0 
+Restaurant Dristor 5 4.0 
+Baffi Cafe 5.99 4.0 
+Fries before Guys Berceni 5.99 4.0 
+Amintiri din Copilarie 5.99 4.0 
+Spartan Baneasa Mall 6.99 4.0 
+Mesopotamia-Magheru 6.99 4.0 
+Pizza Bonita Afi Cotroceni 5.99 4.0 
+Dristor Steak House 5.99 4.0 
+La Placinte Unirii 5.99 4.0 
+Trattoria Quattro 0 4.0 
+Burger Van Vitan 5.99 4.0 
+Athos Pizza & Bistro delivery 0 4.0 
+Emre Baklava Sun Plaza 5.99 4.0 
+TDA KEBAB 5.99 4.0 
+Pizza Hut Plaza 8.99 4.0 
+10 Meniuri Romanesti 5.99 4.0 
+Taverna Racilor 5.99 4.0 
+Beyaz Restaurant 5.99 4.0 
+Lucky Pizza 0 4.0 
+Fire Woks 5.99 4.0 
+Davidone EXPRESS  4.0 
+Affordabowls Matache 5.99 4.0 
+Hayati Izvor 5.99 4.0 
+Aubergine  8 5.99 4.0 
+Pasta del Popolo Nord 5.99 4.0 
+Famous Waffles - Plaza 5.99 4.0 
+Alouette Asmita Gardens Delivery 5.99 4.0 
+Dream by MGC 5.99 4.0 
+Spartan Militari 5.99 4.0 
+Berestroika 5.99 4.0 
+Pizza Bonita Militari 5.99 4.0 
+Huedin 19 5.99 4.0 
+Pizza Hut Sun Plaza 8.99 4.0 
+Fries Before Guys Matache 5.99 4.0 
+Submarine Burger 5.99 4.0 
+Ciao Napoli 5.99 4.0 
+Lebanese by Zarada Restaurant 7.99 4.0 
+LA matei 5.99 4.0 
+Arogant lounge 0 4.0 
+Trattoria Monza Dr Taberei 5 4.0 
+Ciorbe si Placinte Mega Mall 5.99 4.0 
+Toan`s Sun Plaza 5.99 4.0 
+Casa Anver 5.99 4.0 
+Mesopotamia Obor 6.99 4.0 
+China Box Militari 4.99 4.0 
+Templul Soarelui 5.99 4.0 
+Bolta Rece 5.99 3.9 
+Tatu Bar&Grill 10 3.9 
+Burger Hub A. I. Cuza 5.99 3.9 
+Story Pizza Rahova 5 3.9 
+Kilkenny Irish Pub 5.99 3.9 
+Jarre par Alouette 5.99 3.9 
+Jack & Jak  3.9 
+Gargantua Militari 5.99 3.9 
+Oriental Grill 5.99 3.9 
+Crazy Fire Woks 5.99 3.9 
+Famous Waffles Parklake 5.99 3.9 
+Porkitos & More 5.99 3.9 
+La Placinte Mihalache 5.99 3.9 
+Dragomir Niculescu 5.99 3.9 
+Verbun Shaorma Apusului 5.99 3.9 
+Oala lui Mitzy 3.99 3.9 
+Cucina di Capri 5.99 3.9 
+Taksim Afi Cotroceni 5.99 3.9 
+Sabatini Basarabia 0 3.9 
+Spartan Mega Mall 5.99 3.9 
+71th street delivery foodstation 5.99 3.9 
+Serena Pizza 5.99 3.9 
+41kebab 5.99 3.9 
+Restaurant Aladin 5.99 3.9 
+Pizzeria Florina 0 3.9 
+Taksim Park Lake 5.99 3.9 
+Karamna 4.99 3.9 
+Meniuri Corporate 5.99 3.9 
+Foodbazar 5.99 3.9 
+Mediterrano Vitan 5.99 3.9 
+Bolt Pizza Libertatii 5 3.9 
+Pizza Pazza 2 6.99 3.9 
+JAR Just A Restaurant 5.99 3.9 
+Gustul din Bucate Dristor 0 3.9 
+Sushi Space 4.99 3.9 
+Rustic Afi 5.99 3.9 
+Taco Bell Cotroceni 8.99 3.9 
+Shaorma Trapezului 5.99 3.9 
+Taco Bell Baneasa 8.99 3.9 
+5 Elemente 5.99 3.9 
+Trattoria Monza Baba Novac 10 3.9 
+Burgatore 4.99 3.9 
+Arabesk 5.99 3.9 
+Pizza Volante 5.99 3.9 
+Hummuserie Apaca 5.99 3.9 
+San Marino Pizza & Grill 3.99 3.9 
+Zeina Kebap 9 Mai 5.99 3.9 
+Ceaunul cu bunatati  3.9 
+Casa di David 5.99 3.9 
+Spartan Orhideea 5.99 3.9 
+Mon Cher Dorobanti 5.99 3.9 
+Sweet by MarVio Vulcan 5.99 3.8 
+Dristor Kebap Mega Mall 5.99 3.8 
+Athos Pizza & Bistro 0 3.8 
+Sushi.ro Kiseleff 5.99 3.8 
+La Turcu Bucuresti 5.99 3.8 
+Rustic Veranda Mall 5.99 3.8 
+Taco Bell Mega Mall 8.99 3.8 
+Foozz Delivery 0 3.8 
+Hanul Vacaresti Delivery 5.99 3.8 
+Pizzaro by Trattoria Planet 5.99 3.8 
+Artemis Mediterranean Restaurant 5.99 3.8 
+Rustic Complex Baneasa Feeria 5.99 3.8 
+Pizza Bonita Plaza 5.99 3.8 
+Mishi Mishi 5.99 3.8 
+Spartan Sun Plaza 6.99 3.8 
+Officina 29 5.99 3.8 
+Hummuserie Matache 5.99 3.8 
+Noodles Garden 5.99 3.8 
+G8 Gardens 5.99 3.8 
+Restaurant Galeto 7.99 3.8 
+Primo Romancierilor 5.99 3.8 
+Pizza Pompei 5.99 3.8 
+Dristor Kebap Pantelimon 5.99 3.8 
+Elisabeta Cookery 5.99 3.8 
+Pizza Hut Baneasa Mall 8.99 3.8 
+Santorini 5.99 3.8 
+Oala 5.99 3.8 
+La Collina Restaurant si Pizzerie 5.99 3.8 
+FAN Burger 5.99 3.8 
+Gargantua Kiseleff 5.99 3.8 
+Pizzicato Militari 5.99 3.8 
+NOAH`S BURGER 5.99 3.8 
+Pizzicato Victoriei 5.99 3.8 
+Mandaloo Restaurant Lounge 5.99 3.8 
+Fries before Guys 5.99 3.8 
+Gratar Obor 5.99 3.8 
+Gargantua Park Delivery 5 3.8 
+Spartan Promenada Mall 6.99 3.8 
+Magic Sushi Cotroceni 5.99 3.8 
+Polonik 5.99 3.7 
+Trattoria Planet 5.99 3.7 
+Hayati Victoriei 5.99 3.7 
+Pizzicato Icoanei Delivery 5 3.7 
+Grill&More 5.99 3.7 
+Pizza Hut Vitan 8.99 3.7 
+Clatitaria 5.99 3.7 
+Favela 5.99 3.7 
+Gargantua Kiseleff Delivery 5 3.7 
+Sushi Yoko Yoko 4.99 3.7 
+Hanul cu burgeri si pizza delivery 5.99 3.7 
+Sweet by MarVio ParkLake 5.99 3.7 
+Restaurant alSafir Lebanese Food 5.99 3.7 
+Tasty Pipera 5.99 3.7 
+Bomb Doner Kebab 5.99 3.7 
+American food by Alexia Residence 5.99 3.7 
+EDESSA 1 5.99 3.7 
+Vibes Cafe 5.99 3.7 
+Sichuan Wok 5.99 3.7 
+Verbun Pizza & Shaorma 5.99 3.7 
+Smiley Pizza 5.99 3.7 
+Pita Factory  3.7 
+Zeina Kebap Baicului 5.99 3.7 
+Holy Macaroni Vitan 5.99 3.7 
+Coltu` Berarilor 4.99 3.6 
+Rustic Auchan Vitan 5.99 3.6 
+Oala cu mancare 3.99 3.6 
+Pizzeria Il Pizzarello Delivery  3.6 
+Ali Potol Shaworma Rosu 5.99 3.6 
+Primo Apusului 5.99 3.6 
+Spartan Vitan Mall 6.99 3.6 
+TeaStar Megamall 5.99 3.6 
+Beraria Centrala 5.99 3.6 
+Shaorma La Baiatu 5.99 3.6 
+La Micutu` 2  3.6 
+Aperitivo Bar Otopeni 4.99 3.6 
+Gama Greek Taverna 5.99 3.6 
+Hawaianos Healthy Bowls 5.99 3.6 
+Check In Lounge 5.99 3.6 
+Divan Express 5.99 3.6 
+Distrikt42 5.99 3.6 
+Bustin’ Bowls Vitan 5.99 3.6 
+Xclusive Grill & Crepes 5.99 3.6 
+Fire Woks Militari 0 3.6 
+AYT Steak House 5.99 3.6 
+Restaurant Golden Woks chinese food 0 3.6 
+Ristorante Presto 6 3.6 
+Rustic Park Lake 5.99 3.6 
+TAQUERIA 5.99 3.5 
+Nord Catering 4.99 3.5 
+Chinese Garden 5.99 3.5 
+Bucataria lu` Peste 5.99 3.5 
+Babylon FastFood 5.99 3.5 
+Texas BBQ 5.99 3.5 
+Gargantua Park 5.99 3.5 
+Statia Litoral de la Shoteria 6.99 3.5 
+Allucinante 5.99 3.5 
+Restaurant Anysan 5.99 3.5 
+Jacq Pot-Unirii 6.99 3.5 
+El Patron Kebab 5.99 3.5 
+Italian food by Alexia 5.99 3.5 
+Burger Story Libertatii 0 3.5 
+OZZY RESTOBAR 5.99 3.5 
+Pizza David 0 3.5 
+Burger@fries 5.99 3.5 
+St. Patrick Irish Pub 5.99 3.5 
+Shaorma Pajura 5.99 3.5 
+Dacia Mon Jardin 5.99 3.5 
+Hayati Floreasca 5.99 3.5 
+Karishma 10 3.5 
+Yoko Yoko 4.99 3.5 
+Sushi Guru 4.99 3.5 
+Mon Paris Restaurant & Lounge 9.99 3.5 
+Osteria Monza 24.99 3.5 
+Sweet by MarVio Orhideea 5.99 3.4 
+The S`aint 5.99 3.4 
+CIAO International 5.99 3.4 
+Weiss Beer Garden Delivery 10 3.4 
+EDESSA 2 5.99 3.4 
+Baba takeaway 5.99 3.4 
+Ciorbele lui Dragomir 5.99 3.4 
+Edan Kebab 5.99 3.4 
+Golden kebab shaorma 5.99 3.4 
+Pizza Ka Rahova Delivery 4.99 3.4 
+Mondo Pizza 5.99 3.4 
+Presto Pizza Diham 0 3.4 
+Submarine Burger Victoriei 5.99 3.4 
+Hanul Vacaresti 6.99 3.4 
+Hayati Straulesti 5.99 3.4 
+Al Emir Shaorma 5.99 3.4 
+Nenea Iancu 5.99 3.3 
+Tucano Coffee Zimbabwe 5.99 3.3 
+Primo 13 Septembrie 5.99 3.3 
+Restaurant Dines 5.99 3.3 
+Albert`s Place 5.99 3.3 
+Sushi Terra Dorobanti 0 3.3 
+Makkan  3.3 
+American food by Alexia 5.99 3.3 
+Taverna Bobocilor 5 3.3 
+Maria Pizza 5.99 3.3 
+Casa Nasului 5.99 3.3 
+Pizzicato Icoanei 5.99 3.2 
+Bunatati vegane si de post 4.99 3.2 
+Polonik Matache 5.99 3.2 
+Davidone Pizza & Pasta  3.2 
+Pizza Dude  3.1 
+SHIN SUSHI 5.99 3.1 
+Mode Burger Mogosoaia 4.99 3.1 
+LaSafi Lebanese Food - Baneasa Mall 4.99 3.1 
+The Oasis 5.99 3.1 
+Taverna Fierarilor (Petrolului) 5 3.1 
+Del Popolo shop 6.99 None 
+La Brasserie Bistro&Lounge 5.99 None 
+Porto Gallo Bucuresti 6.99 None 
+Burger UNO. 5.99 None 
+Sweet by MarVio Veranda Mall 5.99 3.0 
+Funky Lounge Decebal 5.99 None 
+Burger King Bucuresti 9.99 None 
+Starbucks® Bucuresti 8.99 None 
+AH Pizza 5.99 3.0 
+Ristorante Casale 6.99 None 
+Fresh food express 5.99 None 
+Sushi Time Bucuresti 4.99 3.0 
+Grill`s Lounge 0 None 
+Italian by A` 0 None 
+Rotiseria Halal 5.99 None 
+Libanez Story 0 None 
+Quicky food 5.99 3.0 
+Kofi Ti 5.99 None 
+Pastaerra Otopeni 4.99 3.0 
+Fishy Tunari 4.99 None 
+Fishy Mode Otopeni 4.99 None 
+Grillero Tunari 4.99 None 
+MeatMe@ Mode Mogosoaia 4.99 None 
+MeatMe@ Mode Tunari 4.99 None 
+MeatMe@ Mode Otopeni 4.99 None 
+Mode Burger Otopeni 4.99 None 
+Supele Mode Otopeni 4.99 None 
+Fishy Mogosoaia 4.99 None 
+Pizzarella Bucuresti 5.99 None 
+Habbush Dulciuri Orientale 5.99 None 
+Elephante Tapas&champagne 5.99 None 
+OMNI Gelato 5.99 None 
+Quartiere Grill 8.99 None 
+NOA Restoclub 5.99 None 
+Trattoria Giovanni 0 None 
+Al-Taib Food 5.99 None 
+KARI Downtown 5.99 None 
+La Bucate, Frate! 5.99 None 
+America`n Taste 5.99 None 
+A Casa Mia 5.99 None 
+La gratar 9.99 None 
+Pizza High Heels 5.99 None 
+SE Sushi  3.0 
+Fabio Pizza Bucuresti 3 None 
+Love You Choux by Livrez Fericire 6.99 None 
+B3ton Restobar Bucuresti 6.99 None 
+Pep&Pepper Bucuresti 6.99 None 
+Salad Box Bucuresti 6.99 None 
+Taksim Bucuresti 6.99 None 
+Cartofisserie - Bucuresti 6.99 None 
+Caffee Royal 5.99 None 
+Boss Mini Burgers Bucuresti 6.99 None 
+Chopstix Bucuresti 6.99 None 
+Famous Waffles Bucuresti 6.99 None 
+Ikura Sushi Bucuresti 6.99 None 
+Kung Fu Bucuresti 6.99 None 
+Manufaktura Bucuresti 6.99 None 
+South Burger Bucuresti 7.99 None 
+Camionetta Pizzeria 6.99 None 
+Ana Baking Co 6.99 None 
+Trickshot 6.99 None 
+Toan`s Bucuresti 6.99 None 
+NICOLL PIZZA 0 None 
+Jubi Pizza 7.99 None 
+Zaika 0 3.0 
+Kitchen by Huby 5 None 
+Sushi Guru Balcescu 0 3.0 
+La Strega 5.99 None 
+Fabrica de ciorbe Bucuresti 6.99 None 
+Stadio Delivery Bucuresti 6.99 None 
+Treevi pizza Bucuresti 6.99 None 
+Sushi Time 5.99 None 
+Fortes Burger 5.99 None 
+Guava Restaurant 5.99 None 
+Pizzeria di Marco Calea Rahovei 7 None 
+MYU (bistro - Bar) 5.99 None 
+Sushi.ro Kiseleff Delivery 5 None 
+Fabrica de Gust 4.99 None 
+Bucataria Ioanei 5.99 None 
+Sandwich Toast 5 None 
+Spring Pack Garden 5.99 None 
+Chinese Garden Specialties 5.99 None 
+Din Bucatele lui Nea Marin 5.99 None 
+Balls Express Vitan 5.99 None 
+Fries Before Guys Central 5.99 None 
+Levant Grill 5.99 None 
+Shawarmania 5.99 None 
+Mix and Eat 5.99 None 
+Peking Duck 5.99 None 
+Adatto Pizza 5.99 None 
+Piatto 77 5.99 None 
+Amzei Brasserie 5.99 None 
+Wing Eat Vitan 5.99 None 
+Restaurant Atmosphere 5.99 None 
+Fries Lord Carol 5.99 None 
+Smashburg Carol 5.99 None 
+Sindbad 5.99 None 
+Next Grill 0 None 
+Indivan Matache 5.99 None 
+Indivan Apaca 5.99 None 
+Murphy`s Pizza Homului 5.99 None 
+Murphy`s Pizza Podarului 5.99 None 
+Murphy`s Pizza Heliade 5.99 None 
+Restaurant Roza 5.99 None 
+18CTEA Victoriei 5.99 None 
+LA COANA MARE -VATRA LUMINOASA 5.99 None 
+Restaurant Calypso 5.99 None 
+ZAO Carol 6.99 None 
+Avokidoo Afi Cotroceni 6.99 None 
+Avokidoo Baneasa 6.99 None 
+ZAO Militari 0 None 
+Avokidoo 6.99 None 
+Wingzz Apaca 5.99 None 
+Gioia Herastrau 5.99 None 
+BAVARIA PUB & RESTAURANT 5.99 None 
+MANCATORIE 5.99 None 
+Treevi Pizza & Gin Bar 5.99 None 
+Cozonacul lui Radu Darie Bucuresti 6.99 None 
+La Fetta D`oro 5.99 None 
+Doner Maker 5.99 None 
+La Complex 5.99 None 
+Burger Lovers Obor 5.99 None 
+The Railway 7 None 
+RAISE FOOD 5.99 None 
+PLAYERS 5.99 None 
+Mr. Wang 5.99 None 
+A37 Bistro 5.99 None 
+Nowa Herastrau 5.99 None 
+2FF  None 
+Hayati Cooked Food Floreasca 5.99 None 
+Hayati Cooked Food  Victoriei 5.99 None 
+Pizza Anver 5.99 None 
+Noodlz Feeria 5.99 None 
+THE FOOD HOUSE 6.99 None 
+The Grill 5.99 None 
+Caffe Bordo 5.99 None 
+Emerald Garden 5.99 None 
+Di Mora Pizza Artigianale 5.99 None 
+San Sebastian pizza and more 5.99 None 
+SOUL BURGERS 5.99 None 
+Restaurant Garnet 5.99 None 
+XO Food 5.99 None 
+Crown Burger 5.99 None 
+Hey Food 5 None 
+Cofetaria Marenka Pantelimon 5.99 None 
+Cofetaria Marenka Pallady 5.99 None 
+ROTI HOUSE Matache 5.99 None 
+ROTI HOUSE Apaca 5.99 None 
+SMASH BROS Apaca 5.99 None 
+SMASH BROS Matache 5.99 None 
+Nuova Plate 5.99 None 
+Pizza Stazione 5.99 None 
+Urban Burgers 5.99 None 
+Homemade Pasta 5.99 None 
+Crisp Factory 5.99 None 
+ARENA RESTO bar 5.99 None 
+ZAO Diham 0 None 
+Happy Pizza by Bucharest 4.99 None 
+Gunner`s 4.99 None 
+Pizzeria Vado  None 
+Hayati Cooked Food Straulesti 5.99 None 
+Hayati Cooked Food Izvor 5.99 None 
+Traditional by Almondo Militari 4.99 None 
+Traditional by Almondo Titan 4.99 None 
+Restaurant Beto s 5.99 None 
+Nedelya Afi 5.99 None 
+Nedelya Basarabia 5.99 None 
+Nedelya Budapesta 5.99 None 
+Nedelya Colosseum 5.99 None 
+Nedelya Veranda 5.99 None 
+Nedelya Drumul Taberei 5.99 None 
+Shaormeria Baneasa Bucuresti 6.99 None 
+Nedelya Park Lake 5.99 None 
+Nedelya Pantelimon 5.99 None 
+Nedelya Militari 5.99 None 
+Nedelya Vulcan 5.99 None 
+Nedelya Victoriei 5.99 None 
+Nedelya Titan 5.99 None 
+Agora Mogosoaia  None 
+Marrouch Food 5.99 None 
+Duman Herastrau 5.99 None 
+Hisa Sushi 8.99 None 
+Manila Lounge 5.99 None 
+Chef Simon Meat Master 5.99 None 
+Manga Poke Bucuresti 6.99 None 
+THE ADITI S KITCHEN 5.99 None 
+XO Food Delivery 4.99 None 
+Soulandheart Libanez 5.99 None 
+Loco Kicen  None 
+Tacos Factory 5.99 None 
+The Cheesy Way Bucuresti 6.99 None 
+Restaurant Sofia 5.99 None 
+Magic Crispy 5.99 None 
+Nedelya Mega Mall 5.99 None 
+French Revolution 6.99 None 
+Ana Pan Bucuresti 5.99 None 
+La Mama Bucuresti 5.99 None 
+Uncle John Bucuresti 5.99 None 
+Cozonacul lui Catalin Scarlatescu 6.99 None 
+The Brasserie 4.99 None 
+Asamj 5.99 None 
+Frango  None 
+Dristor Doner Kebap Bucuresti 5.99 None 
+Domino`s Pizza Bucuresti 5.95 None 
+Fendi Kebap Bucuresti 5.99 None 
+Grasutii Livrez Fericire by Andreea Moldovan - Nord 6.99 None 
+Grasutii Livrez Fericire by Andreea Moldovan 5.99 None 
+Steakhouse meat & grill delivery 5.99 3.0 
+Sweet by MarVio Titan 5.99 3.0 
+Rapsodia Petrolului 5 3.0 
+Shaormeria Titan 5.99 3.0 
+Mon Cher Decebal 5.99 3.0 
+Bucataria Bunicii 2.99 3.0 
+Mitzy Pizza 5.99 2.9 
+Casa Luica 0 2.9 
+Bistro Dek 8.99 2.9 
+Restaurant BBQ La Jar 5.99 2.9 
+Bella Italia Express Corbeanca 0 2.9 
+Aperitivo Bar Tunari 4.99 2.9 
+Refugiu 5.99 2.9 
+Forever Pizza 5 2.9 
+Pizza Big Family Delivery 5 2.9 
+Pui la ceaun 5 2.8 
+Il tuo Ristorante Delivery 4.99 2.8 
+Sehetas Nord 9.9 2.8 
+Il Cucina Pizza si Paste delivery 5.99 2.8 
+Midnight Trattoria 5.99 2.8 
+Statia Americana 9.99 2.8 
+Pastificio Petrolului 5 2.8 
+58 Street Food 4.99 2.7 
+The grill house burgeri si coaste delivery 5.99 2.7 
+Pastaerra Mogosoaia 4.99 2.7 
+Burger Bank 7.99 2.7 
+TeaStar AFI Cotroceni 5.99 2.7 
+Fornetti Centru Vechi 5.99 2.7 
+Pui la ceaun Baba Novac 5.99 2.6 
+Oala Express Matache 5.99 2.6 
+Pizza Ka Militari Delivery 4.99 2.6 
+Forever Pizza Delivery 5 2.6 
+Cucina Pizzeria 5.99 2.6 
+Emre Baklava Unirii 5.99 2.6 
+TeaStar ParkLake 5.99 2.6 
+Fast Food Alex 5.99 2.6 
+Huedin 19 Delivery 5.99 2.6 
+Pizza Big Family 5 2.6 
+Jacq Pot 9.99 2.6 
+Shaormeria H&M Delivery  2.5 
+Taverna Voluntari 0 2.5 
+Grill ul din Berceni 2.99 2.5 
+Taverna Bobocilor Delivery 5 2.5 
+Shaormeria H&M Baba Novac  2.5 
+HOT MEAL WOK 4.99 2.5 
+Pizzicato Victoriei Delivery 5 2.4 
+Bistro 61 2.99 2.4 
+Emir Restaurant Baba Novac 5.99 2.4 
+Burger Point (Petrolului) 5 2.3 
+Tuku.ro 5.99 2.3 
+The Grill House Burger si Coaste 6.99 2.3 
+MiNi Tea Bar - Bubble Tea 5.99 2.3 
+Taverna Negustorilor 5.99 2.2 
+Il Cucina Pizza si Paste 6.99 2.1 
+H Burger & Grill 5 2.1 
+Smiley Pizza Delivery 4.99 2.0 
+Wrap & Tortilla 5 1.8 
+LUGO 5.99 1.8 
+H Burger & Grill Baba Novac 5.99 1.8 
+Hanul cu burgeri si pizza 4.99 1.8 
+Delivery by 58 Street Food 5.99 1.6 
+SteakHouse Meat & Grill 6.99 1.5 
+Emir Restaurant 5 1.3 
+Hard Rock Cafe Bucharest 6.99 4.6 
+Atelierul de tarte - Apaca 6.99 4.3 
+Atelierul de Tarte – Ateneu 6.99 2.9 
+Cofetaria Maria 5.99 4.7 
+CAJU by Joseph Hadad  4.6 
+MACE by Joseph Hadad  4.5 
+Leonidas 5.99 5.0 
+Urban Monkey - Victoriei 5.99 5.0 
+Gusto e Passione 5.99 5.0 
+HomeBURG SunSetClub 4.99 5.0 
+Cozy Corner Café 5.99 5.0 
+Velocita- Campineanu 6.99 5.0 
+Cofetaria Altfel 0 4.9 
+the ARTIST Acasa 5.99 4.9 
+Gattini Pasta Cișmigiu 5.99 4.9 
+Moritz Eis 5.99 4.9 
+Pain Plaisir - Enescu 5.99 4.9 
+SAVORMANGER 5.99 4.9 
+Ia cu Ardei 5.99 4.9 
+Certo Pizza 5.99 4.8 
+EggsCup Pipera 5.99 4.8 
+Koko Loko Burgers 5.99 4.8 
+NAMASTE  4.8 
+Loco Kicen Delivery  4.8 
+Brutaria cu Maia 5.99 4.8 
+Sweet and pickled 5.99 4.8 
+Friddi 5.99 4.8 
+Prajitura din Natura 5.99 4.8 
+Cafetaria Specialty Shop Timpuri noi 5.99 4.8 
+ZEBRA CAT 5.99 4.8 
+Pizza di Norde Grande Amore 5.99 4.8 
+Tort de Bezea 5.99 4.8 
+Level Up Dristorului 73 5.99 4.8 
+Sushi Maki Box 5.99 4.8 
+Ramnic Grill 5.99 4.8 
+BROWNERIE 5.99 4.8 
+Bagelo Bucuresti 5.99 4.8 
+Pain Plaisir - Kiseleff 5.99 4.8 
+Cofetaria Zora 5.99 4.8 
+Ruva Coffee Shop 5.99 4.8 
+Restaurant Lago  4.8 
+Butoiul cu inghetata 5.99 4.8 
+Burgeria Stirbei 5.99 4.8 
+Tookie Meatless Street Food 5.99 4.8 
+Saint Roastery 5.99 4.8 
+Pain Plaisir Jiului 5.99 4.8 
+Rawdia 5.99 4.7 
+Cofetaria Constance Dr. Felix 5.99 4.7 
+Cofetaria Constance Dna. Ghica 5.99 4.7 
+United Burgers 5.99 4.7 
+Savoury Coffee Shop  4.7 
+BCheese - Pasta Restaurant 5.99 4.7 
+Mangiatoria Rica Venturiano 0 4.7 
+The Kimchi 5.99 4.7 
+Hado Coffee Shop Titan 5.99 4.7 
+Restaurant Minish 5.99 4.7 
+Noeme 5.99 4.7 
+Food4U 5.99 4.7 
+Preda`s Food 5.99 4.7 
+Fornetti Gorjului 5.99 4.7 
+Gregorys Pipera 5.99 4.7 
+Pizzeria Margherita 5.99 4.7 
+Again Burger 5.99 4.7 
+Taman Bun 5.99 4.7 
+Veracini Traditional Food 5.99 4.7 
+Placinte Calde 5.99 4.7 
+Ibrick 5.99 4.7 
+Burger Revolution 7.99 4.7 
+Cafetaria Specialty Shop Sebastian 5.99 4.7 
+Opa! Opa! Valea Cascadelor 5.99 4.7 
+ORYGYNS Specialty Coffee Aviatiei 5.99 4.7 
+The Burgers by Paul Vrabie 5.99 4.7 
+Cannoleria To Go  4.7 
+Pizzeria Bufalina delivery 7.99 4.7 
+MAT 5.99 4.7 
+Gattini Pasta 5.99 4.7 
+Tort de Bezea Roma 5.99 4.7 
+Fornetti Iuliu Maniu 5.99 4.7 
+Cuptorul Brancovenesc Dristor 5.99 4.7 
+Again Pizza 5.99 4.7 
+ARCO giro di gusto 5.99 4.7 
+Fornetti Piata Veteranilor 5.99 4.7 
+Atelier Chef Silviu Nedelea 5.99 4.7 
+Patiseria Tineretului- Drumul Taberei 5.99 4.7 
+Cantina Dima`s 5.99 4.7 
+GAMA FUSION 5 4.7 
+Bosfor Taverna 5.99 4.7 
+La Doamna Dita - bucate alese cu grija 5.99 4.7 
+Yolk - The Egg Station Herestrau 5.99 4.7 
+Saucy 5.99 4.7 
+Eggsmania 5.99 4.6 
+2Chefs 5.99 4.6 
+Sushi@home 5.99 4.6 
+Salajan food for home 5.99 4.6 
+Dulcinella Pantelimon 5.99 4.6 
+Sicilia gelateria Artigianale Victoriei 5.99 4.6 
+Yuki 5.99 4.6 
+Patiseria Tineretului - Sincai 5.99 4.6 
+Leonidas Stefan cel Mare 6.99 4.6 
+LA FRATI - Fast Food & Grill 5.99 4.6 
+Dulcinella Constantin Brancoveanu 5.99 4.6 
+Autoservirea Andreea 5.99 4.6 
+Rawyal Brunch & Cakes 5.99 4.6 
+Yolk - the egg station 5.99 4.6 
+Baz Bistro & Burgers - Barbu Vacarescu 5.99 4.6 
+Sana Kitchen Hut 5.99 4.6 
+Fast Food Plevnei 5.99 4.6 
+Dulcinella Calea Grivitei 5.99 4.6 
+Burgerescu 5.99 4.6 
+Mancare romaneasca 5.99 4.6 
+Go Veggie 5.99 4.6 
+Big Boy 5.99 4.6 
+RoscoVan Ribbz 5.99 4.6 
+Garlic Pub 5.99 4.6 
+Jazz Pizza 4.99 4.6 
+Patiseria Tineretului- Unirea 5.99 4.6 
+Hado Coffee Shop 5.99 4.6 
+Ava Grill 5.99 4.6 
+Conacul Nobil Pache  4.6 
+HUA FOOD 5.99 4.6 
+Restaurant Traditional 5.99 4.6 
+Food 4 Friends 5.99 4.6 
+Tava cu de toate Grand Arena 5.99 4.6 
+Black Burgers 5.99 4.6 
+Crust Artisan Bakery 5.99 4.6 
+Kanaan 5.99 4.6 
+Traditional Angels 5.99 4.6 
+Hello Donuts Piata Unirii 5.99 4.6 
+Lente Arcului 5.99 4.6 
+Coco & The Nuts  4.6 
+Popasul cu mici 5.99 4.6 
+ORYGYNS Specialty Coffee Romana 5.99 4.6 
+Burgaria Ramy 0 4.6 
+Noua Pickup Station - aprovizionat cu peste de luat acasa 5.99 4.6 
+Maison des Crepes Romana 5.99 4.6 
+Cofetaria Paradis Salajan 5.99 4.6 
+Mr. Crispy Bucuresti 5.99 4.6 
+Chef Gabrielle 5.99 4.6 
+Zenzero Gelato 5.99 4.6 
+Terasa Ancor 5.99 4.6 
+Placinte Calde.ro 4.99 4.6 
+House of Burger 5 4.6 
+Tap Pizza 5.99 4.6 
+Cravings by Cookies & Friends 5.99 4.6 
+Vyro Raw  & Vegan Bistro 5.99 4.6 
+Meniul zilei Bucuresti 5.99 4.6 
+LIFEgo by LifeBox 5.99 4.6 
+Paine si Vin 5.99 4.5 
+Hygge 5.99 4.5 
+Taza Grill 5.99 4.5 
+Love at First Bite by Adriana 5.99 4.5 
+Pepper’s Coffee 5.99 4.5 
+Dulcinella Iuliu Maniu 5.99 4.5 
+Gyros Thessalonikis Maniu 5.99 4.5 
+Leonidas Baneasa 5.99 4.5 
+Restaurant Da Giulio 5.99 4.5 
+Rainbowls 5.99 4.5 
+Foodini  4.5 
+La foc iute  4.5 
+Arome 5.99 4.5 
+Gyros Thessalonikis Chitilei 5.99 4.5 
+Lara Sweets 5.99 4.5 
+Pizza Delivery 5.99 4.5 
+Mai mult decat un dulce Crangasi 5.99 4.5 
+Conacul Zeneea  4.5 
+Burger Story - Pipera 5.99 4.5 
+Paul Mega Mall 6.99 4.5 
+Pain Plaisir - Floreasca 5.99 4.5 
+Cofetaria Georgy`s Mosilor 5.99 4.5 
+Dulcinella Stefan cel Mare 5.99 4.5 
+Salad revolution 5.99 4.5 
+SUBLIMMME 5.99 4.5 
+Coolinart 5.99 4.5 
+Berliner Donut Studio 5.99 4.5 
+Iconic Health 5.99 4.5 
+TOP KEBAB & GRILL 5.99 4.5 
+The Alchemist 5.99 4.5 
+Bendis Cafe 5.99 4.5 
+Neighbours 5.99 4.5 
+Alte Pizza 5.99 4.5 
+Pizzeria Bufalina 5.99 4.5 
+Cuptorul Bio 5.99 4.5 
+TamanBun 5.99 4.5 
+Sara Bistro Cotroceni 5.99 4.5 
+Beef Bar by Casa Angus 5.99 4.5 
+Switch. Eat Bistro 5.99 4.5 
+Carcalete by Yolk Universitate 5.99 4.5 
+Paul Cotroceni 6.99 4.5 
+Aubergine 5.99 4.5 
+Four Seasons 5.99 4.5 
+Ahmad Cuisine 5.99 4.5 
+Pizza Hut Delivery Mihalache 8.99 4.5 
+Restaurant Long Fong 5.99 4.5 
+Amarillo Restaurant 5.99 4.5 
+Turquoise 5.99 4.5 
+In Mici We Trust 5.99 4.5 
+Boutique du Pain 5.99 4.5 
+Wok pe Loc 5.99 4.5 
+GRAM Bistro 5.99 4.5 
+Restaurant Vatra 5.99 4.5 
+Picolino 5.99 4.5 
+In House Pastrami&More 5.99 4.5 
+Hayati Stefan cel Mare 5.99 4.5 
+Gyros Thessalonikis - Barbu Vacarescu 5.99 4.5 
+Bacania Companion 5.99 4.5 
+Grand Café Van Gogh 5.99 4.5 
+JA-WU Asiatic Cuisine Dorobanti 5.99 4.5 
+Shaormeria La Hussein (Gara de Nord) 5.99 4.5 
+Mai mult decat un dulce Veteranilor 5.99 4.5 
+La Livada Food 5.99 4.5 
+Cofetaria lui Andrei 5.99 4.5 
+As Burger&Grill 5.99 4.5 
+Slow Restaurant 5.99 4.5 
+Restaurant Bel Canto 5.99 4.4 
+Derya Doner Kebab 5.99 4.4 
+Gradina Verona 5.99 4.4 
+Seafood Basket 5.99 4.4 
+Maison des Crepes Aviatorilor 5.99 4.4 
+Vienna Original Wurst 5.99 4.4 
+Opa!-Opa! Greek Food 5.99 4.4 
+Mesopotamia - Cora Lujerului 6.99 4.4 
+Fastfood&Grill Specific Romanesc 5.99 4.4 
+Burgeria Cotroceni 5.99 4.4 
+BLAZE 5.99 4.4 
+Culinarium 5.99 4.4 
+Dulce Nana Cake 5.99 4.4 
+Carcalete by Yolk Herestrau 5.99 4.4 
+La Paraul Rece 0 4.4 
+La mami acasa 5.99 4.4 
+PlescavitaVan Union Plaza 6.99 4.4 
+Damir Burger - Universitate 5.99 4.4 
+Chefs Evolution 5.99 4.4 
+Cake & Roll Titan 5.99 4.4 
+Paul ParkLake 6.99 4.4 
+Coftale Specialty Coffee Shop 5.99 4.4 
+Coffeelicious 5.99 4.4 
+La Luz by Latino Coffee 5.99 4.4 
+Hashtag Pub 5.99 4.4 
+Hygge Pizza 5.99 4.4 
+Bacania Vacaresti 5.99 4.4 
+Asia`n FOOD 5.99 4.4 
+Vecchia Napoli Grivita 0 4.4 
+Mesopotamia One Cotroceni 6.99 4.4 
+BistroLanka 5.99 4.4 
+La Costellino 5.99 4.4 
+Garden8 5.99 4.4 
+Furgoneta Pipera 5.99 4.4 
+Cake & Roll Drumul Taberei 5.99 4.4 
+Pastelarium 5.99 4.4 
+Hygge Pizza Romana 5.99 4.4 
+Hygge Pizza Pantelimon  4.4 
+Paul Dorobanti 6.99 4.4 
+Restaurant Casa Doina 6.99 4.4 
+Moov Coffee Shop 5.99 4.4 
+Cofetaria Paradis Pantelimon 5.99 4.4 
+Cofetaria Georgy`s Giurgiului 5.99 4.4 
+DESCHIS Gastrobar 5.99 4.4 
+Sitara Kebab 5.99 4.4 
+conThainer 5.99 4.4 
+Zexe - Zahanaua Gastronomica 5.99 4.4 
+Italian job pizza and pasta 5.99 4.4 
+Paul Promenada 6.99 4.4 
+Brasserie 41 5.99 4.4 
+Bryo Appetite Floreasca 5.99 4.4 
+Beijing Garden 5.99 4.4 
+Bacania Companion Jiului 5.99 4.4 
+PAPA TOT 5.99 4.4 
+La Finca By Alioli 5.99 4.4 
+Energiea 5.99 4.4 
+Q Martinez 5.99 4.4 
+Oaia, Mielul si Berbecul 6.99 4.4 
+Terasa Lacramioarei 5.99 4.4 
+Sushi Master Lujerului 5.99 4.4 
+Osho 5.99 4.3 
+5ensi 6.99 4.3 
+HOT WOKS - BUCURESTII NOI 5.99 4.3 
+Sushi Garden 5.99 4.3 
+AL`CEVA 5.99 4.3 
+Chef Box Victoriei 5.99 4.3 
+Cuptorul cu lemne Pache Protopopescu 5.99 4.3 
+Chef Gabrielle Delivery 0 4.3 
+Gusto pizza 5.99 4.3 
+Restaurant Le Boutique 5.99 4.3 
+Gratar La Boby 5.99 4.3 
+PHP Pizza, Burgers & more 5.99 4.3 
+Pizza TDA 5.99 4.3 
+Aperitivo 5.99 4.3 
+Pizzeria Roza Delivery 4.99 4.3 
+First Cup Bucuresti 5.99 4.3 
+Restaurant cu Specific Chinezesc 5.99 4.3 
+Fedo’s Burger Bar 5.99 4.3 
+La Flamanzila 5.99 4.3 
+Paul Romana 6.99 4.3 
+Sardin 4.99 4.3 
+Faruno 5.99 4.3 
+Baz Bistro & Burgers - Unirii 5.99 4.3 
+Wasabi Running Sushi Bucuresti 5.99 4.3 
+Cofetaria Zora Voluntari 5.99 4.3 
+George`s Fisheries 5.99 4.3 
+Cofetaria Georgy`s Herastrau 5.99 4.3 
+PizzaBar Aluat 5.99 4.3 
+Chiftelarie Dorobantilor 5.99 4.3 
+La Doamna X 5.99 4.3 
+Flamingo Bar&Grill 5.99 4.3 
+VELOCE PIZZA 5.99 4.3 
+Shaormeria PIPERA 5.99 4.3 
+Cofetaria Marenka Liviu Rebreanu 5.99 4.3 
+Imbiss Grill Sun Plaza 5.99 4.3 
+Casa Denis 5.99 4.3 
+Bun Bun Catering 0 4.3 
+Cofetaria Calin 5.99 4.3 
+Uanderful Floreasca 5.99 4.3 
+Duna Restaurant 4.99 4.3 
+Godai 5.99 4.3 
+Restaurant Floreal 5.99 4.3 
+Malka Bucharest 5.99 4.3 
+Kantine by WienerHaus 5.99 4.3 
+Doner Kebab Giulesti 5.99 4.3 
+One Minute Pizza 0 4.3 
+Ohlala Patisserie 5.99 4.3 
+Oro Toro Baneasa 5.99 4.3 
+Tuk Tuk  4.3 
+Bierhaus 67 5.99 4.3 
+Patiseria Tineretului- Stefan cel Mare 5.99 4.3 
+Oh! Salad- Victoriei 5.99 4.3 
+Trattoria Roma 0 4.3 
+Stradale Expo Park 6.99 4.3 
+Food Amprent 5.99 4.3 
+Cake & Roll Alexandriei 5.99 4.3 
+Restaurant Amarin 5.99 4.3 
+Caboo Restaurant & Garden 5.99 4.3 
+Tava cu de toate Militari 5.99 4.3 
+Tudor Gourmet Burgers Delivery 0 4.3 
+Restaurant Capri 5.99 4.3 
+Rustic Auchan Titan 5.99 4.3 
+Sole D`Italia 5.99 4.3 
+American Burger 5.99 4.3 
+Paul Universitate 6.99 4.3 
+Aria Gourmet Burger - Universitate 5.99 4.3 
+Bucatarasul cel Dibaci 4.99 4.3 
+Anas Grill & Macelarie 5.99 4.3 
+Imbiss Grill Promenda 5.99 4.3 
+La Cocosatu Baneasa 5.99 4.2 
+HOT WOKS - PIPERA PLAZA 5.99 4.2 
+Pasha doner kebap 5.99 4.2 
+Autoservirea Oby  4.2 
+American Burger Nerva 5.99 4.2 
+Hanu` lui Manuc 6.99 4.2 
+Bread&Spices 5.99 4.2 
+Delice Grill 5.99 4.2 
+Cake & Roll Vulcan 5.99 4.2 
+La Costellino Nerva 5.99 4.2 
+Gyros Mania 5.99 4.2 
+Moft Pizza E Pasta 5.99 4.2 
+Pizza Hut Delivery Pipera 8.99 4.2 
+Pizzeria Pieptanari 5.99 4.2 
+Pizza Fiorentina 5.99 4.2 
+Bella Italia Express Sebastian 5.99 4.2 
+Rustic Basarab 5.99 4.2 
+Bunatati La Oala 5.99 4.2 
+Restaurant Capris 5.99 4.2 
+Haute Pepper 5.99 4.2 
+Pizza Bonita Vulcan 5.99 4.2 
+The Plate 5.99 4.2 
+Pizza Hut Park Lake 8.99 4.2 
+Camarad Fast 5.99 4.2 
+PT Pizza Shop Romană 5.99 4.2 
+The Coffee House 5.99 4.2 
+Lacrimi si Sfinti 5.99 4.2 
+Les Bourgeois Bistro 5.99 4.2 
+Speed Pizza Dristor 5.99 4.2 
+Cofetaria Sara 5.99 4.2 
+Cofetaria Georgy`s Colentina 5.99 4.2 
+Ciorbe si placinte Carol 5.99 4.2 
+Shaormeria La Hussein (Ion Mihalache) 5.99 4.2 
+Elfi SkyBar & UrbanKitchen 5.99 4.2 
+Pizza & Burger Sud 5.99 4.2 
+Pizza Radu 5.99 4.2 
+Vienna Original Wurst Berceni 5.99 4.2 
+Cake and Roll Veranda 5.99 4.2 
+Restaurant La Pescaderia Pipera Plaza 5.99 4.2 
+Paul Baneasa 6.99 4.2 
+3F Militari 5.99 4.2 
+Mesopotamia - Vulcan Value Center 6.99 4.2 
+Shaormeria Salaj 5.99 4.2 
+Victorita Pescarita 5.99 4.2 
+3F Mega Mall 5.99 4.2 
+Supa Dupa - Bistro 5.99 4.2 
+Noodlz Vitan 5.99 4.2 
+Teto 5.99 4.1 
+Qzine Universitate 5.99 4.1 
+Airport Grill Otopeni 0 4.1 
+Cetatea din Alep 5.99 4.1 
+La Jar Băneasa 5.99 4.1 
+Sempresano 5.99 4.1 
+Shaorma Tasty Food 5.99 4.1 
+Beraria H 6.99 4.1 
+Bistro fresh express 5.99 4.1 
+Cake & Roll Arena Mall 5.99 4.1 
+Simple Restaurant 5.99 4.1 
+Shaorma La Baiatu Dinicu Golescu 5.99 4.1 
+Power Bowls 5.99 4.1 
+La Mamica Catering 5.99 4.1 
+Chef Box Apaca 5.99 4.1 
+Traditional Cuisine 4.99 4.1 
+Ciorbe si Placinte Lanariei 5.99 4.1 
+Lazy Duck 5.99 4.1 
+Capricciosa 5.99 4.1 
+Shaormeria Cleopatra 5.99 4.1 
+Restaurant Kunchai 15 4.1 
+N O O L 5.99 4.1 
+Lane Delivery 2 5.99 4.1 
+Oval Pizza 5.99 4.1 
+White Horse 5.99 4.1 
+Ohvaz 8.99 4.1 
+Fitchef 5.99 4.1 
+Chocoloco Universitate  4.0 
+LaBirou No2 5.99 4.0 
+Express food 5.99 4.0 
+Palmiye Cakes Callimachi 5.99 4.0 
+Pizza Bonita Colosseum 5.99 4.0 
+Cuibul Randunelelor 5.99 4.0 
+La Bufet 5.99 4.0 
+Restaurant JOY 5.99 4.0 
+Shaormeria BNC 5.99 4.0 
+Pizza Bonita Pipera Plaza 5.99 4.0 
+Club Expirat 5.99 4.0 
+Johnny`s Fast Food 8 4.0 
+Bistromar 5.99 4.0 
+Grill by Meat and bread 5.99 4.0 
+The kebab food 5.99 4.0 
+Restaurant Papa Man 0 4.0 
+Chinese Rice 5.99 4.0 
+La Galleria 5.99 4.0 
+The Office Restaurant - Pipera 5.99 4.0 
+Teliatina food 5.99 4.0 
+Restaurant Pasteria dei Signori 5.99 4.0 
+leLunch 5.99 4.0 
+Ciorbe si placinte Victoriei 5.99 4.0 
+Buon e Gusto 5.99 4.0 
+Mexican Bizness 5.99 4.0 
+Casa Dantelei 5.99 4.0 
+Clatite Darayava 10 4.0 
+Bodega La Mahala 5.99 4.0 
+Burger Story - Libertatii 5.99 4.0 
+Il tuo Ristorante 5.99 4.0 
+Cantina de la Muzica 5.99 4.0 
+New York Bakers 5.99 3.9 
+Cake & Roll Mihai Bravu 5.99 3.9 
+Spartan One Cotroceni 6.99 3.9 
+Scandia Vitan 5.99 3.9 
+Karta 5.99 3.9 
+Acapulco Garden 5.99 3.9 
+Davidone EXPRESS Bucuresti 0 3.9 
+Ted`s Coffee Lipscani 5.99 3.9 
+Stradale Campus 6.99 3.9 
+Zexe Herastrau 5.99 3.9 
+Ciorbe si placinte Colentina 5.99 3.9 
+V9 - Chinese Food 5.99 3.9 
+Why Not Resto 5.99 3.9 
+Fratellini 5.99 3.8 
+Salad Box Bucuresti Mall 5.99 3.8 
+Italian Style by Zarada Restaurant 7.99 3.8 
+Ciorbe to go Poligrafiei 5.99 3.8 
+Stradale Bucharest Business Park 6.99 3.8 
+Casa Diham 5.99 3.8 
+Sushi Master Balotesti 14.99 3.8 
+Cofetaria – Patiseria Cris & Mari 5.99 3.8 
+Ciorbe si Placinte Mosilor 5.99 3.8 
+Fire Club 5.99 3.8 
+L`osteria Bragadiru 0 3.8 
+Peste & Grill 5.99 3.8 
+Restaurant Burebista Traditional 5.99 3.8 
+Biutiful Floreasca 5.99 3.8 
+Ted’s Coffee Cora Lujerului 5.99 3.8 
+Ted`s Coffee Tineretului 5.99 3.8 
+French Bakery Giulesti 5.99 3.8 
+Taverna Covaci 5.99 3.8 
+Burger God 5 3.8 
+Ciorbe to go 5.99 3.8 
+Orhideea Grill  3.8 
+Anteake Fast Food 5.99 3.8 
+IGR LUNCH CAFFE 5.99 3.8 
+Dominum Grill&Bar 5.99 3.8 
+Suzana Ribs & Wings 4.99 3.8 
+Hungry Chicken Victoriei 5.99 3.8 
+Ciorbe si placinte Iancu de Hunedoara 5.99 3.8 
+Apusului Kebab 5.99 3.8 
+Etolia Coffee To Go 5.99 3.8 
+Tucano Coffee Copacabana 5.99 3.7 
+ISAN Thai Kitchen 5.99 3.7 
+Handsome Monk Victoriei 5.99 3.7 
+Sushi Go 20 3.7 
+Greek souvlaki 5.99 3.7 
+Nicole Catering 5.99 3.7 
+Ciao Pizza Bucuresti 5.99 3.7 
+La Fadil 10 3.7 
+South Burger Food Market 5.99 3.7 
+Pikandy Pizza & Grill 0 3.7 
+Hayati Grand Arena 5.99 3.7 
+Taksim Promenada 5.99 3.7 
+Laboratorul Pastelor 5.99 3.7 
+Pizzicato Militari Delivery 5 3.7 
+Art Cafe 5.99 3.7 
+Politica si delicateturi 5.99 3.7 
+The Burger Store 5.99 3.7 
+Trattoria Capri`s 0 3.7 
+Gargantua Militari Delivery 5 3.7 
+Salt and Pepper Catering 5.99 3.7 
+Waffle Factory 4.99 3.6 
+Ciorbita 5.99 3.6 
+3F Promenada 5.99 3.6 
+Hanul la Bariera 5.99 3.6 
+Hayati Academiei 5.99 3.6 
+Aqua Lounge 5.99 3.6 
+La ingineri Bistro delivery 5.99 3.6 
+Patiseria Domi 5.99 3.6 
+The Burger Store Delivery 4.99 3.6 
+Ted’s Coffee Cora Pantelimon 5.99 3.6 
+Gogosile copilariei 5.99 3.6 
+Chimney Cake Factory 5.99 3.6 
+Pain Au Cafe 5.99 3.6 
+Gustoșel 5.99 3.6 
+Restaurant Tulin 5.99 3.6 
+La Farola 3 3.6 
+Bunatati Alese 5 3.6 
+Food Family Chef`s 5.99 3.6 
+Food To Go 5.99 3.5 
+Shaormisimo 0 3.5 
+Mao Pub 5.99 3.5 
+Paste&Burgeri 5.99 3.5 
+Athos Doner Shaorma 0 3.5 
+Terasa Pucheni 5.99 3.5 
+Ciorbe ca la Bunica Flora 5.99 3.5 
+Gregorys Baneasa 5.99 3.5 
+La Olteanu` 5.99 3.5 
+Thoma’s Pretzel&Bakery 5.99 3.4 
+Pagaia Carol 5.99 3.4 
+Poli Obor 5.99 3.4 
+La Zakyntoos 7.99 3.4 
+The Gate 5.99 3.4 
+PIZZA LOVERS & GRILL CRINULUI 4.99 3.4 
+Restaurant Hora 5.99 3.4 
+L&A Catering 5.99 3.3 
+Pizzou 5.99 3.3 
+Naser 3 10 3.2 
+Mancarea Bunicii Unirii 5.99 3.2 
+Turkish Durum Kebab 5.99 3.2 
+Lorelicious 5.99 3.2 
+Kungfu Pizza 10 3.2 
+Cuptorul Brancovenesc Orhideea 5.99 3.2 
+SAGAPO GYROS DELIVERY 4.99 3.1 
+Pantelimon Bistro 4.99 3.1 
+Fornetti Bd. Carol 5.99 3.0 
+Pizza Fiorentina Delivery 8.99 3.0 
+Pizzeria da Michele 5.99 None 
+Fratelli Herastrau 5.99 None 
+Tasty Catering 5.99 None 
+Glucoza Bar 5.99 None 
+Burger Van Mercato Kultur 5.99 3.0 
+Rossini Bistro 5.99 None 
+MeatTheBurgers Delea Veche 5.99 None 
+MeatTheBurgers 5.99 None 
+MeatTheBurgers Orhideea 5.99 None 
+MeatTheBurgers Barbu Vacarescu 5.99 None 
+French Bakery Opera 5.99 None 
+La Nea Mitica 5.99 None 
+Rus Food 5.99 None 
+Tosca Food 5.99 None 
+Gratarul Meserias Orhideea 5.99 None 
+Rotiserie Puiu` Mamii 5.99 None 
+La Colt 5.99 None 
+Restaurant & Terasa Trei Camile 5.99 None 
+Pauza Mica by Selgros Bucuresti 6.99 None 
+Restaurant Cosmopolitan 5.99 None 
+Mad Chef Cafe Bistro 5.99 None 
+Fit4You Delivery 9.99 None 
+Trattoria 33 5.99 None 
+Fresh Online 5.99 None 
+TeppanFood 4.99 None 
+Dolce Mondo 5.99 None 
+15A Bistro 5.99 None 
+Placintaria Tei 5.99 None 
+Nuaj 5.99 None 
+Pasteis de Nata Pipera 5.99 None 
+As Garden 5.99 None 
+Fun Pizza 5.99 None 
+Power Food House 5.99 None 
+Foodkit 5.99 None 
+Dreamer`s Pub 5.99 None 
+Pub Lusitan e Casa de Benfica 5.99 None 
+Rojo Cake 5.99 None 
+The Biker Coffee 5.99 None 
+Flavors Restaurant 5.99 None 
+Autoservire La Cotollino 5.99 None 
+Shaorma Grill 5.99 None 
+Pizza Shop by Patiseria Tineretului 5.99 None 
+Urban Monkey - Piata Presei Libere 5.99 None 
+Urban Monkey - Upground 5.99 None 
+Urban Monkey - Swan 5.99 None 
+Urban Monkey - Sema Park 5.99 None 
+Urban Monkey - Universitate 5.99 None 
+Urban Monkey - S-Park 5.99 None 
+Urban Monkey - Floreasca 5.99 None 
+Urban Monkey - Amzei 5.99 None 
+Urban Monkey - Baneasa BT 5.99 None 
+Urban Monkey - Eurotower 5.99 None 
+Cuptorul Brancovenesc Dorobanti 5.99 None 
+Griller 5.99 None 
+Quick Food 5.99 None 
+The Bear Necessities Coffee Shop 5.99 None 
+Fresco 4.99 None 
+Omlettarie 5.99 None 
+Numa` Barabule! 5.99 None 
+Nae Bistro Cafe 5.99 None 
+Restaurant Spotlight Veranda Mall 5.99 None 
+The molecule effect 5.99 None 
+Grillero Mogosoaia 4.99 None 
+Meat House Colentina 5.99 None 
+Mode Burger Tunari 4.99 None 
+Ciorbele Ditei 5.99 None 
+Meniul Zilei Colentina 5.99 None 
+Thoma’s Pizza 5.99 None 
+Grilly`s 5.99 None 
+Martina Ristorante Pizzeria 5.99 None 
+KUF 5.99 None 
+Placinte Calde 3 0 None 
+Restaurant Per Tutti 5.99 None 
+Planet Grill Drumul Taberei 0 None 
+Bustin’ Bowls Berceni 5.99 None 
+Cofetaria Georgy`s Baicului 5.99 None 
+Restaurant Diplomat 0 None 
+Yellow Bistro 5.99 None 
+Hanul Haiducilor Bucuresti 5.99 None 
+Romanian Mix Food 5.99 None 
+SushiRoom 5.99 None 
+Manita coffee 5.99 None 
+Autoservire Camarad 5.99 None 
+Avraham Kosher 0 None 
+Salad Corner 3.99 None 
+Pasta Vero 6.99 None 
+Pes market Depozit 5.99 None 
+BerryO 5.99 None 
+Coffee Print 5.99 None 
+23h Events Delivery 0 None 
+Restaurant Caupona 5.99 None 
+Paprika 5.99 None 
+Steak&More 5.99 None 
+Sopranos Specialty Coffee Shop 5.99 None 
+Bucatarie cu gust 0 None 
+La Felinare 0 None 
+Raw Bakery 5.99 None 
+Leonidas Nicolae Caramfil 6.99 None 
+Autoservire Tavi Macelaru 5.99 None 
+Ferma Legume Verzi Aviatiei 10 None 
+Ikura Sushi Corbeanca 11.99 None 
+Sandwicheria 5.99 None 
+Harbin 5.99 None 
+LU 5.99 None 
+Trattoria Buongiorno 6.99 None 
+Sara Green Bucuresti 6.99 None 
+Cooperativa FRUFRU Bucuresti 6.99 None 
+La Placinte Family 5.99 None 
+Sushi Go - Pipera 20 None 
+Sushi Go - Baneasa 20 None 
+Sushi Go - Erou Iancu 20 None 
+IT Bistro 5.99 None 
+Restaurant & Pizzerie LETT 7 None 
+ANTICA PASTA & GRILL 5.99 3.0 
+KROKOMINI 5.99 None 
+H2On 15 None 
+ADAM`S COFFEE 5.99 None 
+Pizza Grande Vsu 5.99 None 
+Sunset Food 5.99 None 
+Pink Lemonade 5.99 None 
+Mara Mura 6.99 None 
+KANTEEN 162 5.99 None 
+Garage Food 5.99 None 
+Restaurant Ruse 0 None 
+La Gurmand 8 None 
+BUCATARIA DE SUFLET 5.99 None 
+Tarta Ta 5.99 None 
+Epicerie Nasul Rosu Floreasca 6.99 None 
+Mr. Crispy Delivery 4.99 None 
+MEAT 2 EAT STEAKHOUSE 5.99 None 
+Tucano Coffee Pink 5.99 None 
+TUYA Bucharest 5.99 None 
+Queen Zenobia 9.99 None 
+No101 5.99 None 
+Fit Fresh Kitchen 5.99 None 
+Fit Fresh Kitchen Delivery 7 None 
+Oala Babei 5.99 None 
+Las Clatite Militari 5.99 None 
+Mancare Gatita 5.99 None 
+E Kebap 5.99 None 
+Grill 2 Go 5.99 None 
+Hungry Bears IOR 5.99 None 
+Chef Bunica Veranda 5.99 None 
+Choco crush 5.99 None 
+Delish Kebap 5.99 None 
+Bistro Papaciu 5.99 None 
+KYO SUSHI BAR 10 None 
+Central Kitchen 5.99 None 
+Wingaria Carol 5.99 None 
+Art Food 5.99 None 
+Murphy`s Pizza Mavrogheni 5.99 None 
+Murphy`s Pizza Mavrogheni Delivery 5 None 
+Murphy`s Pizza Homului Delivery 7 None 
+Murphy`s Pizza Maniu Delivery 7 None 
+Murphy`s Pizza Podarului Delivery 7 None 
+Murphy`s Pizza Ficusului Delivery 7 None 
+Murphy`s Pizza Heliade Delivery 7 None 
+Murphy`s Pizza 1 Mai 5.99 None 
+Nori Sushi 5.99 None 
+Gogoserie cu Dichis 5.99 None 
+Restaurant Delta Vacaresti 5.99 None 
+Pizza The Grill 5.99 None 
+Bubble Tea Efe Univers Bucuresti 5.99 None 
+Ana Baking Co One Cotroceni 5.99 None 
+Shaorma 4 Friends 5.99 None 
+COLECTII DULCI 5.99 None 
+Deranj Restaurant 5.99 None 
+Aqua by chef Emrah 5.99 None 
+Meniul zilei - ciorba si tocana la ceaun 5.99 None 
+Pui in Paine 5.99 None 
+BISTRO CARAMFIL 5.99 None 
+Burger Chef 5.99 3.0 
+Good Grill 5.99 None 
+FitFresh 5 None 
+Z Coffee Shop 5.99 None 
+CaliForni Pizza  None 
+Gratar si Macelarie la Gheata cu produse Romanesti 5.99 None 
+Seed Cuisine 5.99 None 
+Petit Apetit 5.99 None 
+MoodDish by Gama Fusion 5.99 None 
+South Burger Unirii N 5.99 None 
+Bistro Chicineta 5.99 None 
+Balls Express Energeticienilor 5.99 None 
+Bustin Bowls Energeticienilor 5.99 None 
+Hayati Cooked Food  Academiei 5.99 None 
+Hayati Cooked Food Grand Stefan cel Mare 5.99 None 
+Hayati Cooked Food Alba Iulia 5.99 None 
+D20 Bistro Victoriei 5.99 None 
+Meniul zilei pentru pranz 5.99 None 
+Manky Grill &Coffee 5.99 None 
+Umami 6 None 
+Baiatu` cu sushi 5.99 None 
+Cofetaria Marenka Vitan 5.99 None 
+Trattoria Il Calcio Magheru 5.99 None 
+Trattoria Il Calcio Universitate 5.99 None 
+Trattoria Il Calcio Delea Veche 5.99 None 
+Trattoria Il Calcio Floreasca 5.99 None 
+Trattoria Il Calcio Kiseleff 5.99 None 
+Nectar JuiceBar 5.99 None 
+Samaa Restaurant 5.99 None 
+Nedelya Brancoveanu 5.99 None 
+Bread Community Cotroceni 5.99 None 
+Ciorbe si Placinte Berceni 5.99 None 
+MERKANA Grill & Kebab 5.99 None 
+Gusto  None 
+Due Cugini 5.99 None 
+Wrap It  None 
+Damir Burger Universitate Delivery 8.99 None 
+Paninaro 5.99 None 
+Casa Bujgoi 5.99 None 
+The S Mac Factory 5.99 None 
+Fast Food MC 5.99 None 
+The Kimchi Militari 5.99 None 
+Cook Art Pipera 10 None 
+Healthy Bites 5.99 None 
+Fornetti Dacia 5.99 None 
+Doner King 5.99 3.0 
+Gratarul Meserias Pantelimon 5.99 2.8 
+Magic Pizza & Grill 0 2.8 
+Yellow Pub 4.99 2.8 
+BBQ BROS 5.99 2.8 
+Rosti 5.99 2.7 
+La Romanesc 4.99 2.7 
+Burger Station by Baz Masterchef- Pipera 4.99 2.7 
+Ryu Tacos Carol 5.99 2.7 
+Aria Gourmet Burger Universitate Delivery 8.99 2.7 
+Ciorbe ca la Bunica 5.99 2.5 
+Happy Food Grill & Burgers 4.99 2.5 
+Ka Classic delivery 0 2.4 
+Belli Siciliani 5.99 2.3 
+Brothers Burgers Vitan delivery 0 2.2 
+Restaurant Il locale 5.99 2.1 
+Ciorbe si Placinte Unirii 5.99 1.9 
+Bro Delivery 5.99 1.4 
+iasi 
+Restaurant Livrare Stele 
+Dania 4.99 None 
+Salsa - Mexican Inspired 4.99 4.8 
+Class  4.8 
+McDonald`s Iasi 8.99 None 
+KFC Iasi 8.99 None 
+Brics by Beer Zone 10 4.6 
+Tiki Bistro 4.99 4.5 
+Jud Shaorma Arabeasca 4.99 4.5 
+Oscar 3.5 4.2 
+the hub 4.99 4.1 
+Umami Pizza 0 3.0 
+HOF - House Of Food 6.99 4.7 
+Fenice 7.99 4.6 
+Mr Yu  4.5 
+Burritos Guerrilla Iasi 4.99 4.5 
+Crave Gourmet Streetfood  4.4 
+Oliv 5.99 4.4 
+Pizza di Napo 4.99 4.4 
+Melt  4.3 
+Rita Food 0 4.2 
+Carul cu burgeri 5 4.2 
+Wok on by 6.99 4.2 
+Bacanie pe platou 4.99 5.0 
+Fabricat La Noi 4.99 4.9 
+Grande Piadina 4.99 4.8 
+SushiVO Palas 4.99 4.8 
+Clatitaria Urbana 4.99 4.8 
+Little Hanoi 5.99 4.7 
+Creperia Bruno 4.99 4.7 
+Cartuf Alexandru cel bun 4.99 4.7 
+Cartuf Tatarasi 4.99 4.7 
+Chido Mexican Kitchen 5.99 4.7 
+PASTA HOUSE 4.99 4.7 
+Trufanda 4.99 4.6 
+Mesopotamia - Iulius Iasi 5.99 4.6 
+Madre Pizza 0 4.6 
+Krud 4.99 4.6 
+Cartofisserie Palas Iasi 4.99 4.6 
+Veneto Costache Negri 4.99 4.6 
+Torro Burger 4.99 4.6 
+OMELETTE BAR 4.99 4.6 
+Bubble Waffles Iasi 4.99 4.6 
+CARTUF Lapusneanu 4.99 4.6 
+One by One by Toujours 4.99 4.6 
+Pizzeria Assaggi 15 4.6 
+Cartofisserie Iulius Mall Iasi 4.99 4.6 
+Veneto 4.99 4.5 
+Casa Traditiei 4.99 4.5 
+Mesopotamia - Palas Iasi 5.99 4.5 
+Cheffa 15 4.5 
+Terasa Corso 4.99 4.5 
+Pizza Hut Iasi 8.99 4.5 
+Noodle Pack Palas Mall Iasi 4.99 4.5 
+Sandwich Craft 5 4.5 
+Matryoshka Palas 4.99 4.5 
+Bistro Copou 4.99 4.5 
+Blue Acqua Restaurant - Iasi 4.99 4.5 
+Kung Food Palas Mall 4.99 4.5 
+Delicio Iasi 4.99 4.5 
+FOOM by Nemteana 4.99 4.5 
+Krispy Costache Negrii 4.99 4.5 
+Rigatoni Pasta Bar Palas 4.99 4.5 
+Chubby Bubble Tea 4.99 4.5 
+Taverna Racilor Iasi 10 4.4 
+Club 20 Bamboo 10 4.4 
+Noodle Pack Iulius Mall Iasi 4.99 4.4 
+Krispy 4.99 4.4 
+Complex Popas PACURARI 9.99 4.4 
+PIZZA VESUVIO 4.99 4.4 
+Bistro Leo’s 4.99 4.4 
+Harmony Cafe 4.99 4.4 
+Zorbas DELIVERY 4.99 4.4 
+Damasc 4.99 4.4 
+Carol’s Place- Food, feelings & friends 4.9 4.4 
+Bun Buddies 4.99 4.4 
+La Papa’S - Casa Gratarului 4.99 4.4 
+Sushi Fusion 4.99 4.4 
+Trai restaurant 4.99 4.4 
+Pizzeria Alila 4.99 4.4 
+Cebuun 4.99 4.4 
+Bavaria 0 4.4 
+Gorilla Burgers 4.99 4.4 
+KOUZINA 4.99 4.3 
+Artigiani Pizzeria 0 4.3 
+Arnia 4.99 4.3 
+Subway Iasi Palas 5.99 4.3 
+Moldova are Gust 4.99 4.3 
+Magic pizza 4.99 4.3 
+Abou Hasan - Halal Place 4.99 4.3 
+Madison Palas 15 4.3 
+Dulcinella Iasi 4.99 4.3 
+Caravan Gastro Bar  4.3 
+Taco Bell Palace Mall 8.99 4.3 
+Atelierul Traditiei 4.99 4.3 
+Pepe Pizza 4.99 4.3 
+ALTceva 4.99 4.3 
+Pasta Bistro 4.99 4.3 
+Iasi Grill 7.99 4.2 
+Restaurant Veranda 4.99 4.2 
+Kiwan`s 4.99 4.2 
+Ikura Sushi Iasi 8 4.2 
+Bigburger Statione 5 4.2 
+El Guapo Mexican Quisine - Costache Negri 4.99 4.2 
+Czech In by Staropramen 15 4.2 
+Miraval 6.99 4.2 
+Pep&Pepper Iasi 4.99 4.2 
+Splend`eat 4.99 4.2 
+Taste 4.99 4.2 
+Matryoshka Iulius 4.99 4.2 
+Rigatoni Pasta Bar Iulius 4.99 4.2 
+Zano  4.2 
+Smile Pizza 4.99 4.2 
+Quesazilla 4.99 4.2 
+Tribeca Pub & Charcoal Grill 15 4.1 
+Restaurant Rustic Bellaria Hotel 6.99 4.1 
+La Placinte 15 4.1 
+College Bar and Grill 4.99 4.1 
+El Guapo Mexican Cuisine 4.99 4.1 
+Teton Burgers 4.99 4.1 
+Master “ the fun experience “ 4.99 4.1 
+Arizona Steak House 4.99 4.1 
+Sushi Master Iasi 5.99 4.1 
+Gyros Taverna 4.99 4.1 
+Kung Food Iulius Mall 4.99 4.1 
+Legend Pub 5.99 4.1 
+SushiVO Iulius 4.99 4.0 
+Muse 4.99 4.0 
+Restaurant Almita 14 4.0 
+Grand Donner 4.99 4.0 
+Opa Opa  4.0 
+Atelierul de bere 4.99 4.0 
+Casa Vanatorului 4.99 4.0 
+Oriental Delights 4.99 3.9 
+Coliba Moldovenilor- Pizza la Vatra 9.99 3.9 
+Artemis Food&Drink 7.99 3.9 
+Ramen Bar 4.99 3.9 
+Bristo Bigbur 5 3.9 
+Fratelli Ristorante Iasi 4.99 3.9 
+BunDeTot Bucsinescu 4.99 3.9 
+CRISPY MANIA 4.99 3.8 
+Auguri Pizza Napoletana 4.99 3.7 
+Le Beirut 4.99 3.7 
+Prive 0 3.7 
+Curtea Berarilor Timisoreana 4.99 3.7 
+Coasta lu’ Bontea Iasi 4.99 3.7 
+Bigbur 5 3.7 
+DopoPoco pizza 0 3.6 
+Take&eat 0 3.6 
+Restaurant Lord 5 3.6 
+Pizza Gemeni 0 3.6 
+Auguri Pizza Romana 4.99 3.6 
+Jay Bubble Tea Iasi 4.99 3.6 
+Pizza Bigbur 5 3.5 
+Ospatul Zeilor 4.99 3.5 
+Motiv 4.99 3.5 
+Pravalia cu Paste 5 3.5 
+COASTERIA 6.99 3.3 
+Theo`s Greek Taverna 4.99 3.2 
+Starbucks Iasi 7.99 None 
+Salad Box Iasi 5.99 None 
+Wrap Food Location 5 3.0 
+Burgers & Co 4.99 None 
+Da Vinci`s 4.99 None 
+Dulcinella Bucium 4.99 None 
+PunkO 6.99 None 
+Arabic Palace 4.99 None 
+Mirai Sushi 4.99 None 
+Pizzeria Rospeto 0 None 
+Mado Iasi 4.99 None 
+Yumm: Iasi 4.99 None 
+Krud Express  4.6 
+Fornetti & coffee to go Pacurari 4.99 5.0 
+Big Cup Coffee 4.99 5.0 
+Mufftangerie 4.99 4.9 
+Piccola Italia 30 4.9 
+WOWFFLES 4.99 4.8 
+Cofetaria TUFFLI 8 4.7 
+Fornetti & Coffee To Go 4.99 4.7 
+Acaju 4.99 4.7 
+Big5 American Burger 7.99 4.7 
+Donuterie Iasi 4.99 4.7 
+Galle - Pizzerie - Restaurant 5 4.7 
+Simigerie 2Moldoveni 4.99 4.7 
+Tealicious Bubble Tea 4.99 4.6 
+Dulcinella Dacia 4.99 4.6 
+THE BOX KAUFLAND PAVLOV 4.99 4.6 
+Take&Eat Cantemir 4.99 4.6 
+East Seventeen Fast Food 4.99 4.5 
+Dionisos King 4.99 4.5 
+Corner Grill 4.99 4.5 
+THE BOX KAUFLAND TUDOR 4.99 4.5 
+Pauza Mica By Selgros Iasi 4.99 4.5 
+Pizzeria Golfo di Napoli 4.99 4.5 
+La Bottega Iasi 4.99 4.5 
+Arcu House of Beer 4.99 4.5 
+Wok Up 4.99 4.5 
+Chinese Restaurant By Li 4.99 4.5 
+Spartan Iasi Felicia 5.99 4.5 
+MrPott Iulius Mall 4.99 4.5 
+Chinese Express 4.99 4.5 
+Lifespot Raw Vegan 4.99 4.4 
+Oala cu Gust 7 4.4 
+American Bite 4.99 4.4 
+East Seventeen Patiserie 5.99 4.4 
+Rustic 3.99 4.4 
+Kung Food Egros 4.99 4.4 
+Ayan doner kebab 4.99 4.4 
+THE BOX KAUFLAND PACURARI 4.99 4.4 
+MrPott Palas Mall 4.99 4.4 
+Spartan Iasi Palas 5.99 4.4 
+Boulevard 4.99 4.3 
+Forno Pizza 5.99 4.3 
+TikToast  4.3 
+Dulcinella Pacurari 4.99 4.3 
+Gustare Calda 4.99 4.3 
+Spartan Egros Shopping 4.99 4.3 
+Opa Opa Miroslava  4.3 
+La Soldat 4.99 4.3 
+Food For Life 4.99 4.2 
+La Ciambella 4.99 4.2 
+Matala Bistro 4.99 4.2 
+Cibo 4.99 4.2 
+Spartan Bucium 5.99 4.2 
+OSTERIA MOO 4.99 4.2 
+Taverna la Yorgo`s 4.99 4.2 
+Bistro Moo 4.99 4.2 
+Presidio 4.99 4.2 
+Bodydany Food 4.99 4.1 
+La Bolfos 4.99 4.1 
+La Moldoveanca 7.99 4.1 
+Time Out 4.99 4.1 
+Maison F 4.99 4.1 
+Bistro Food For Life 4.99 4.0 
+La Scaborea 4.99 4.0 
+TONIC LOUNGE 4.99 3.9 
+Bizantiq Delivery 0 3.8 
+4food 4.99 3.8 
+Veneto Delivery 9 3.7 
+Take&Eat Express 4.99 3.7 
+Tiki Bistro Delivery 6.99 3.6 
+Assian Choice 4.99 3.4 
+Gorilla Burgers Delivery 6.99 3.3 
+La Coliba Fast Food 9.99 3.2 
+Gramps Kiosk 4.99 3.1 
+Scrijele de mere ca la bunica 4.99 None 
+Street Flavor`s 4.99 None 
+Take Events 4.99 None 
+Pauza Meseriasului Fast Food & Patiserie 4.99 None 
+Noodle Fast 4.99 None 
+Restaurant Turnul de Apa 4.99 None 
+Restaurant Alexia 4.99 None 
+Fornetti & coffee to go Nicolina 4.99 None 
+Taverna la Yorgos Stefan cel Mare 9.99 None 
+Balaur Food 4.99 None 
+PitStop Food 4.99 None 
+Mia`s Caravan 4.99 None 
+FRItes atelierul de cartofi 4.99 2.8 
+Gramps Delivery 12.99 2.0 
+FRItes atelierul de cartofi delivery 12.99 2.0 
+arad 
+Restaurant Livrare Stele 
+Nissara’s Restaurant 5.99 4.8 
+La Bottega 5.99 4.7 
+Segafredo Zanetti Espresso 5.99 4.6 
+Plattinium Bistro&Pizza 0 4.5 
+KFC Arad 8.99 None 
+McDonald`s Arad 9.99 None 
+Pizza 24 0 4.7 
+Restaurant Crisana 5.99 4.7 
+Local 5.99 4.7 
+Ristorante D’amici 5.99 4.7 
+Art Cafe 5.99 4.7 
+La Pergola 5.99 4.6 
+Mercato Segafredo Zanetti 5.99 4.4 
+Ayran Doner Kebab 5.99 4.4 
+BISTRO GRILL 5.99 5.0 
+Eat Like a Man 5.99 4.9 
+Momo`s Burgers 5.99 4.8 
+Fornetti Polivalenta Arad 5.99 4.8 
+Happy Time 5.99 4.8 
+Pizza Savori 0 4.8 
+Restaurant Central 5.99 4.7 
+Food Expres 5.99 4.7 
+Restaurant Veranda 5.99 4.7 
+Bruno Pizza 5.99 4.7 
+Restaurant D`Angelo 5.99 4.7 
+Ratio Restaurant 5.99 4.7 
+Restaurant Noi 5.99 4.7 
+Kril 5.99 4.7 
+La Hasan 5.99 4.7 
+Mesopotamia - Atrium Arad 6.99 4.7 
+Pizza Ruby 4.99 4.7 
+Burger Casa Jelen 5.99 4.7 
+Milano  4.6 
+Casa Jelen 5.99 4.6 
+Subway Arad 6.99 4.6 
+Curtea Veche 5.99 4.6 
+Pizza Jelen 5.99 4.6 
+Pizzeria La Strada Dorobantilor 0 4.6 
+CHIPSY KINGS 5.99 4.6 
+Pizza 5 Colturi 0 4.5 
+Restaurant Grenier Brasserie 8.99 4.5 
+Euphoria Biergarten Arad 5.99 4.5 
+BurgerLab 5.99 4.5 
+Pinsa & Teglia Romana by Vero Amore 4.99 4.4 
+Pizza Italia - Ristorante Coandi 5.99 4.4 
+Hotel Gio 5.99 4.4 
+Ornella Micalaca 5.99 4.4 
+Restaurant Pizzeria Venezia 5.99 4.4 
+Restaurant Pizzeria Ciao Bella 5.99 4.4 
+Burger Box 5.99 4.3 
+Big Belly Mania 5.99 4.3 
+Restaurant Bianco Nero 5.99 4.2 
+Pizzeria La Strada 0 4.1 
+Pizzeria Calabria 5.99 4.0 
+Pizzeria Boccaccio 4.99 3.8 
+SURA DACILOR ARAD 5.99 3.7 
+PIZZERIA BILBAO 5.99 3.7 
+Kebab House Arad  None 
+OLIMPIK PIZZA 5.99 None 
+Shock Kebab Arad 5.99 None 
+RESTAURANT LEON 5.99 None 
+Cuibul Cocorilor 5.99 None 
+Serbian Vibe 4.99 None 
+Saiyan The6thSense 5.99 None 
+Big Chicken  4.7 
+Restaurant Summer 5.99 5.0 
+3F Arad 5.99 4.5 
+Kev`s 5.99 4.9 
+Clatitaria Refresh 5.99 4.9 
+Il Napoletano 5.99 4.9 
+Bruno Burger 5.99 4.9 
+Star Waffles 5.99 4.8 
+Luca`s Food Passion 5.99 4.8 
+Pauza Mica by Selgros Arad 5.99 4.8 
+Plescavita Sarbeasca 5.99 4.8 
+Marula 5.99 4.8 
+Pizzeria 1+1 5.99 4.8 
+Taverna Libaneza 5.99 4.8 
+Ted`s Coffee CO Arad 5.99 4.8 
+Pizzeria L`Son 5.99 4.8 
+Pasta Fresca B.B.D. 5.99 4.8 
+La Rotisserie 5.99 4.8 
+Karitani Dedeman 5.99 4.8 
+Rotiseria Fortuna 5.99 4.7 
+Cofetaria Libelula 5.99 4.7 
+Casa Pitoreasca 10 4.7 
+Pizza Vero Amore 5.99 4.7 
+Pizzeria Milano Micalaca 0 4.7 
+Biosweets 6.99 4.7 
+Pizzeria Libelula 5.99 4.7 
+La Nasu 4.99 4.7 
+Gyro Mania 6 4.7 
+Marlenka Family 5.99 4.6 
+Ankara Kebab(Saormescu) 6.99 4.6 
+Restaurant Orhideea 5.99 4.6 
+Bunatati de Halmagiu 5.99 4.5 
+Venoli Bistro 5.99 4.5 
+Epic Pasta 6 4.5 
+Family Cuisine 3.99 4.4 
+Autentic pleskavita 5.99 4.4 
+Bucataria Paul 5.99 4.4 
+Analesia`s Food 5.99 4.4 
+Gala Fresh 5.99 4.3 
+Octavian`s Cuisine 5.99 4.3 
+Vegan Time 0 4.3 
+Art Sushi 5.99 4.3 
+Hotel President 5.99 4.1 
+La Pachet 5.99 None 
+Pasta 5.99 None 
+Foodie The Van 5.99 None 
+Take Away Food to Go 5.99 None 
+brasov 
+Restaurant Livrare Stele 
+Burger King Brasov 9.99 4.4 
+Ando’s 5.99 4.4 
+Beraria Pofta sau Foame 6.99 4.1 
+KFC Brasov 8.99 None 
+Crispy By Just Inn Box 5.99 4.8 
+Basarabia Food 5 4.6 
+Extrabite 5.99 4.5 
+Burritos Guerrilla Brasov 5.99 4.5 
+Azima 5.99 4.3 
+Shaormeria Baneasa Brasov 2 5.99 4.3 
+Shaormeria Baneasa Brasov 5.99 4.2 
+Justinn Burgers 5.99 4.6 
+Casa Tudor 6.99 4.6 
+Jerry`s Pizza Brasov 0 4.6 
+Ceasu` Rau 6.99 4.4 
+Anatolia 5.99 3.8 
+Haplea d ale Gurii Brasov 5.99 None 
+TeaStar AFI Brasov 5.99 5.0 
+Fish N Chips by Just Inn Box 5.99 4.9 
+Gelateria La Romana dal 1947 - Brasov 6.99 4.8 
+Bdelicious 5.99 4.8 
+Dafud 5.99 4.8 
+Shaorma La Juma`De Kill 5.99 4.8 
+Gratar urban 5.99 4.8 
+Le Pressoir 5.99 4.7 
+Famous Waffles Brasov 5.99 4.7 
+Souvlaki Athens 5.99 4.7 
+Next Door 5.99 4.7 
+Massimo & Emma La Dolce 5.99 4.7 
+Scularie 5.99 4.7 
+Kronburger AFI 6.99 4.7 
+Master Burger 5.99 4.7 
+Nec`s Line 6.99 4.7 
+Kifla 5.99 4.7 
+Somethin` Veggie 5.99 4.7 
+Ieftinache 5.99 4.7 
+Queue de Cheval 5.99 4.7 
+Un Trancio e Via  4.7 
+Quick Bites Delivery Brasov 5.99 4.7 
+Famous Smoke BBQ 5.99 4.7 
+Fried Chicken 5.99 4.7 
+13 Pub 5.99 4.6 
+Am Rosenanger 5.99 4.6 
+Zorba The Greek 5.99 4.6 
+La Mav 5.99 4.6 
+Pizza Radu Brasov  4.6 
+Hopaa Bartolomeu 5.99 4.6 
+Sub Tampa 5.99 4.6 
+Kronburger Coresi 6.99 4.6 
+Fabrica de Snitele 5.99 4.6 
+Snitele Ca la Bunica 5.99 4.6 
+Crouton Coresi 5.99 4.6 
+Mesopotamia - Coresi Brasov 6.99 4.6 
+Cugini`z Pizza & More 5 4.6 
+Enjoy Sushi & Pasta 5.99 4.6 
+Fish & Chips 5.99 4.6 
+Sumeshi Delivery 0 4.6 
+Deane`s Irish Pub 5.99 4.6 
+Ikura Sushi Brasov 8 4.6 
+Cofetaria Dor Dulce 5.99 4.6 
+Friptura in pita 5.99 4.6 
+Delicio Brasov 5.99 4.6 
+Pizza Volla 5.99 4.6 
+Ma Pizza 5.99 4.6 
+Mambo Gelato 5.99 4.6 
+Terroirs Boutique du Vin 5.99 4.5 
+Transylvania Bakery 5.99 4.5 
+Little Hanoi Brasov 5.99 4.5 
+Richburger  4.5 
+Mesopotamia - Carrefour Brasov 6.99 4.5 
+Best Food Delivery 5.99 4.5 
+Starbucks® Afi 8.99 4.5 
+Sandwich La Juma`De kil 5.99 4.5 
+Sumeshi 5.99 4.5 
+Hopaa! 5.99 4.5 
+Sergiana Muresenilor 6.99 4.5 
+Pizzaiolo 0 4.5 
+Herr Strudel Avantgarden 5.99 4.5 
+WhatSOUP  4.5 
+Cartofisserie - Baritiu 5.99 4.4 
+Two Guys Delivery 7.99 4.4 
+Bella Muzica 5.99 4.4 
+Frankie`s Burgers&Sandwiches 5.99 4.4 
+Sandwich Libanez 5.99 4.4 
+Zaza Bistro 5.99 4.4 
+Spartan Brasov 6.99 4.4 
+Pandamania 4.99 4.4 
+Noodle Pack Coresi Brasov 5.99 4.4 
+Pep&Pepper Afi Palace Brasov 5.99 4.4 
+Cartofisserie AFI Brasov 5.99 4.4 
+Mi Piace Pasta Fresca & Sushi Tori Coresi 5.99 4.4 
+DZE BEST 5.99 4.4 
+Sushi Master Brasov 5.99 4.4 
+Noodle Pack Afi Brasov 5.99 4.4 
+Ti-e Foame 5.99 4.4 
+Ready to Box Chopstix Brasov 5.99 4.4 
+Meat with us 3.99 4.4 
+Famous Waffles- Piata Sfatului 5.99 4.4 
+DopoPoco Pizza 5.99 4.4 
+Bakabi  4.4 
+Big Belly Brasov 5.99 4.4 
+Dodo Pizza Brasov 6.9 4.4 
+Pizza Bonita Brasov 5.99 4.3 
+Sushi Han Brasov 7 4.3 
+Laboratori  4.3 
+BigFood 5.99 4.3 
+Crazy Bite 5.99 4.3 
+Galeata cu crispy 5.99 4.3 
+Taco Bell AFI Brasov 8.99 4.3 
+Spartan Stadionului 6.99 4.3 
+Four Roses 5.99 4.3 
+Eat & Smile 5.99 4.3 
+Cucinino Pasta Bar 5.99 4.3 
+Pizza Napoli 0 4.3 
+Old Jack Burger House 5.99 4.3 
+Migos Pizza  4.3 
+Friptache. 5.99 4.3 
+Bistro d Ada 5.99 4.3 
+Taco Bell Coresi Brasov 8.99 4.3 
+Cartofisserie - Coresi 5.99 4.3 
+Laleli Shaorma 5.99 4.3 
+Barrique garden 5.99 4.3 
+Restaurant Casa Romaneasca 5.99 4.2 
+Zorba The Greek Delivery 10 4.2 
+Pizza Spot 6.99 4.2 
+Starbucks®  Coresi 8.99 4.2 
+Old Shanghai 5.99 4.2 
+Restaurant Karamna 5.99 4.2 
+Bubble Waffles Brasov 5.99 4.2 
+AHA Pizza Delivery 7 4.2 
+Pizza Hut Brasov 8.99 4.1 
+Pizza Radu Brasov Delivery 5.99 4.1 
+Yamma  4.1 
+Pizzeria Nicoli 5.99 4.1 
+Zet Burger 6.99 4.1 
+Restaurant Mado 5.99 4.1 
+Pui Pi` Jar 5.99 4.1 
+La Strada Bistronomie 0 4.1 
+Broaster Chicken Brasov 5.99 4.0 
+Sushi Tori AFI Brasov 5.99 4.0 
+Taksim AFI Palace Brasov 5.99 4.0 
+DopoPoco Fast Food 5.99 4.0 
+Cupt`or 5.99 4.0 
+Viva la Vida 5.99 4.0 
+Trattoria Italia Brasov 5.99 4.0 
+Scularie Delivery 4.99 4.0 
+Mulan Asian Food 4.99 3.9 
+Panineria Nicoli 5.99 3.9 
+Casa Avram Iancu 4.99 3.9 
+Da Vinci Brasov 5.99 3.9 
+Ready to Box Chopstix Afi Brasov 5.99 3.9 
+Domino`s Pizza Brasov 5.95 3.9 
+Gaura Dulce 5.99 3.9 
+Blink Pizza 7 3.8 
+Ted`s Coffee Brasov 5.99 3.8 
+Pizzeria Bada Bing 7 3.8 
+Ola Grill  3.8 
+Ma Cocotte Gastro Wine Bar 5.99 3.8 
+KUI BRASOV 5 3.8 
+Pizza Paradise 5.99 3.8 
+Pasta & Basta 5.99 3.8 
+Blue Viking 0 3.8 
+La Strada Pizza & Sandwich 0 3.8 
+La Turcu 1 5.99 3.7 
+Brașov Shaorma-Kebab by B&B 5.99 3.7 
+Quick Bites Brasov 5.99 3.7 
+Saladdish Brasov 5 3.7 
+The Drake Pub 5.99 3.7 
+Burgerway Brasov 5 3.6 
+Mamaliguta Brasov 6 3.5 
+Pastarella Brasov 5 3.5 
+Platouri Brasov 5 3.5 
+Quick Pizza Brasov 5.99 3.4 
+Wingsup Brasov 5 3.4 
+Migos Crispy  3.4 
+Kasho Lounge  3.3 
+Vespa pizza by laboratori 4.99 3.3 
+Ando`s Delivery 0 3.1 
+Food Drive 5.99 3.0 
+McDonald`s Brasov 9.99 None 
+Pasta e basta by laboratori 4.99 None 
+Eat and Meet by laboratori 4.99 None 
+Velocita Brasov 6.99 None 
+Herr Food 5.99 None 
+Abu Food & Sandwiches 4.99 None 
+Treevi Pizza Brasov 5.99 None 
+Subway Bartolomeu 6.99 2.9 
+Dei Frati 5.99 4.9 
+Quotidian  4.5 
+The Cheesy Way Brasov 5.99 4.0 
+Luado Chocolate 5.99 5.0 
+LATINO FOOD ANAIS 5.99 5.0 
+Vatra Bunicii 5.99 5.0 
+Marial Desserts - Cofetarie artizanală  5.0 
+Brutaria Simplu 5.99 5.0 
+Bistro Albert 5.99 5.0 
+Langoseria Ahha Cuisine 5.99 4.9 
+Jo`s taste bakery cafe lifestyle 5.99 4.9 
+Bistro Simone 5.99 4.8 
+TEXAS BURGERS 5.99 4.8 
+First Cup Garii 5.99 4.8 
+Twinbeans 5.99 4.8 
+Velo Breakfast 5.99 4.8 
+Cofetaria Bombo 5.99 4.8 
+Life in a Spoon 5.99 4.8 
+Psycho churros and coffee 5.99 4.8 
+Bistro de l`Arte 5.99 4.8 
+DeliveryArt 5.99 4.8 
+Fast Food Ariesu 5.99 4.8 
+Mons Mellis - Brutărie artizanală autentică 6.99 4.8 
+Santa Cantina 5.99 4.8 
+Rawdia Brasov 5.99 4.7 
+Bonjour Waffles Crepes & More 5.99 4.7 
+Croitoria de Cafea 5.99 4.7 
+Vatra cu Ciorbe si Supe 5.99 4.7 
+Pizzeria Gusto 5.99 4.7 
+Pizzeria Nonna Papera 5.99 4.7 
+MOJOS 5.99 4.7 
+Stage Pizza Brasov  4.7 
+The Paddock 0 4.7 
+La Ceaun 5.99 4.7 
+Charming Coffee 5.99 4.7 
+Velo Food 5.99 4.7 
+La Birou Bistro 5.99 4.7 
+Cofetaria Bombo Calea Bucuresti 5.99 4.7 
+Culinart 5.99 4.6 
+Ahha Cuisine 5.99 4.6 
+Don Antonio 5.99 4.6 
+La cartoful de aur 5.99 4.6 
+Crazy Bubble Tea Brasov 5.99 4.6 
+Xin Yue Brasov 7 4.6 
+Edy`s Food 5.99 4.6 
+Maison des Crepes Brasov 5.99 4.6 
+Don Gigi 5.99 4.6 
+Boutique della Pasta 7 4.6 
+Hot Dog Factory 4.99 4.6 
+JB Burger Brasov 5.99 4.6 
+Ograda 5.99 4.6 
+Easy 5.99 4.6 
+Ciorbe si Traditii 5.99 4.6 
+Crouton AFI Brasov 5.99 4.6 
+Sergiana AFI 6.99 4.6 
+Simigeria Petru Brasov 5.99 4.6 
+Pizza Station Brasov 5.99 4.6 
+Atelierul de Burgeri Delivery 5.99 4.6 
+Sergiana Coresi 6.99 4.5 
+Taverna Pescarului 5.99 4.5 
+Pilvax 5.99 4.5 
+Sky Food Brasov - by Lucmir 5.99 4.5 
+Cartofisserie - Magnolia 5.99 4.5 
+Filalei Shaorma 5.99 4.5 
+Cofetaria La Vatra Ardealului 5.99 4.5 
+Pizza Toscana 5.99 4.5 
+Saladbox 5.99 4.5 
+Oala Haiducilor  4.5 
+Jamaica 5.99 4.5 
+Traditional Veritabil 5.99 4.5 
+Pinseria Publick 5.99 4.5 
+Gourmet passion for cooking 7 4.5 
+Restaurant Boema 5.99 4.4 
+Oat Box 5.99 4.4 
+Il ghiottone 5.99 4.4 
+Millenium Pub & Café 5 4.4 
+Pauza Mica by Selgros Brasov 5.99 4.4 
+Amigo food 5.99 4.4 
+Restaurant Casa Brasoveana 5.99 4.4 
+Velo Coffee - Cafe Du Theatre 5.99 4.4 
+Pui Pi Jar Delivery 0 4.4 
+Starbucks® Piata Sfatului 8.99 4.4 
+Bubble Tea Efe Univers 5.99 4.4 
+Tabulet 4.99 4.3 
+Street Food Lab 5.99 4.3 
+First Cup 5.99 4.3 
+Meatica 5.99 4.3 
+Restaurant Stai un pic 5.99 4.3 
+City Pizza Brasov 5.99 4.3 
+Cofetarie Kremes 5.99 4.3 
+Subway Centru Brasov 6.99 4.3 
+Cinque Terre Pizzeria Napoletana 5.99 4.3 
+Ciorbe si gratare 5.99 4.2 
+Shaormeria Baneasa Tractorul 5.99 4.2 
+Ciorbe cu Gust 5.99 4.2 
+Pizza Roma 5.99 4.2 
+Me Gusta Brasov 3.99 4.2 
+Kashmir caffe&restaurant 5.99 4.2 
+Pizza Express 5.99 4.1 
+Pizza No 21 5.99 4.1 
+Pickles 5.99 4.1 
+Soup and Grill 5.99 4.1 
+Wagner`s Loft 5.99 4.1 
+Volt 5.99 4.1 
+Pizza Misu 5.99 4.1 
+RuGoo 5.99 4.1 
+Saladbox Muresenilor 5.99 4.1 
+Adaggio 5.99 4.1 
+Casa Hirscher 5.99 4.0 
+1Food 9.9 4.0 
+Go Greek Taverna 5.99 4.0 
+Joy Restaurante 5.99 4.0 
+J`Adore Bistro 5.99 4.0 
+Shaormeria La Butoaie 5.99 4.0 
+Bazar Pub & Bistro. 5.99 4.0 
+Buona Terra 5.99 4.0 
+Just Food 5.99 3.9 
+Enjoy Coresi Bistro 5.99 3.9 
+Casa Ciorbelor 5.99 3.9 
+Ola Crunch Brașov  3.9 
+Mediterra Brasov 5.99 3.8 
+Four Star Pizza 5 3.8 
+Jamaica Delivery 6 3.7 
+Restaurant Casa Brasoveana Delivery 0 3.7 
+Clatite si Waffles by Adaggio 5.99 3.7 
+La Gospodina 5.99 3.7 
+Cityfood  3.6 
+Pizza Station Delivery 5 3.6 
+Velo Coffee 5.99 3.5 
+Traditional Veritabil Delivery 6 3.4 
+Kundera Brasov 5.99 3.4 
+Charcuterie chic by Luna 3.99 3.4 
+Lingura cu Sare 10 3.1 
+La Nea Ion 5.99 None 
+Ais Food 5.99 None 
+American Bakery 5.99 None 
+Calicantus 5.99 None 
+Lambioni 5.99 None 
+Etny 5.99 None 
+Pizza Party Transilvania 5.99 None 
+Pizza Party Transilvania Delivery 0 None 
+Express food&catering 5.99 None 
+Transilvania burger 5.99 None 
+Transilvania Pizza brasov 5.99 3.0 
+Oala Ardeleana 0 None 
+MASTER STEAK HOUSE 5.99 None 
+Kelebek Turkish Delight 5.99 None 
+RefreshPoint coffeeshop 5.99 None 
+Potate 5.99 None 
+Calicantus Delivery 0 None 
+La Polonic 1 5.99 None 
+La Polonic 2 5.99 None 
+Casa Ciorbelor Brintex 5.99 None 
+Shaormeria la Butoaie Delivery 6 None 
+Transilvania Doner 5.99 2.7 
+Pizza Toscana Brasov 5.99 2.5 
+oradea 
+Restaurant Livrare Stele 
+The Blooms 3.99 4.6 
+Kintaro Sushi 8 None 
+Due Fratelli 4 None 
+McNeil 3.99 None 
+Noodle Pack Retail Park Oradea 3.99 4.5 
+Restaurant OLD MILL 3.99 4.4 
+KFC Oradea 8.99 None 
+Due Fratelli Piadineria 4 None 
+Due Fratelli Pizza e Panino 4 None 
+McDonald`s Oradea 8.99 None 
+London Brothers Delivery Oradea 5.99 5.0 
+Japanos Oradea Delivery 0 5.0 
+Donuterie Lotus 3.99 4.8 
+Merci 3.99 4.8 
+Trattoria 5 Minuti 3.99 4.8 
+Steak HUB 3.99 4.8 
+Casa Mignon 4.99 4.8 
+Casa Piratilor 3.99 4.7 
+Ikura Sushi Oradea 8 4.7 
+London Brothers Oradea 3.99 4.7 
+Sushi Master Oradea 0.99 4.7 
+Sesto by Blooms 3.99 4.7 
+Platouri 3.99 4.7 
+Magic Waffle 3.99 4.7 
+Euphoria Biergarten Oradea 3.99 4.7 
+Black Wolf Pizza 3.99 4.6 
+Real Burgers 3.99 4.6 
+Fast Pizza Delivery 3.99 4.6 
+BeerHouse 0.99 4.6 
+Pizza Smoke 3.99 4.6 
+Don King Pizza 0.99 4.6 
+The Dripper 3.99 4.6 
+One Burger 3.99 4.5 
+Vreau Ciorba 3.99 4.5 
+Pizzeria Artizanală L`Autentica 0 4.5 
+Orient Food 3.99 4.5 
+Pasta Lover 3.99 4.5 
+Pastelarie 3.99 4.5 
+Seven Food 3.99 4.5 
+Pellini Evolution 3.99 4.5 
+Ciresica Wine Bistro 3.99 4.5 
+Vegendary 3.99 4.4 
+Restaurant Graf 3.99 4.4 
+Super Pizza 3.99 4.4 
+Mesopotamia - Lotus Center Oradea 3.99 4.4 
+Mesopotamia - Prima Shops Oradea 3.99 4.4 
+Restaurant Retro 4.99 4.4 
+Kokolosh Restaurant 3.99 4.4 
+Noodle Pack Lotus Center Oradea 3.99 4.4 
+Mediterana 3.99 4.4 
+Black Wolf 3.99 4.4 
+Restaurant Astoria 3.99 4.4 
+Shock Kebab Oradea 3.99 4.4 
+Dabo Doner Oradea Lotus 3.99 4.3 
+Enchante Rooftop & Social Lounge 3.99 4.3 
+La Sarmale 3.99 4.3 
+Japanos Oradea 3.99 4.3 
+Seven Fast Food 3.99 4.3 
+Mesopotamia Oradea Magnolia Center 3.99 4.3 
+Pizzarelli Pizza Bar Oradea 3.99 4.3 
+Hanul cu Noroc 0.99 4.3 
+Mesopotamia-Oradea 3.99 4.3 
+Norema Restaurant 3.99 4.3 
+Spoon Bar And Grill 3.99 4.2 
+Ciresica Wine Shop 3.99 4.2 
+Piazza Unirii 3.99 4.1 
+La Turcu Kebap/Istanbul 2 3.99 4.0 
+Salad Box Lotus Oradea 3.99 4.0 
+Origins 3.99 3.9 
+Arome Bistro 3.99 3.9 
+Sago 3.99 3.9 
+Starbucks® Lotus 7.99 3.8 
+Burge RS 3.99 3.7 
+Pizzeria Cardinale 3.99 3.7 
+Pizza Mario Parcul Traian 5 3.6 
+Pizzeria Tineretului 0.99 3.6 
+LeVIV Lounge 0.99 3.4 
+Mexican Factory 0 3.2 
+Pizza Mario ERA 5 None 
+Pellini Evolution Trattoria 3.99 None 
+Tiltott Csíki Söröző Oradea 0.99 None 
+Gusto Pizza Service 0.99 None 
+Pizzeria Barese 0 None 
+Costelarie 0 None 
+Ristretto 3.99 None 
+Ristretto Pizza 3.99 None 
+Pizzeria Mamma Mia 0 None 
+Via29 7 None 
+JEROME 5.99 None 
+Pizza Zone 0.99 2.8 
+Just Pizza by Adriano 0.99 2.8 
+Pizza Mario Auchan 5 2.8 
+Marty Restaurants Oradea 0 2.7 
+Cooper Food 0.99 2.3 
+Dock Bistro&Bar 3.99 4.4 
+Dripper The Factory 3.99 5.0 
+Weight Loss Bistro 3.99 5.0 
+Brioseria Gloria 3.99 5.0 
+Placintescu Rogerius 3.99 5.0 
+Captain Bean Oradea 3.99 4.9 
+Eat IT 3.99 4.9 
+Placintescu 3.99 4.9 
+Placintaria Merme 3.99 4.8 
+Vezuv Flavour Artisans 3.99 4.7 
+Placintescu Gara 3.99 4.7 
+Cyrano 3.99 4.7 
+Cofetaria Scala 3.99 4.7 
+Spezia 3.99 4.7 
+Patiseria Katerina 3.99 4.7 
+Papabox Oradea 7 4.6 
+SNOOZZ 8 4.6 
+Di Luca 3.99 4.6 
+Mexicanos 3.99 4.5 
+207 - Pizza&More 3.99 4.5 
+Haifa 3.99 4.4 
+Pauza Mica by Selgros Oradea 3.99 4.4 
+Origins Centru 3.99 4.4 
+Black Eagle Restaurant 3.99 4.4 
+Spartan Auchan Oradea 3.99 4.3 
+Flavours Bistro 3.99 4.3 
+La Cuptor - Pizzeria Restaurant 4 4.3 
+Frituur by Atelier Gurmand 3.99 4.2 
+Prime Burger Oradea 3.99 4.2 
+Mira 3.99 3.9 
+Bistro Cardinale 3.99 3.8 
+The Burger Joint 0.99 3.5 
+Butoiul De Aur Pizza&Pasta 4.99 3.4 
+La Piadineria 0.99 3.2 
+Sancho`s Burrito 4.99 None 
+Pasta Nostra 4 None 
+Odiseea 7 None 
+Picnic Bistro 3.99 None 
+Fresco Piatto 0 None 
+Yuzu Flavours Ferdinand 3.99 None 
+Origini 3.99 None 
+Yuzu Flavours Transilvaniei 3.99 None 
+Tummy Vegan & More 3.99 None 
+Restaurant Beiu 3.99 None 
+Mono`s  None 
+Lucapiero Pizza 4.99 2.8 
+La Papi Meniul Zilei 4.99 2.6 
+Ace Pizza 4.99 2.6 
+La Vitta e Bella 4.99 2.4 
+Don Giovaneli 4.99 2.1 
+Cox 4.99 2.1 
+Billioner doner kebab 4.99 2.1 
+Restaurant Traditional 100% 3.99 2.1 
+Blit`z Meniu Zilei! 4.99 2.0 
+Bavaria 4.99 2.0 
+Why now pizza 4.99 1.9 
+Viggo 4.99 1.8 
+Queens pizza pasta 4.99 1.7 
+Bio Green Garden  1.6 
+The Pizza Effect 4.99 1.6 
+Pizza Point 4.99 1.5 
+Pizza e Panino by la Dani 4.99 1.4 
+La Spaghetti 0.99 1.4 
+Wuhan Street Food 4.99 1.3 
+Enjoy 4.99 1.3 
+La Papi pizza service 0.99 1.2 
+Corona Kebab 4.99 1.0 
+sibiu 
+Restaurant Livrare Stele 
+Music Pub 5.99 4.9 
+KFC Sibiu 8.99 None 
+Cafe Wien 5.99 4.6 
+Turkish Kebab & Shaorma 5.99 4.5 
+La Arhive 9 4.4 
+Mo`s Burgers 9 4.1 
+Super Mama Dumbravii 9 4.0 
+Sandwich Pub 10 4.8 
+Casa Frieda Delivery 5.99 4.7 
+Yummy Yang City 8 4.6 
+Kulinarium 5.99 4.5 
+Benjamin Steakhouse 5.99 4.4 
+El Gringo 5.99 4.4 
+Cabana Valea Aurie 9 4.3 
+Patata 5.99 4.9 
+Famous Waffles Promenada Sibiu 5.99 4.8 
+La Delu Pizzeru` 4.99 4.8 
+Rinto Pizza 3.99 4.8 
+Chifla Maestro Sibiu 5.99 4.8 
+Delicio Sibiu 5.99 4.8 
+La Piadina 5.99 4.8 
+I Love Schnitzel 5.99 4.7 
+Tutti 5.99 4.7 
+Pizzeria Maestro Sibiu 5.99 4.7 
+Restaurant The Wok 10 4.7 
+Burgerzen 7.99 4.6 
+Pep&Pepper Promenada Mall 5.99 4.6 
+Mesopotamia - Promenada Sibiu 6.99 4.6 
+Enjoy Sushi Sibiu 5.99 4.6 
+Pep&Pepper Shopping City Mall 5.99 4.6 
+Pizza by Tango 5.99 4.6 
+Grand Plaza 10 4.6 
+Starbucks® Promenada Mall 8.99 4.6 
+Kathmandu 5.99 4.6 
+Cartofisserie Sibiu Shopping City 5.99 4.6 
+Pizzeria Napoli 5.99 4.6 
+Noodle Pack Promenada Sibiu 5.99 4.5 
+Florian Shaorma 5.99 4.5 
+Joyme Pub 5.99 4.5 
+Cartofisserie - Promenada Sibiu 5.99 4.5 
+PizzArt 5.99 4.5 
+Black Cat- goodies & coffee 5.99 4.5 
+Izi D`Oro 0 4.5 
+Summer breeze 5.99 4.5 
+ASIAN Box Promenada Mall 5.99 4.5 
+Salad Box Sibiu Promenada Mall 5.99 4.5 
+Restaurant “La Dobrun” 5.99 4.5 
+Play Off 5.99 4.5 
+Jap 5.99 4.5 
+Taco Bell Sibiu 8.99 4.4 
+Mesopotamia - Shopping City Sibiu 6.99 4.4 
+DAbo Doner Terezian 5.99 4.4 
+Bubi`s Ice Rolls 5.99 4.4 
+Rigatoni Pasta Bar Sibiu 5.99 4.4 
+Casa Romana 5 4.4 
+Domino`s Pizza Sibiu 5.95 4.4 
+Viva Spania 5.99 4.4 
+Shish Shaorma Kebab 5.99 4.4 
+Atrium Cafe 5.99 4.4 
+Restaurant Atractiv 6.99 4.4 
+Wow 5.99 4.3 
+Delis Restaurant 5.99 4.3 
+Sushi Master Sibiu 5.99 4.3 
+City Burger Promenada 5.99 4.3 
+City Burger 5.99 4.3 
+Giardino 5.99 4.2 
+La Pizza Napoletana 5.99 4.2 
+Ruff Burger 10 4.2 
+Pizza Bonita Sibiu 5.99 4.2 
+Turtha Grill 5.99 4.2 
+Ikura Sushi Sibiu 8 4.2 
+DAbo Doner Victoriei Sibiu 5.99 4.1 
+Pizza Time 0 4.1 
+Union 5.99 4.1 
+Restaurant Korona 5.99 4.1 
+Chopstix Sibiu Promenada 5.99 4.1 
+Cotton 5.99 4.1 
+Salad Box Shopping City Sibiu 5.99 4.1 
+Crazy Pizza 3.99 4.1 
+Time to Burger 0 4.0 
+DAbo Doner Milea Sibiu 5.99 4.0 
+Pizza Ok 3 4.0 
+Lili`s Delivery 7.99 4.0 
+Zestrea Restaurant Romanesc 5.99 4.0 
+La Pizzeti 40 4.0 
+Carmen s catering 5.99 3.9 
+Art in Burgers 5.99 3.9 
+Pizza Rosso 3 3.8 
+La Rambla 5.99 3.7 
+Restaurant History 0 3.7 
+Pronto Pizza Sibiu 3.99 3.6 
+Trattoria Time 0 3.6 
+Mr. Meat Kebap and Shaorma Hermannstadt 5 3.4 
+Ruff Pizza & Burger 10 3.4 
+El Cocinero Pasta & More 3 3.3 
+Trattoria dei Fiori Cisnadie 4 None 
+Time for Salads 0 None 
+McDonald’s Sibiu 9.99 None 
+Hug the Plate Sibiu 6.99 None 
+Zupp`art 5.99 4.9 
+Batranu` Sas Food Sibiu 6.99 None 
+Shaka Bowl Mihai Viteazul 5.99 4.7 
+The Corner Factory 5.99 4.7 
+BASAK 5.99 5.0 
+Best Western Silva Hotel 5.99 4.9 
+DOC S KEBAB 5.99 4.9 
+Gogosh Coffee&Donuts 5.99 4.8 
+Avocado 5.99 4.8 
+MooZ 5.99 4.8 
+Charlie`s Coffee & Brunch 5.99 4.8 
+Delicii Sibiene 5.99 4.8 
+Pizza Osteria H 5.99 4.8 
+Osushi Sibiu 5.99 4.8 
+Flamingo 5.99 4.8 
+Restaurant Pasaj 5.99 4.7 
+Bistro 50 5.99 4.7 
+Pizza Baci 5.99 4.7 
+Crama Sibiana 12 4.7 
+Lor.And 5.99 4.7 
+Gulyas Master 5.99 4.6 
+Restaurant Caru cu Flori 5.99 4.6 
+Pizzeria Da Vinci 5.99 4.6 
+Senneville Sibiu 2 5.99 4.6 
+Kombinat Gastro-Brewery 5.99 4.6 
+Speedy Pizza 5.99 4.6 
+Turtha Sweet & Savory 5.99 4.6 
+Naturo Healthy Food 5.99 4.6 
+Antico Napoli 5.99 4.6 
+Amas Pub 5.99 4.6 
+Hochmeister 5.99 4.5 
+Insieme Ristorante 5.99 4.5 
+Marietto 10 4.5 
+Jar si Bere 5.99 4.5 
+Restaurant Hera 5.99 4.5 
+Urban Food 5.99 4.5 
+Food Factory 5 4.4 
+Restaurant Adi & Nicol 5.99 4.4 
+Toto Pizza  4.4 
+Joy Burger & Wings 5 4.4 
+Local Sibiu 5.99 4.4 
+Cartofioru` Sibian 5.99 4.4 
+Grizzly Pizza 5.99 4.4 
+Crama Ileana 5.99 4.4 
+HOLA Paella & Tortilla 5.99 4.3 
+Langosh to GO 5.99 4.3 
+Bun de tot 10 4.3 
+Don Pizzone 4.99 4.3 
+Prepelitescu 12 4.3 
+Joy Pizza 5 4.2 
+Los Pollos Hermanos 5 4.2 
+Mr. Chicken 4.9 4.2 
+Lin-Go 4 4.2 
+Senneville Sibiu, langa Carrefour 5.99 4.2 
+Mexican Food Sibiu 5.99 4.1 
+Lili`s 5.99 4.1 
+Pepperoni 4.99 4.1 
+Hermania 5.99 4.1 
+Terasa Sibiana 5.99 4.0 
+Starbucks® Piata Mare 8.99 4.0 
+Imperium Pub 5.99 4.0 
+Rabbit Soup & Hole 7 3.9 
+Levant fast food &Shaorma 5.99 3.9 
+Speedy Pizza Delivery 6 3.9 
+Gastro Bistro & To Go 3.99 3.8 
+Back Shawarma 5.99 3.8 
+Waffles, Crepes & More 5.99 3.7 
+Gyros King Shopping City Sibiu 5.99 3.7 
+Tasty 4.99 3.6 
+Turkish Kebab Delivery 15 3.6 
+Taqueria 5.99 3.5 
+Bring Pizza & Burgers 4.99 3.4 
+Bella Italia Express Kaufland Sibiu 5.99 3.2 
+Restaurant & Pizza Hot 8 3.2 
+SushiVo Sibiu 5.99 None 
+Sweetium 5.99 None 
+Spartan Sibiu 6.99 None 
+FitFoodWay 5.99 None 
+Hug the Mug 6.99 None 
+Pizzeria Diavola Sibiu 5 None 
+n`Joy Plateaux 5 None 
+PizzaFit 5.99 None 
+LOOK CHEF 5.99 3.0 
+Naf Naf 5.99 None 
+Ellada Bakery 5.99 None 
+Yin & Yang Coffee 5 None 
+Subway Sibiu 6.99 None 
+Pranz de la Batranu` Sas 5.99 None 
+Rai Sushy 5.99 None 
+deva 
+Restaurant Livrare Stele 
+BoRD13 0 4.9 
+Fried Chicken  4.7 
+McDonald’s Deva 9.99 4.4 
+KFC Deva 8.99 4.2 
+La Bunica  4.1 
+Pizza Speed 0 4.8 
+Pomodoro 0 5.0 
+So Good Bubble Waffle 5.99 4.8 
+Restaurant Castelo 5.99 4.8 
+Restaurant Perla 5.99 4.8 
+Mesopotamia - Shopping City Deva 6.99 4.7 
+ASIAN Box Deva 5.99 4.6 
+Restaurant Capone 5 4.6 
+Cofetaria ARTA - Atelier de Dulce 5.99 4.5 
+Pasta & Salads Grill House Grande 0 4.5 
+McPoc 5.99 4.4 
+Vikings - Carne pe jar 5.99 4.4 
+Kalia 5.99 4.4 
+Noodle Pack Shopping City Deva 5.99 4.3 
+Spartan Deva 5.99 4.3 
+Griona Panini & Tartar Bar 5.99 4.1 
+Cartofisserie Deva Shopping City 5.99 4.1 
+Pizzeria De la Casa 0 3.9 
+Aventura International Cuisine 0 3.8 
+Restaurant Grande 0 3.7 
+Burger Grill House Grande 0 3.7 
+Pizzeria La Familia 5 3.5 
+Grill House Grande 0 3.4 
+Restaurant Chinezesc XiLai DHS 1.99 None 
+Pizza Grill House Grande 0 3.0 
+Chicken Grande 0 None 
+Soup Grande 0 None 
+Burgers for Dinner 5 1.8 
+La Biscuiterie 5.99 5.0 
+What`s for Lunch 5.99 4.9 
+Royal Burger 4.99 4.8 
+Pizzeria Veneția 5.99 4.7 
+Placinte Padurenesti Feregi 5.99 4.4 
+Restaurant Colection 5.99 4.4 
+Casa Ardeleneasca Deva 5.99 4.3 
+Subway Deva 6.99 4.3 
+Salad Box Shopping City Deva 5.99 4.3 
+Chef`s Wine & Dine 5.99 4.2 
+Chef`s Bite & Go 5.99 3.4 
+Sufertas 6 None 
+Cofetaria ARTA Eminescu - Atelier de Dulce 5.99 2.4 
+alba-iulia 
+Restaurant Livrare Stele 
+Dabo Doner Alba Iulia 8.99 4.2 
+Salad Box Alba Iulia 6 4.2 
+Enjoy Pizza 7.99 4.2 
+Noodle Pack Alba Iulia Mall 6 4.1 
+Pizzeria Maestro Alba Iulia 0 3.9 
+PIZZANO 7 3.9 
+Panoramic Bar&Grill 4.99 4.8 
+PAPABOX 4.99 4.1 
+Donuterie Alba Iulia 10 None 
+Pub 13 4.99 None 
+baia-mare 
+Restaurant Livrare Stele 
+Noodle Pack Vivo! Baia Mare 5.99 4.6 
+Mesopotamia Baia Mare 5.99 4.3 
+McDonald’s Baia Mare 8.99 4.2 
+KFC Baia Mare 8.99 None 
+Supreme Burger 10 None 
+Starbucks® Vivo 7.99 4.7 
+B-Owl 10.98 4.5 
+Pizza Colosseo 5 4.2 
+Pizza 15 8 4.2 
+Barbarossa 13 4.1 
+Cheesy Pasta Baia Mare 4.99 4.1 
+Log Out 5.99 4.1 
+Karaffe 5 3.7 
+Fly Food 8 None 
+Pizza Fan 8 None 
+Le Bistrot 6 None 
+Gran Gala 5 None 
+Tacos B-Owl 10.99 None 
+B-Owl Bagels 10.99 None 
+B-Owl Delivery 10.99 None 
+Porto 10 None 
+Tasty Food 5 None 
+Granitta Food Pub 4.99 None 
+Spartan Baia Mare 5.99 4.5 
+Greenys - Bistro social & sustenabil 5 4.7 
+Dabo Doner Baia Mare 10 4.5 
+La Tour 12 4.4 
+Millennium 12 4.2 
+Gemelli Delivery Baia Mare 0 4.1 
+Re-Fresh Juice 12 None 
+Clubul Campionilor 6 None 
+Sandwich House 4.99 None 
+ploiesti 
+Restaurant Livrare Stele 
+Jinx Delivery 1.99 4.1 
+KFC Ploiesti 8.99 None 
+Jerry`s Pizza Ploiesti 0 4.6 
+Mado Ploiesti 4.99 4.6 
+Casa Berarului 4.99 4.6 
+Manu BBQ 4.99 4.4 
+Taco Bell Ploiesti 8.99 4.4 
+Jerry`s Pizza Ploiesti Sud 0 4.2 
+Just Sushi 4.99 4.9 
+PrimalFood 4.99 4.9 
+Gigi Burger 4.99 4.8 
+Hygge Pizza Ploiesti Vest 4.99 4.8 
+Pizza Hut Delivery Ploiesti Omnia Winmarkt 8.99 4.8 
+Starbucks® Ploiesti Shopping City 7.99 4.7 
+Mesopotamia - Vasile Milea Ploiesti 5.99 4.7 
+Cartofisserie - AFI Ploiesti 4.99 4.7 
+Restaurant jerusalem 4.99 4.7 
+La Nasu Conasu 4.99 4.7 
+Famous Waffles- City Ploiesti 4.99 4.7 
+Pizza Nonna 4.99 4.7 
+Buns Burgers & Wings Ploiesti 4.99 4.7 
+Chopstix Ploiesti Shopping City 4.99 4.6 
+Mesopotamia - Afi Ploiesti 5.99 4.6 
+Famous Waffles-Afi Ploiesti 4.99 4.6 
+Cristal 4.99 4.6 
+Pep&Pepper Ploiesti 4.99 4.6 
+Famous Waffles- Jumbo Ploiesti 4.99 4.6 
+Maison des Crepes Ploiesti 4.99 4.6 
+Cartofisserie Shopping City Ploiesti 4.99 4.5 
+Doner Kebab 4.99 4.5 
+Cetate Vest 4.99 4.5 
+Curtea Berarilor Ploiesti 4.99 4.5 
+Restaurant Vegetarian 7 4.5 
+Four Star Pizza 0 4.5 
+Pizzeria La Colt 4.99 4.5 
+Noodle Pack Afi Ploiesti 4.99 4.5 
+KS Pub 4.99 4.4 
+Dim Sum Restaurant chinezesc 4.99 4.4 
+Edam Cris 4.99 4.4 
+Friendly Corner 4.99 4.4 
+Subway Ploiesti 5.99 4.4 
+Restaurant Berbec 7 4.4 
+Shaormeria Baneasa Piata Victoriei 4.99 4.3 
+Pizza La Famiglia 4.99 4.3 
+Starbucks®  Afi Palace 7.99 4.3 
+Fries Lord 4.99 4.2 
+Lazarini 0 4.2 
+Pizza Hut Ploiesti 8.99 4.2 
+Sushi Han 6 4.2 
+Shaorma Express 4.99 4.1 
+Ryu Tacos 4.99 4.1 
+Salad Box AFI Ploiesti 4.99 4.1 
+Griller Ploiesti 4.99 4.1 
+Manu BBQ fish 4.99 4.1 
+Turkish Doner Grill 4.99 4.1 
+Mamaliguta 6 4.1 
+Noodle Pack Shopping City Ploiesti 4.99 4.1 
+Wingaria 4.99 4.0 
+Pizza Central 7 4.0 
+Smashburg 4.99 4.0 
+Restaurant Traditional Magic  3.9 
+Shaorma la Tzanca 4.99 3.9 
+BEN’S CHICKERY 4.99 3.9 
+Restaurant Giulia 1.99 3.9 
+Salad Box Ploiesti 4.99 3.9 
+XS Cafe 4.99 3.9 
+Domino`s Pizza Ploiesti 5.95 3.9 
+West Pizza 5 3.9 
+Dublin Pub 4.99 3.9 
+Wokul magic  3.8 
+Restaurant Antique 1.99 3.8 
+Pizza Magica  3.4 
+McDonald`s Ploiesti 8.99 None 
+Spartan Ploiesti 5.99 4.3 
+Simply Delicious by ANNA 4.99 5.0 
+Gustarici by Adela 4.99 4.9 
+Four Star Pizza Delivery 4.99 4.9 
+Evacakehouse 4.99 4.9 
+Campus Grill 4.99 4.8 
+Donuterie Ploiesti 4.99 4.8 
+La grasu` 4.99 4.8 
+Schnitzel Haus Delivery 4.99 4.8 
+Bulevard Ok 4.99 4.8 
+Bistro Point 4.99 4.8 
+Catercarm 4.99 4.7 
+Bella Italia express Auchan Ploiesti 4.99 4.7 
+GIOYA 4.99 4.7 
+BISTRO VRT FAMILY 4.99 4.7 
+Choco Kebab & Bubble Waffles Ploiesti 4.99 4.7 
+Cofetaria ANA STATE 4.99 4.7 
+Mesopotamia - Prahova Value Centre 5.99 4.7 
+Pauza Mica by Selgros Ploiesti 4.99 4.6 
+HIGH HANGERS 4.99 4.6 
+Restaurant Family 4.99 4.6 
+VENTE 4.99 4.6 
+Burritos Guerrilla Ploiesti 4.99 4.6 
+Leff catering, bistro & caffe 4.99 4.6 
+Restaurant Traditional 4.99 4.6 
+Schnitzel Factory by Jinx 4.99 4.6 
+Hygge Pizza Ploiesti 4.99 4.6 
+Mesopotamia - Ploiesti Shopping City 5.99 4.5 
+Tres Olivos 0 4.5 
+Regina noptii - pui la jar 4.99 4.5 
+Porto Gallo- Vestului 4.99 4.4 
+Pizza Bonita Afi Ploiesti 4.99 4.4 
+Nabucco Pub & Grill 4.99 4.4 
+La Cucina 4.99 4.3 
+Autoservire Regina Noptii 4.99 4.3 
+La Bufet 4.99 4.3 
+Hygge Pizza Ploiesti Nord 4.99 4.3 
+Bunica Maria 4.99 4.3 
+Nykos grill Vestului 4.99 4.3 
+Hosteria Toscana 4.99 4.2 
+Crispy Brothers 4.99 4.2 
+Restaurant Terraverde 4.99 4.2 
+Papa La Zodiac 4.99 4.1 
+Best Bistro 5 4.1 
+Opa Opa Ploiesti 4.99 4.0 
+Banzai House 4.99 None 
+SanoPassFIT Ploiesti 0 None 
+Ely’s 4.99 None 
+Bistro Appetitus 4.99 None 
+craiova 
+Restaurant Livrare Stele 
+Burger King Craiova 9.99 4.2 
+Jerry`s Pizza Craiova 4.99 4.4 
+Platouri Craiova 0 5.0 
+Bottega Del Vino 5.99 4.9 
+Happy Waffle 5.99 4.9 
+ARTIZAN35 5.99 4.8 
+PICCOLA pizza e panini 5.99 4.8 
+Doux Eclair 5.99 4.8 
+Che CORNICIONE 5.99 4.8 
+The Bagel Factory 5.99 4.8 
+Vatra Romana  4.8 
+STAGERRY 5.99 4.8 
+Famous Waffles-Craiova 5.99 4.8 
+Barbacoa  4.8 
+Bon appetit pizza and more 5.99 4.8 
+BABS  4.7 
+TOKO 5.99 4.7 
+Pep&Pepper Craiova 5.99 4.7 
+Bubble Wobble  4.7 
+Potol 5.99 4.7 
+Ali Baba Pizza 5.99 4.7 
+Pizza Ini 5.99 4.7 
+Chifla Maestro Craiova 5.99 4.7 
+Sense 5.99 4.7 
+La Dadica 5.99 4.7 
+Bucurie pe felie 5.99 4.7 
+Pizzeria Maestro Craiova 5.99 4.7 
+Mazic Food Coffee 5.99 4.7 
+Mignon 5.99 4.7 
+Mydo 5.99 4.7 
+King Kebab 5.99 4.7 
+Alt 12 5.99 4.6 
+Pizza Peter`s 5.99 4.6 
+Manay Craiova 5.99 4.6 
+Pepperoni`s pizzeria 0 4.6 
+Mesopotamia - Electroputere Craiova 6.99 4.6 
+Ezi`s Pizza 5.99 4.6 
+12 doispe 5.99 4.6 
+One Garden  4.6 
+Mesopotamia Chicken - Mall Craiova 6.99 4.6 
+L`Assassino 0 4.6 
+Drive Grill Romanesti 5.99 4.6 
+Shaorma Viitoru 5.99 4.6 
+Trattoria Il Calcio 5.99 4.6 
+Boss Miniburgers Craiova 5.99 4.6 
+Ellipse 5.99 4.6 
+Nobel Cuisine by chef Andrei Voica 5.99 4.6 
+Fast Food Titan 5.99 4.6 
+Celentano 5.99 4.6 
+Starbucks®  Electroputere 8.99 4.5 
+Restaurant Relax 5.99 4.5 
+Casa Doner 5.99 4.5 
+Star Pub 5.99 4.5 
+Biergarten Craft Food & Beers 5.99 4.5 
+Pizza Charlie 0 4.5 
+Crush Bar & Lounge 5.99 4.5 
+Tucano Coffee 5.99 4.5 
+Cartofisserie Craiova - Electroputere Parc 5.99 4.5 
+Spartan Craiova 5.99 4.5 
+Carnivore 5.99 4.5 
+Starbucks®  Mercur 8.99 4.5 
+Pizza Ibiza 4 4.5 
+Dino 5.99 4.5 
+KeBun 5.99 4.5 
+LEE HO 5.99 4.4 
+Pasos 5.99 4.4 
+Moft Sweets 5.99 4.4 
+Pastabasta 5.99 4.4 
+Pizzeria Marsilia 5.99 4.4 
+C House Milano 5.99 4.4 
+Crama 91 5.99 4.4 
+Roata Bistro 5.99 4.4 
+The Temple Bar 5.99 4.4 
+Mandala Bistro 5.99 4.4 
+88`s Pub&Restaurant 5.99 4.4 
+Fabrica de cartofi 5.99 4.4 
+German Kebab 5.99 4.4 
+Pizza Hut Craiova 8.99 4.4 
+Ecler By Desert Time 5.99 4.3 
+Restaurant Ardelenesc Osanu Centru 5.99 4.3 
+Shaorma Sultan Brestei 5.99 4.3 
+Pizza Arena  4.3 
+Drive Grill Selgros 5.99 4.3 
+Restaurant Masetti 0 4.3 
+Pizzeria Masetti 0 4.3 
+Ribs House 5.99 4.3 
+Shaorma Sultan 4.99 4.3 
+Kud Fast Food 5.99 4.3 
+Restaurant OLIVE 5.99 4.3 
+Glow Pizza 5.99 4.3 
+Restaurant Orizont 5.99 4.2 
+Risto Pizza 5.99 4.2 
+Mood 5.99 4.2 
+Sofia bistro 5.99 4.2 
+MBI Lounge 5.99 4.2 
+La Stef Pizerie & Restaurant 5 4.2 
+Bulevard 5.99 4.2 
+Restaurant Clasic 5.99 4.2 
+Happy Bio Food 5.99 4.2 
+Food Strada Grill 5.99 4.2 
+Restaurant Rex(Casa Micle) 5.99 4.1 
+Celentano-Electroputere 5.99 4.1 
+Kan Kebab 5.99 4.1 
+Marie 5.99 4.1 
+PHO CHANH 5.99 4.1 
+Fabrika EP 5.99 4.1 
+Dong Fang Restaurant Chinezesc 7.99 4.1 
+La Rosa Dei Venti 5.99 4.1 
+Chopstix Electroputere 5.99 4.0 
+AL KEEF 5.99 4.0 
+Grand Caffe 5.99 4.0 
+Taco Bell Craiova 8.99 4.0 
+Holland Friets 5.99 3.9 
+Mythos 0 3.9 
+Burgerisimo 5.99 3.9 
+Food Strada Grill Golesti 5.99 3.9 
+Jugoslavia Restaurant Sarbesc 5.99 3.8 
+Weekend Start Burger 5.99 3.8 
+Pizza don Luciano 0 3.8 
+Pizza My Way 0 3.8 
+Restaurant La Dolce Vita  3.7 
+Pala Pizza & Grill 0 3.7 
+Amsterdam Burger by Holland 5.99 3.7 
+Geppetto 0 3.7 
+Sharp Burger 5.99 3.6 
+Shaorma Libaneza Shaaban  3.6 
+Pizza For You 5.99 3.5 
+La Rocca 0 3.5 
+Pizza di Napoli  3.3 
+Beat Box Burger 5.99 3.3 
+Corazon Mexicano Cantina 5.99 3.3 
+For All Garden 5.99 None 
+Leonidas Craiova 6.99 None 
+Galata Food Restaurant 14.99 None 
+McDonald`s Craiova 9.99 None 
+KFC Craiova 8.99 None 
+Masetti Grill 0 None 
+Garden House Butu 5.99 None 
+Rustik Burger 7.99 3.0 
+Fabrica de Cozonaci Massary 5.99 None 
+Marie 1941 5.99 None 
+Fast Time 5.99 None 
+Pranzul si Cina Bunicii 7.99 3.0 
+Restaurant Blu 5.99 None 
+Atipiko  None 
+Hanul Domnesc Craiova 5.99 2.9 
+Restaurant Le Baron 9 2.8 
+Soso Bubble Tea 5.99 5.0 
+Blend 5.99 4.9 
+Prajitoria de cafea Coffee Story 5.99 4.8 
+Langos Oltenesc 5.99 4.8 
+Mon Gourmet 5.99 4.8 
+Vechea Macelarie 5.99 4.8 
+Pizzeria Traian Craiova 5.99 4.7 
+TED`S Coffee 5.99 4.7 
+The Burgery 7 4.7 
+CRAFT 5.99 4.7 
+SchnitzL 5.99 4.6 
+Pub 300 5.99 4.6 
+Ponton Craiova 5.99 4.6 
+Bucataria La Rond 5.99 4.6 
+Pizza Forum 5.99 4.6 
+The Empanadas Factory Craiova 5.99 4.6 
+Traditional 210 5.99 4.6 
+Boomerang Pizza 5.99 4.6 
+Time 4Pizzza 5.99 4.5 
+Mrc House 5.99 4.5 
+English Park Canteen 5.99 4.5 
+Bella Italia Express Craiova 5.99 4.5 
+Autoservire M&D 5.99 4.5 
+Hand Made Pizza 5.99 4.5 
+Pizza Combo 5.99 4.5 
+SLIDER BURGER 5.99 4.5 
+Massary Pizzerie 5.99 4.5 
+Downtown contemporary bar&food 5.99 4.4 
+Terasa Osanu 5.99 4.4 
+Terasa La John 5.99 4.4 
+Sense by Night 9 4.4 
+Trattoria Chiriac 5.99 4.4 
+Casa Ghincea 5.99 4.4 
+SMO KIN 5.99 4.4 
+Terasa La Depou Gratar 5.99 4.4 
+Gourmet by Chef Munti 5.99 4.4 
+PADELLA 5.99 4.4 
+Casa Albota 5.99 4.3 
+Restaurant Ambra 5.99 4.3 
+Pit Stop Burger and More 5.99 4.2 
+Trattoria Chiriac Meniul Zilei 5.99 4.2 
+Barbeque Master 5.99 4.2 
+La Garage 4.99 4.2 
+Casa Nastase 5.99 4.2 
+Captain Bean Craiova 5.99 4.2 
+Ary Pan 5.99 4.1 
+Eclat Dessert Artisan 5.99 4.1 
+Elliniko Souvlaki 0 4.1 
+Curtea Berarilor Craiova 5.99 4.0 
+Pizza La`Madona 5.99 4.0 
+Restaurant Golden House 5.99 4.0 
+Prepelitescu Food Truck 5.99 4.0 
+La Creperie Craiova 5.99 4.0 
+Platouri pentru Bere 5.99 4.0 
+Shaorma Massary 5.99 4.0 
+MC Grill 5.99 3.9 
+Cofetaria Michelle 5.99 3.9 
+Pauza Mica by Selgros Craiova 5.99 3.8 
+Bella Italia Express Craiova Tineretului 5.99 3.7 
+Pizza Ibiza Night 9 3.5 
+HOP 5.99 3.5 
+Fast Food Good Times  3.3 
+Holland Doner 5.99 3.2 
+Portughez Grill Calea Bucuresti 4.99 None 
+Portughez Grill Decebal 4.99 None 
+Lady Cakes 7.99 None 
+Bucataria lui Peticel 4.99 None 
+Sweet Pizza 7 None 
+9A Street 5.99 None 
+La Tobogane 0 None 
+KASHO 5.99 None 
+Pico de Gallo Caravana 5.99 None 
+Proporzioni 5.99 None 
+2 Cocosi 5.99 None 
+CREMINO 5.99 None 
+La Papanu 5.99 None 
+The Golden Oven 5.99 None 
+Depozitul cu Pizza 5.99 None 
+Tarquin Tarley 5.99 None 
+Hygge Pizza Craiova 5.99 None 
+Pizza La Felie Luca si Luis 5.99 None 
+Courtyard Restaurant 5.99 None 
+beanbox URBAN COFFEE 5.99 None 
+La Spata 5.99 None 
+Terasa Planter`s 5.99 None 
+Restaurant La Butu 5.99 3.0 
+braila 
+Restaurant Livrare Stele 
+Pizzeria Arena 5 4.8 
+Shaormeria Trambita 5.99 4.7 
+Heavens 5.99 4.7 
+All Saints 6 4.6 
+Xin Yue Braila 5.99 4.6 
+Pub45 5.99 4.6 
+Yummy Yumm 5.99 4.5 
+Restaurant Bella Italia 0 4.5 
+Katana 5 4.5 
+Mesopotamia - Braila Mall 6.99 4.5 
+Pizza Radu 9.99 4.5 
+Casa Domneasca 0 4.3 
+RESTAURANT BARRIER 5.99 4.3 
+McDonald`s Braila 9.99 None 
+KFC Braila 8.99 None 
+Bunatati sub capac Braila 5 None 
+Mojar 5.99 4.8 
+Restaurant Zahana 6.99 4.6 
+Bella Italia Express Winmarkt 5.99 4.5 
+Bistro Ciocarlia 1.99 4.5 
+Spartan Braila 6.99 4.5 
+Bella Italia Express Viziru 5.99 4.5 
+Bella Italia Express Vidin 5.99 4.4 
+Sunrise Marina Wine Bistro 6.99 4.3 
+Exotic 5.99 4.3 
+Restaurant Valentino 5.99 4.2 
+Braseria Ialomita 0 4.1 
+Paradis Corso 5.99 4.1 
+Burgerway 4.99 3.7 
+Burger House Braila 5.99 3.4 
+Restaurant Autentic Braila 5.99 None 
+Millenials 1.99 None 
+KUI 4.99 None 
+Platouri Braila 4.99 None 
+Wingsup 4.99 None 
+Pastarella 4.99 None 
+Saladdish 4.99 None 
+Meniul zilei by KUI Braila 4.99 None 
+Unique Garden by Casa Artemis 5 None 
+Shaormeria La Bubu 15 None 
+resita 
+Restaurant Livrare Stele 
+Chef delivery 5 4.7 
+Papa Bun 5 4.4 
+Pizzeria & Trattoria Napoli 1 4.0 
+Street Food Napoli 1 3.4 
+MOFT Resita 0 None 
+botosani 
+Restaurant Livrare Stele 
+UNCLE VIC UNIRII 0 3.0 
+Leon Gourmet Bakery 0 4.7 
+La Strada 0 5.0 
+Bistro Toscana 0 None 
+Society 0 None 
+ON TIME SUSHI & PIZZA 0 4.3 
+Pizzeria Buenno 0 4.0 
+Facefood Romania  None 
+Enjoy Pub  None 
+KFC Botosani 8.99 4.5 
+Dabo Doner Botoșani 4.99 4.1 
+Toscana Delivery 0 None 
+Acropolis Greek 0 None 
+Turkis Sis Kebap 1.99 4.8 
+La Dolce Vita 2.99 4.7 
+Taverna Bella Napoli 1.99 3.9 
+NOD Cafe 0 None 
+Mesopotamia - Uvertura Mall Botosani 5.99 4.7 
+Spartan Botosani 5.99 4.0 
+UNCLE VIC BOULEVARD 0 None 
+Magia Gustului 0 None 
+Piadina La Barista  None 
+pitesti 
+Restaurant Livrare Stele 
+La Butoaie 0 3.7 
+Iraqy Fresh Food 4.99 4.3 
+Club Hush 4.99 None 
+Burgarie 4.99 None 
+McDonald`s Pitesti 8.99 4.5 
+Bistro 27 4.99 4.3 
+Atelier 4.99 4.2 
+Mexicano 4.99 None 
+Casa Argeseana Traditional 4.99 4.8 
+Noodle Pack Vivo! Pitesti 4.99 4.7 
+Pizzeria Maestro Pitesti 4.99 4.7 
+Mesopotamia Vivo Pitesti 5.99 4.6 
+Jerry`s Pizza Pitesti 0 4.6 
+La Tuciuri 5.99 4.1 
+KFC Pitesti 8.99 None 
+Famous Waffles - VIVO Pitesti 4.99 4.8 
+Casa Sattler  4.8 
+Dawi`s Pizza 3.99 4.7 
+E45 Restobar 4.99 4.6 
+Pizza Nostra Pannini & Delivery 7 4.6 
+Subway Pitesti 5.99 4.6 
+Pizza Bonita House Centru 6 4.6 
+Trattoria By Garden Pub 5.99 4.6 
+Pui la jar 5.99 4.5 
+Bibliotheque 5.99 4.5 
+Pizzeria Sapori Italia G&C 4.99 4.5 
+Pizza Bonita House Trivale 4.99 4.5 
+Chifla Maestro Pitesti 4.99 4.5 
+GARDEN PUB 5.99 4.5 
+Pizza Bonita House Victoriei 4.99 4.4 
+Hygge Pizza Pitesti 4.99 4.4 
+Salad Box Pitesti 4.99 4.4 
+Grota Rece 4.99 4.4 
+Oala cu Mancare de la Vera 0 4.4 
+Pensiunea Domneasca 4.99 4.4 
+Mr Crispy 5.99 4.3 
+Mr. Crispy 5.99 4.3 
+Express Food 4.99 4.0 
+La Vera Grill Teilor 0 4.0 
+Taverna Teilor by Vera 0 3.8 
+Pizza Bonita House Gara 6 3.6 
+Cornel Pub & Grill 1.99 3.5 
+Granny`s Pizza 1.99 3.4 
+La Vera Grill Gara 0 3.3 
+Zeus Food & Patiserie 4.99 None 
+Restaurant chinezesc 4.99 None 
+La Brisetto Bistro Lounge 4.99 None 
+Hanul Romanesc 4.99 None 
+Pizza Havana 2 None 
+Restaurant Matteo 4.99 None 
+Autoservire Central 5.99 4.9 
+Restaurant Nazar 4.99 4.6 
+PAPAO 4.99 4.6 
+Spartan Pitesti Vivo 5.99 4.4 
+Simigeria Pizza Luca 4.99 None 
+Ribana Eve Dulce 4.99 5.0 
+Starbucks® Trivale 7.99 4.7 
+Papa Land Pitesti 4.99 4.5 
+American BBQ 4.99 4.5 
+Pizza Bonita House Vivo Mall 4.99 4.4 
+Casa Munteneasca 4.99 4.4 
+Restaurant Zaraza 4.99 4.3 
+Qartier Grill 4.99 4.2 
+Casa Zian 4.99 3.8 
+Mon Amour Caffee Costa 4.99 None 
+Pizza Bonita House Exercitiu 4.99 None 
+Restaurant Forever Pitesti 4.99 None 
+Mayore by Iepurasul 4.99 None 
+THE BOXS 5 None 
+Pattaya Sushi&Noodles 4.99 None 
+Simigeria Pizza Luca Armand Calinescu 4.99 None 
+Simigeria Pizza Luca Fratii Golesti 4.99 None 
+ATO Sushi by Brisetto Bistro 4.99 None 
+targu-mures 
+Restaurant Livrare Stele 
+La Diavolo Home Delivery 4.99 4.7 
+Rexo Lunch Box 2.99 4.6 
+Casa Muresana Delivery 0 4.5 
+Taverna Diavolului 4.99 5.0 
+Bear King 5.99 4.4 
+Food Truck Eat & Go Delivery 0 4.2 
+Negro Restaurant 4.99 4.0 
+Pofte Tudor 0 2.7 
+Scarlet Soup 2.99 5.0 
+Bsweet & Yummy 4.99 4.8 
+Pizzeria Moga’SS 0 4.8 
+Famous Waffles Targul Mures 4.99 4.7 
+Poke Bowl 4.99 4.7 
+Bistro Theatre 4.99 4.7 
+Mesopotamia - Targu Mures 5.99 4.7 
+Sushi Master Targu Mures 5.99 4.6 
+Country Pub Shopping City 4.99 4.6 
+Traveler`s Coffee&Bistro 4.99 4.6 
+Restaurant Passion 4.99 4.6 
+Pizza Kaa 1.99 4.6 
+Starbucks® Shopping City 7.99 4.5 
+Quick Bites Delivery Targu Mures 4.99 4.5 
+Pizza Hut Delivery Targu Mures 8.99 4.5 
+Pelit Istanbul Kebab Delivery 4.99 4.5 
+Cartofisserie - Targu Mures Shopping City 4.99 4.5 
+Asian Box Tg Mures 4.99 4.4 
+La Diavolo Shopping City 4.99 4.4 
+Pizzeria Discordia Pub 4.99 4.4 
+Rexo Pizza 4.99 4.4 
+Food Truck Eat & Go Pancake 2.99 4.4 
+Spartan Targu Mures 4.99 4.3 
+Country Pub 0 4.3 
+Tomek Doner Kebab Istanbul 4.99 4.3 
+Pizza Bonita 4.99 4.3 
+CRISPY LAND 4.99 4.3 
+Restaurant Lyra 13 4.2 
+Chopstix ready to box Targu Mures 4.99 4.2 
+Royal Food Delivery 1.99 4.2 
+Pinsa 4.99 4.2 
+Sörpatika 0 4.1 
+Zip Cafe&Garden 0 4.1 
+The Healthy Food Station 2.99 4.1 
+LA PIADINA TARGU MURES 4.99 4.0 
+Pofte 7 Noiembrie 5 4.0 
+McDonald`s Targu Mures 8.99 3.9 
+Pelit Istanbul Kebab 9.99 3.9 
+Pizza Mix 4.99 3.9 
+REXO FRIED CHICKEN 4.99 3.8 
+Lyra`s Burgers 13 3.8 
+Quick Bites Targu Mures 5.99 3.8 
+Mini Clatitaria 4.99 3.7 
+VEGGIE PACK 2.99 3.6 
+Asian Food Delivery 2.99 3.6 
+CUBE 4.99 3.2 
+Quick Pizza Tg-Mures 5.99 None 
+G. 4.99 None 
+2Stix 4.99 None 
+Scarlet Cafe 2.99 3.0 
+Mini Gourmet Bistro 4.99 None 
+Avocado Dipp 4.99 None 
+KFC Targu Mures 8.99 None 
+Ikura Sushi Targu Mures 8 None 
+Made In Italy 4.99 None 
+The Cheesy Way Livezeni 4.99 None 
+Osteria Si 6.99 None 
+Restaurant Studio 4.99 None 
+Taverna Nykonos 6.9 None 
+Dabo Doner Targu-Mures 9.99 2.9 
+Macho Pizza Pub 0 2.2 
+Arthur`s Corner 10 4.7 
+W`Ana Eat? 4.99 4.3 
+Piaf Cafe 4.99 4.0 
+L`eclair 4.99 5.0 
+CASCO KITCHEN FAST FOOD 4.99 5.0 
+Tucs Pizza 0 4.9 
+Wok House 4.99 4.8 
+Lo Sfizio Cucina Italiana 8 4.8 
+Gelato & Cake House 4.99 4.7 
+5 To Go Targu Mures 4.99 4.7 
+The Cheesecake House 5.99 4.7 
+Turchis Food House 6 4.6 
+Ayla Burger & Kebab 4.99 4.5 
+Pauza Mica by Selgros Targu Mures 4.99 4.5 
+Giulieta catering 0 4.5 
+Salad Box Targu Mures 4.99 4.4 
+Pomodorino by Rockin` 3.99 4.4 
+Rockin` Bites 3.99 4.3 
+El Greco Gyros Traditional 4.99 4.3 
+La Denisa 0 4.3 
+Bee Coffee To Go 4.99 4.2 
+Anna`s Kitchen 6.99 4.2 
+Leo Delivery 4.99 4.1 
+Vintage Pizza Club 0 4.1 
+Zeppelin Bistro 4.99 4.1 
+Shaormeria Dac  4.1 
+Granpan D`or Cornisa 4.99 4.1 
+Pizza Kid 0 4.0 
+112 Coffeehouse 4.99 3.8 
+Mexican Flavours 4.99 3.1 
+Amicii club 66 4.99 None 
+Strit fud by Petry Targu Mures 5 None 
+Betty`s Cakes 5 None 
+Coffee Ilinca 4.99 None 
+Restaurant Vatman 4.99 None 
+Cloud 4.99 None 
+Bear King Breakfast 4.99 None 
+constanta 
+Restaurant Livrare Stele 
+KFC Constanta 8.99 None 
+Rumen Express  4.5 
+Restaurant Rumen 4.99 4.5 
+Nikos Greek Taverna Tomis 4.99 4.6 
+Nikos Greek & Fast City Park Mall 4.99 4.5 
+Jerry`s Pizza Constanta 0 4.4 
+OALA CU MERINDE 0 5.0 
+Griffin Coffee & Cocktails 4.99 5.0 
+Cinque Sensi 4.99 4.9 
+Uzina De Pizza 3.99 4.8 
+Alandala 4.99 4.8 
+Famous Waffles Constanta 4.99 4.8 
+Master Tacos 4.99 4.8 
+Jade Oriental Cafe 4.99 4.7 
+Enjoy SUSHI 4.99 4.7 
+Soupizza 4.99 4.7 
+La Grande Brioche 4.99 4.7 
+100% VEGAN 0 4.7 
+Maia Pizza 4.99 4.7 
+Restaurant Zebrano 4.99 4.7 
+Souvlaki Bar 4.99 4.7 
+Marinara 4.99 4.7 
+Fuji Sushi 5 4.7 
+Tara’s Gastro Pub 4.99 4.6 
+Asiatico Express 4.99 4.6 
+Sabroso la oala 0 4.6 
+Sabroso la Jar 0 4.5 
+Tacos King 4.99 4.5 
+Noodlz City Park Mall 4.99 4.5 
+Plic Drive Telegondola 4.99 4.5 
+Luna Bistro City Park Mall 4.99 4.5 
+BISTRO URBAN 16 4.99 4.5 
+Pep&Pepper City Park Mall 4.99 4.5 
+Reyna 4.99 4.5 
+Phoenix 4.99 4.5 
+Sali`s Plic Drive City 4.99 4.4 
+LUV Caffe & Bistro 4.99 4.4 
+Rumen Pizza 4.99 4.4 
+Famous Waffles- Vivo Mall 4.99 4.4 
+BARISSIMO 4.99 4.4 
+Taco Bell Vivo Constanta 8.99 4.4 
+Greek Food 4.99 4.4 
+Mesopotamia - Vivo Constanta 5.99 4.4 
+KIFLA  4.4 
+Pizza Hut Delivery Constanta 8.99 4.4 
+Desserts 4.99 4.4 
+Spartan Tomis 4.99 4.4 
+Noodle Pack City Park Constanta 4.99 4.3 
+Chopstix City Park Mall 4.99 4.3 
+Acqua Farina 6.99 4.3 
+Salad Box Vivo Constanta 4.99 4.3 
+Mesopotamia - City Park Constanta 5.99 4.3 
+Chopstix Vivo 4.99 4.3 
+Sabroso Express 4.99 4.3 
+Starbucks® Maritimo Shopping Center 7.99 4.3 
+Ana si Ion Restaurant 4.99 4.3 
+Mr.Waffle 4.99 4.3 
+BAZ Bistro - Constanta 4.99 4.2 
+Papanonica  4.2 
+Sushi Master Constanta 5.99 4.2 
+Black Angus Burgers 4.99 4.2 
+Xin Yue Constanta 4.99 4.2 
+Sweets by Barrels 0 4.2 
+Starbucks® Lapusneanu 7.99 4.2 
+Papa Bun 4.99 4.2 
+Cartofisserie - City Park Mall 4.99 4.2 
+Domino`s Pizza - Constanta 5.95 4.2 
+Splendid Chicken 5.99 4.2 
+Integra 4.99 4.1 
+Tokyo Rikiya by Japanese chefs 4.99 4.1 
+Spartan Constanta City 5.99 4.1 
+Starbucks® Tomis 7.99 4.1 
+Pizza Delicious 3.99 4.1 
+Pizza Hut Constanta 8.99 4.1 
+Trattoria Integra 4.99 4.1 
+Serenada Navodari 0 4.1 
+Pizzaro Delivery 5 4.1 
+Casa Pizzeria 5.99 4.1 
+Casa Romaneasca 5.99 4.1 
+Voila Lebanese and Sushi 4.99 4.1 
+Dabo Doner - Mircea 4.99 4.1 
+Bucataria Steluta 4.99 4.1 
+Salad Box City Park Mall 4.99 4.1 
+Restaurant Voila 4.99 4.1 
+BETA 5 4.1 
+Istanbul Kebap Ismail 4.99 4.0 
+Cherhana Pontica 4.99 4.0 
+Rustic Vivo Shopping Center Constanta 4.99 4.0 
+Cucina latina 4.99 4.0 
+Daisy Delights 4.99 4.0 
+Splendid Catering 5.99 4.0 
+Splendid Burgers 5.99 4.0 
+Zagora Constanta 4.99 4.0 
+Uncle Jack`s - bar & grill & sandwich 4.99 3.9 
+Ca pe Tava 4.99 3.9 
+Fabaria 4.99 3.9 
+Pizza Oscar 10 3.9 
+Sabroso Constanta 0 3.9 
+Shaorma to go 3.99 3.9 
+Pizza Evo 7 3.9 
+Splendid Shaormeria 5.99 3.8 
+ROKA Bistro 5 3.8 
+Zaffran 3.99 3.8 
+Restaurant Dubai 4.99 3.8 
+The Mood 4.99 3.8 
+Taco Bell City Park Mall Constanta 8.99 3.8 
+Bosfor Anatolya 5 3.7 
+Voila Fast Food 4.99 3.7 
+Restaurant Bueno 5 3.7 
+ALLEGRIA 4.99 3.7 
+Barrels Pub 4.99 3.7 
+Blue Acqua Restaurant Mamaia Lac Siutghiol 4.99 3.5 
+#BarrelsStreetFood 0 3.4 
+Ato Sushi by Portobella. 4.99 3.4 
+Restaurant chinezesc Tsingtao 6.99 3.3 
+Shaormeria Baneasa Cismelei 4.99 3.1 
+American Street`s 4.99 None 
+Pagaia Express 4.99 None 
+Magic Crispy delivery 6.99 3.0 
+McDonald`s Constanta 8.99 None 
+Valleta 5 None 
+Gourmeteria 5 None 
+Popote`s 5 None 
+La pachet 5 None 
+Rendez-Vous Restaurant 4.99 None 
+Knights Wrap 4.99 None 
+Zushi by Barrels 4.99 None 
+Musset by the Sea 4.99 None 
+Mon Frere Resto 4.99 None 
+BurgerDog 4.99 None 
+Chicken King 4.99 None 
+#Alldaylunch 4.99 None 
+Nonica Crisp&Grill  None 
+Ballans Mamaia 4.99 None 
+UNO Ristorante Pizzeria 4.99 None 
+Ikura Sushi Constanta 8 None 
+Chef`s Table by the Sea Express 4.99 2.6 
+Q`s Inn 4.99 4.5 
+Cuptorul Brancovenesc Constanta 4.99 5.0 
+Pui pe jar Navodari 4.99 4.9 
+Crispy Chicken 4.99 4.9 
+Sophie Patiserie Dezrobirii 4.99 4.9 
+Cofetaria Crizantema 4.99 4.9 
+Chicken Q 4.99 4.9 
+Lola Shaorma & Pizza 4.99 4.8 
+Crepestudio 4.99 4.8 
+Nom Nom Bistro 4.99 4.8 
+Cofetaria Giumbo 6.99 4.8 
+Antico Pizzeria 4.99 4.8 
+Bubble Waffles - Constanta 4.99 4.8 
+Classico | Pizza e Pasta 0.99 4.7 
+Gusturi locale din Bucovina Patriei 6.99 4.7 
+Restaurant Epoca de Aur 6.99 4.7 
+Alina - Atelier de Prajituri 3.99 4.7 
+Gusturi locale din Bucovina 6.99 4.7 
+Mnom-Mnom 4.99 4.7 
+Ceaunel 4.99 4.7 
+Casa Arad 4.99 4.7 
+Donerci Omer Usta 4.99 4.7 
+La Tavola 4.99 4.6 
+Autoservire Dafin 4.99 4.6 
+Hanul Domnesc 6.99 4.6 
+EnjoyBistrot 4.99 4.6 
+Dreams 5 4.6 
+Pofta de Verde 4.99 4.6 
+Aioli Bistro 5 4.6 
+Cofetaria Aida 4.99 4.6 
+Hat-Hat 4.99 4.6 
+Burritos Guerrilla Constanta 4.99 4.6 
+The Empanadas Factory Constanta 4.99 4.5 
+Dei Frati Constanta 4.99 4.5 
+Spartan Constanta Vivo 5.99 4.5 
+Corner Pub 4.99 4.5 
+Luna Bistro 4.99 4.5 
+Autoservire Eden 4.99 4.5 
+Ciorbik 5 4.5 
+Bel Eclair 4.99 4.5 
+Pastificio Al Mare 4.99 4.5 
+Rotiserie Orizont 4.99 4.4 
+Foarte Tare! baba novac 5.99 4.4 
+Subway Constanta 5.99 4.4 
+Spartan Dedeman Tomis 4.99 4.4 
+Restaurant Giumbo 6.99 4.4 
+Pui pe Jar Oborului Livrari 4.99 4.4 
+Maia Bakery 4.99 4.4 
+Paul City Constanta 6.99 4.4 
+Foarte Tare 4.99 4.4 
+Smoothie Store Constanta 4.99 4.4 
+Sushico by Pizzico 5 4.3 
+La lemne 0 4.3 
+Rustic City Park Constanta 4.99 4.3 
+Tacuba 4.99 4.3 
+La Ronda 7 4.3 
+Shaormeria Baneasa Constanta 4.99 4.3 
+Burgr Factory Constanta 4.99 4.3 
+Pur si simplu 4.99 4.2 
+Bella Italia Express Constanta 4.99 4.2 
+Don Corleone 5 4.2 
+Restaurant Curtea Brancoveneasca 4.99 4.1 
+Pauza Mica By Selgros Constanta 4.99 4.1 
+Tucano Coffee Philippines 4.99 4.1 
+Locanda252 4.99 4.1 
+Angolo Pizza & Pasta 4.99 4.1 
+Trattoria 5 minuti Constanta 4.99 4.1 
+Pui pe jar Ciresica 4.99 4.0 
+Autoservire Rapid 4.99 4.0 
+Osteria Gioia 4.99 4.0 
+Hermes 5 4.0 
+Ca la Mama Acasa 4.99 4.0 
+Arya Fresh Food Quisine 0 3.9 
+Chopstix Ready To Box - Tomis 4.99 3.9 
+Fratii Bucatari 4.99 3.8 
+Restaurant Ges 4.99 3.5 
+Restaurant Pizzico 5 3.4 
+Barrels Promenada 4.99 3.3 
+Mr Beef`s 0 3.3 
+Pescad`OR 0 3.2 
+Lighthouse Cafe 4.99 None 
+Patiserie Karim 4.99 3.0 
+Barrels Corner 4.99 None 
+Tia Gelateria 4.99 None 
+Moara Veche Duca 4.99 None 
+roka`ntina 5 None 
+Popina Bucatarie Locala 4.99 None 
+La Petre Pescarul 0 None 
+E11EVEN PUB BISTRO 4.99 None 
+Gogosica Fitosica 4.99 None 
+CAPSUNI DELICIOASE 4.99 None 
+PUI BENGOS 6 None 
+Culture Pub 4.99 2.7 
+suceava 
+Restaurant Livrare Stele 
+Pasha 0 4.0 
+Industrial Pizza 0 4.1 
+Souvlaki Akropoli Bucovina 0 4.2 
+Container Street Food 0 4.5 
+Zamca 0 None 
+Souvlaki Akropoli Marasesti 0 4.5 
+Albina Kebab  4.4 
+Bazzil 0 None 
+Lokal 0 None 
+ELLYADA Souflaky e Gyros 0 None 
+Noodle Pack Iulius Suceava 4.99 4.8 
+Mesopotamia - Suceava 5.99 4.7 
+Mado Suceava Iulius Mall 4.99 4.6 
+Cartofisserie Iulius Mall Suceava 4.99 4.6 
+Sushi Master Suceava 4.99 4.5 
+Restaurant Vama Veche 1.99 3.9 
+KFC Suceava 8.99 None 
+McDonald`s Suceava 8.99 None 
+Pepper  None 
+Manay 4.99 4.6 
+Vivendi 10 4.6 
+A&N La Radu 0 4.5 
+yumm: suceava 4.99 4.5 
+Sempre Pizza 0 4.2 
+Restaurant Chinezesc Lufu 4.99 4.2 
+Amadeus Pizza Kebab & More 1.99 3.8 
+Starbucks® Iulius Mall Suceava 7.99 3.5 
+Ikura Sushi Suceava 4.99 None 
+Petra Kebab 0 None 
+Bistro Pasha 0 None 
+Don Kebab 4.99 None 
+Spartan Iulius Mall Suceava 5.99 4.1 
+Bistro Forest 4.99 5.0 
+Dulcinella Suceava 4.99 4.9 
+Ceaunul Razesului 4.99 4.7 
+Terasa Roti Grill Metro 4.99 4.5 
+Sale e Pepe Iulius Mall 4.99 4.5 
+Spartan Kaufland Suceava 5.99 4.4 
+Sale e Pepe Shopping City 4.99 4.3 
+Muse The Bar 4.99 4.3 
+SOUVLAKI YANAKI 0 4.1 
+Terasa Roti Grill Ghe. Doja 4.99 4.0 
+Pizzeria Roti Grill Carrefour 5.99 None 
+Lapterra 1.99 None 
+Terasa Roti Grill Centru 4.99 None 
+Gourmet Burger 1.99 None 
+Pizzeria Roti Grill Shopping City 4.99 None 
+Cake and Roll Suceava 4.99 None 
+roman 
+Restaurant Livrare Stele 
+None None None 
+galati 
+Restaurant Livrare Stele 
+Royal Pizza 4.99 4.6 
+Dabistro 6.99 4.7 
+Tacos and Burgers 7 4.0 
+Friptura la Chifla Galati 2.99 None 
+Restaurant Ca Jou 2.99 4.3 
+McDonald`s Galati DT 3.99 4.3 
+Amadeus 2.99 None 
+Pizzeria Pizza Fest 6.5 4.7 
+KFC Galati 8.99 4.4 
+Spartan Galati 2.99 4.3 
+Restaurant Hazard 4.99 4.3 
+Riverside 4.99 4.2 
+Restaurant Orizont Galati 2.99 4.9 
+Pizza 1+1 4.99 4.9 
+Enjoy SUSHI 2.99 4.9 
+Express Pizza M19 2.99 4.9 
+Shaorma Spot 5 4.8 
+Famous Waffles-Galati 2.99 4.8 
+Restaurant Neacsu 2.99 4.8 
+Pizzeria la Metru Bun Bum by Pizza Fest 6.5 4.8 
+La Tribunal - Food&Cafe 2.99 4.7 
+Burger ManiaX 7 4.7 
+Bodega 2.99 4.7 
+Restaurant Terasa Tineretului 2.99 4.6 
+Sushi Master Galati 3.99 4.6 
+Bunatati sub capac 4.99 4.6 
+Pizzeria Mamma Mia 2.99 4.6 
+C House Galati 2.99 4.6 
+Diciassette Pizzeria Napoletana Delivery 10 4.6 
+Ciorbe La Ion 7.99 4.6 
+Jonny`s Pizza&Grill 8.99 4.6 
+Wok and Noodels 9 4.6 
+ABC JAR - Tiglina 10 4.5 
+Shaormeria Trambita 2.99 4.5 
+PizzaDe10.ro 5.95 4.5 
+Pizzeria da l’italiano 7 4.5 
+Restaurant Stage 6.99 4.5 
+Rainbow Orient 5 4.5 
+Noodlz Galati 2.99 4.5 
+Starbucks® Shopping City 3.99 4.5 
+Blue Acqua Restaurant Faleza Dunarii 2.99 4.5 
+Betty`s 2.99 4.5 
+La Croquette 2.99 4.5 
+Teatris Restaurant - Parc Eminescu Galati 2.99 4.5 
+La Rondou 2.99 4.5 
+Craft -Rebel Food 6 4.4 
+D`Agostino Delivery 3.99 4.4 
+The Docks pub & grill (Popasul de la Dunare) 4.99 4.4 
+Gazetto 10 4.4 
+Restaurant Chinezesc Nihao 1.99 4.4 
+Pizzeria Calabria Galati 0 4.4 
+Helios Greek Food 7 4.4 
+Pizza Hut Galati 8.99 4.4 
+Ikura Sushi Galati 5.99 4.4 
+Pizzeria D`Agostino 2.99 4.4 
+Grill Domnesc 7.99 4.4 
+Burgeria D`Agostino 2.99 4.4 
+Mesopotamia - Shopping City Galati 2.99 4.4 
+Passage 5 4.4 
+Sam Wedges by Wolves 2.99 4.4 
+KUI Galati 6.99 4.3 
+Platouri Galati 6.99 4.3 
+Dabo Galati 2.99 4.3 
+Shaormeria Baneasa Galati Doja 2.99 4.3 
+Stup 2.99 4.3 
+Restaurant Chinezesc Panda 0 4.3 
+Indian Taste by Wolves 2.99 4.2 
+Restaurant Cosoreanu 1970 7.99 4.2 
+Shaormeria Baneasa Galati Micro18 2.99 4.2 
+Spartan Galati Mall 2.99 4.2 
+Burgeria D`Agostino Delivery 3.99 4.1 
+Versus Pub 5 4.1 
+Wow Pizza 5 4.1 
+ABC JAR - Azaclau 10 4.0 
+Paste Italiene&Salate 2.99 4.0 
+Traditional La Neacsu 2.99 3.9 
+Pastarella Galati 6.99 3.8 
+New York Pub Galați 2.99 3.7 
+King`s Pub 6.99 3.6 
+Top Fast Food 5 3.5 
+Family grill 5.99 3.5 
+Burgerway Galati 6.99 3.3 
+Mancaruri Pescaresti 2.99 None 
+FuelBox 5 None 
+Wingsup Galati 6.99 None 
+Saladdish Galati 6.99 None 
+Pizzeria la Vecinul 6.99 None 
+Full House Galati 2.99 None 
+UPPER STEAK AND WINE BAR 2.99 2.8 
+Union Jack 8 4.6 
+EATALIAN PIZZA by Union Jack 8 4.5 
+Fresh Basarabiei 2.99 None 
+FUEL 2.99 4.7 
+DODO Food 7.99 5.0 
+Pizzeria Nr.1 7 4.9 
+Chef Gigi 2.99 4.8 
+Brutaria Domneasca 2.99 4.8 
+Dulce by Paula 2.99 4.8 
+Pizza hi5  4.7 
+Bulli Grill 2.99 4.7 
+YAMI FOOD GALATI 2.99 4.7 
+Cofetaria Andra Exclusiv 2.99 4.7 
+Express Pizza M40 2.99 4.6 
+Dream Coffee 2.99 4.6 
+Breakfast by Dabi 6.99 4.6 
+The Lofters 2.99 4.6 
+Pizza cu Gust Galati 2.99 4.6 
+Samiro Pizza 7 4.5 
+Mini Burgers by Dabi 6.99 4.5 
+Farm to table 6.99 4.5 
+Ciorba Buna Fierbinte 4.99 4.5 
+Eveline Fresh 2.99 4.5 
+Restaurant Magnus 2.99 4.5 
+Gradinita 2.99 4.4 
+Cafe Anglais Restaurant 2.99 4.4 
+Droster Kebab 2.99 4.4 
+Protein Station 2.99 4.4 
+Give Me 5 2.99 4.4 
+Malu 2.99 4.4 
+City Campus by Freddy`s 2.99 4.3 
+Pizza cu Gust 5 4.3 
+Gratarul cu Jar by Picnic House 2.99 4.3 
+OldTown Coffee Shop 2.99 4.3 
+Daily Pub 6 4.3 
+Romans 2.99 4.2 
+Ciorba Buna Fierbinte Piata Centrala 4.99 4.1 
+Chopstix-Galati 2.99 4.1 
+OSPAT DE DAC 2.99 4.1 
+Picnic. Bubble. Bar 2.99 3.9 
+CASA ROMANEASCA 10 3.9 
+Tawouk Arabic Food 2.99 3.8 
+ADA Restaurant 2.99 3.6 
+Dunarea Catering 0 3.6 
+ABC FOOD 10 3.4 
+Mc Pizza 5 3.3 
+Gamberetti 7 3.2 
+Lalolon kitchen 1.99 None 
+Fresh Saturn 2.99 None 
+Sushify 5 None 
+Patru Pesti 7.99 None 
+Ser Coffee 2 GO 2.99 None 
+COZY HOUSE 5.99 None 
+Coffee Days 2.99 None 
+Coffee Days Port 2.99 None 
+J`adore Pub 2.99 None 
+La DODO 7.99 None 
+Prajituri ca la Mama Acasa 2.99 None 
+Shaorma CuDeToate 2.99 None 
+KINGS COFFE  AND FOOD 6 None 
+SOTTOZERO 10 None 
+TEDS COFFEE CO 2.99 None 
+La Tosta Loca 7 None 
+Al Dolcetto 7 None 
+ramnicu-valcea 
+Restaurant Livrare Stele 
+La Trattoria 0 5.0 
+Domino`s Pizza Valcea 5.95 4.6 
+Filos Greek Cuisine 5.99 4.5 
+Pizzeria Maestro Rm. Valcea  4.5 
+Famous Waffles-City Valcea 5.99 4.5 
+Mesopotamia - Shopping City Ramnicu Valcea 6.99 4.4 
+Dabo Doner 5 4.4 
+GUSTOSO 5.99 4.3 
+OK Castel 5 4.3 
+Xin Yue 5.99 4.2 
+Cheers Burger&Pizza 7 4.0 
+Brother`s Pub 5 4.0 
+Mesopotamia - Ramnicu Valcea 6.99 4.0 
+Street Pub 5 4.0 
+Restaurant Levant 12 3.9 
+Cartofisserie Ramnicu Valcea 5.99 3.6 
+Bistro le Burger 1.99 3.6 
+Winner`s Pub 0 3.5 
+OK Platouri 5 None 
+Hanul Haiducilor 5 3.0 
+OK Pizza 5 None 
+Han Platouri 5 None 
+KFC Valcea 8.99 None 
+Restaurant Kyos Cuisine Bar 6.99 None 
+McDonald`s Rm Valcea 9.99 None 
+Chifla Maestro Rm.Valcea  None 
+CREMERIA MARCO 5.99 None 
+L`Academia del Gusto 1.99 2.6 
+OOPS! 5.99 4.7 
+DoVo Cake 5.99 4.5 
+Restaurant Belvedere 5.99 4.5 
+Bella Italia Express Valcea (Shopping City) 5.99 4.3 
+Zi de zi 5.99 4.0 
+MR. CRISPY 5.99 3.2 
+Bucatarul Meu Ramnicu Valcea 1.99 None 
+Pizza Maxxa Shaorma 5.99 None 
+Stage Pizza 5.99 None 
+Crypto Burgers 5.99 None 
+Royal Burgers 5.99 None 
+Pepito 5.99 None 
+bacau 
+Restaurant Livrare Stele 
+Lake House 4.99 5.0 
+Kebab by Orient 2.99 4.7 
+Orient Food 2.99 4.6 
+Vaca Grasa 4.99 4.5 
+2 Bursuci 2.99 4.4 
+Sisters` Grill 2.99 4.3 
+Pizza Hut Bacau 8.99 4.3 
+Gogo Pizza Delivery 0 4.2 
+KFC Bacau 8.99 4.1 
+Happy Noodles Centru 2.99 4.1 
+Beraria Valhalla 2.99 3.8 
+Snobbish Burger  3.7 
+McDonald`s Bacau 8.99 None 
+Spicy 0 None 
+Restaurant Miorita 0 None 
+Piazzetta 6.99 None 
+Beraria cu noroc 2.99 4.8 
+La Irina 2.99 4.7 
+Heaven’s Pizza 4.99 4.7 
+Sushi Master Bacau 4.99 4.6 
+Cartuf 2.99 4.5 
+IL Campione 2.99 4.5 
+Pizzeria Maestro Bacau 2.99 4.5 
+Restaurant Hamlet 0 4.5 
+Migos Pizza  4.5 
+Heaven`s Burger 4.99 4.5 
+Restaurant Vialux 0 4.5 
+Pizzeria Oscar 128 0 4.4 
+Mesopotamia - Centru Bacau 2.99 4.4 
+Manhattan Pub&Pizza 0 4.4 
+Pizzeria Oscar 128 pizza la cuptor pe lemne 2.99 4.3 
+Pizzeria Joker 5 4.3 
+Jessybell 2.99 4.2 
+Osteria Roma 2.99 4.2 
+Grangourmet 2.99 4.2 
+2 Bursuci Mall 2.99 4.0 
+Taco Bell Arena Mall Bacau 8.99 4.0 
+Amato Fast Food 2.99 3.8 
+River Pub 2.99 3.8 
+La Hanovra 2.99 3.4 
+Spicy`s Pasta 0 None 
+Spicy`s Pizza 0 None 
+Chifla Maestro Bacau 2.99 None 
+Tihna 2.99 None 
+Umbrella 2.99 None 
+Bettola Steak House 2.99 None 
+La Bettola del Parco 2.99 None 
+Pizza Pitzoni 2.99 None 
+Guddzilla 2.99 None 
+Ciorbaria Miorita 0 None 
+Wok of Noodles 2.99 None 
+Fries for All 2.99 None 
+Dragon Wok 2.99 None 
+Bonito 2.99 None 
+Peste la gratar by Bonito 2.99 None 
+Happy Noodles Mall 2.99 None 
+Novel Pizza 0 None 
+Bonito Shaorma & Grill 2.99 None 
+Pizza 4 All by Bonito 0 None 
+Pizza Capricia 0 None 
+Speedy`s Pizza 0 None 
+Turk Shaorma Delivery 0 None 
+Pasta Fresca by Piazzetta 6.99 None 
+GIO Pub & Restaurant 2.99 None 
+Papino - Pizza la cuptor pe lemne 2.99 None 
+Pronto Pizza 2.99 None 
+Restaurant Andreea 2.99 None 
+Ikura Sushi Bacau 0 None 
+Pronto Pizza Delivery 6.99 None 
+Grill by Lake House 4.99 None 
+Mancare Taraneasca 6.99 None 
+Maxi Meniuri 6.99 None 
+Restaurant Pasaj 2.99 None 
+La Strada Bacau 2.99 None 
+Pops 2.99 None 
+Vitraj 0 None 
+Ospăț by Vitraj Restaurant & Lounge 0 None 
+Pizza Gepex 4.99 3.0 
+CAOS Gratar Delivery 1.99 4.8 
+Toto Pizza 2.99 5.0 
+Star Delice 2.99 4.9 
+Nord Bistro 2.99 4.8 
+La Bariera Fast Food 2.99 4.7 
+Hanzo Sushi 2.99 4.7 
+General Catering 2.99 4.7 
+Lyvvo Restaurant 0 4.6 
+Dulcinella Bacau 2.99 4.5 
+Hanovra 0 4.4 
+Hercule Bacau 2.99 4.3 
+Cathedrale Caffe 2.99 4.3 
+Mesopotamia - Arena Mall Bacau 2.99 4.3 
+Spartan Bacau 2.99 4.3 
+Pizza & Grill D17  3.9 
+Pinseria Romana Il Gladiatore 0 3.4 
+Bravia Caffe 2.99 None 
+Meso`s - Arena Mall Bacau 2.99 None 
+Gogo Asia  None 
+Fabrica de Paste 5 None 
+Tana di Lucio 2.99 None 
+Maria Catering 2.99 None 
+Rustic Simigerie Bacau 2.99 None 
+Heaven`s Catering 4.99 None 
+Capsunica 7.99 None 
+Coffii tu gou 2.99 None 
+Mama Mare 2.99 None 
+Urbo Parc 0 None 
+Pizzeria Maria 2.99 None 
+Pizza 21 2.99 None 
+Simigeria Pizza Luca Republicii 4.99 None 
+Simigeria Pizza Luca Marasesti 177 2.99 None 
+Simigeria Pizza Luca Marasesti 2.99 None 
+Doka Pan 2.99 None 
+MDK Coffee Point Tic Tac  None 
+MDK Coffee Point Piata Mare  None 
+MDK Coffee Point 9 Mai  None 
+Central Coffee to go  None 
+Cofetaria Corso Bacau 2.99 None 
+My Food 2.99 1.7 
+targu-jiu 
+Restaurant Livrare Stele 
+Pizzeria Maestro Targu Jiu 0 4.5 
+Pizza Hunter 1.99 4.3 
+Pizzeria Perugia 0 4.0 
+#Stradda Toast&Sandwich 0 4.0 
+La Pofticiosu` 1.99 2.4 
+Pizzeria Dolce Vita 1.99 None 
+drobeta-turnu-severin 
+Restaurant Livrare Stele 
+KFC Drobeta 8.99 4.6 
+Dooby Doner 5.99 4.8 
+The Doner 5.99 4.7 
+Pizza Grigo 4 4.5 
+Diplomat Foods 4 4.5 
+Klandestin Pub 5.99 4.5 
+Restaurant Gardu` Rosu 5.99 4.4 
+Taverna Sarbului 1.99 4.4 
+Stop 2 Go - fast food 5.99 4.0 
+Gyros Dunarea 5.99 None 
+PapaDan 5.99 4.7 
+Restaurant Rustic 5.99 4.7 
+Spartan Drobeta Turnu Severin 6.99 4.7 
+Restaurant Elite 5.99 4.6 
+Stage Pizza 5.99 4.6 
+Restaurant Carol 5.99 4.4 
+Irish Pub 5.99 4.1 
+Gelateria Matteo 5.99 4.0 
+Restaurant Dunarea Albastra 0 None 
+buzau 
+Restaurant Livrare Stele 
+KFC Buzau 8.99 4.0 
+Mado Buzau 4.99 4.8 
+Mc Pizza Buzau 0 4.6 
+Pizza cu gust 0 4.6 
+Sushi Ya 3.99 4.5 
+Mesopotamia - Shopping City Buzau 5.99 4.5 
+Bistro Junior 4.99 4.4 
+Club Caffe 4.99 4.4 
+Pizza Bonita Buzau 4.99 4.4 
+Pizza Hut Express 8.99 4.4 
+Kungfu King Shopping City Buzau 4.99 4.4 
+Norma Pentru Acasa 1.99 4.3 
+TO GO FOOD 4.99 4.1 
+Toledo Fresh 0 4.0 
+O`Brothers Social Pub 3.99 3.9 
+Fabrica de Burgeri 3.99 None 
+ZIGO Meet & Eat 3.99 None 
+McDonald`s Buzau 8.99 None 
+Pizza al Forno 4.99 None 
+Salad Food delivery 4.99 4.2 
+Spartan Buzau 5.99 4.1 
+Restaurant Brazuca 4.99 3.6 
+Sophia Brasserie & Café 4.99 3.2 
+Restaurant Edy Center 4.99 None 
+Ikura Sushi Buzau 5.99 None 
+Pizza cu Gust Buzau 4.99 None 
+slatina 
+Restaurant Livrare Stele 
+Happy Mix Grill 0 4.3 
+Casa David 4.99 4.2 
+Papa ca acasa 4.99 None 
+Pasta Restaurant Slatina 4.99 None 
